@@ -1,82 +1,86 @@
 [
   {
-    "time": 0.2,
+    "time": 0.09,
+    "text": "(You have no heart!)"
+  },
+  {
+    "time": 0.354,
     "text": "Yeah, I still love you, you can't know that yet (Can't know that yet)"
   },
   {
-    "time": 2.27,
+    "time": 2.949,
     "text": "Your voice deteriorates in my head"
   },
   {
-    "time": 4.07,
-    "text": "I got no time to waste, that's just lately"
+    "time": 5.43,
+    "text": "I got no time to waste, that's just lately (That's just lately)"
   },
   {
-    "time": 5.3,
-    "text": "(That's just lately)"
-  },
-  {
-    "time": 5.7,
+    "time": 7.486,
     "text": "I got **** I don't want in my bed"
   },
   {
-    "time": 7.24,
+    "time": 9.592,
     "text": "You know exactly what you're doing, uh"
   },
   {
-    "time": 10.6,
+    "time": 14.257,
     "text": "You know exactly what you're doing, yeah"
   },
   {
-    "time": 13.29,
+    "time": 17.814,
     "text": "She don't give a **** (She don't give a ****)"
   },
   {
-    "time": 14.4,
+    "time": 19.322,
     "text": "She broke my heart but it got my money up (Got my money up)"
   },
   {
-    "time": 15.87,
+    "time": 21.285,
     "text": "And I think I smoked too much 'cause I can't run from you anymore"
   },
   {
-    "time": 17.81,
-    "text": "Behind closed doors I say, '****', Can't believe you'd do this to me'"
+    "time": 23.829,
+    "text": "Behind closed doors I say, \"Damn"
   },
   {
-    "time": 20.12,
+    "time": 25.462,
+    "text": "Can't believe you'd do this to me\""
+  },
+  {
+    "time": 26.95,
     "text": "She don't give a **** (She don't give a ****)"
   },
   {
-    "time": 21.1,
+    "time": 28.355,
     "text": "She broke my heart but it got my money up (Got my money up)"
   },
   {
-    "time": 22.6,
+    "time": 30.336,
     "text": "And I think I smoked too much 'cause I can't run from you anymore"
   },
   {
-    "time": 24.47,
-    "text": "Behind closed doors I say, '****'"
+    "time": 32.915,
+    "text": "Behind closed doors I say, \"Damn\""
   },
   {
-    "time": 26.3,
-    "text": "Behind closed doors I'm like, '****'"
+    "time": 35.162,
+    "text": "Behind closed doors I'm like, \"Damn\""
   },
   {
-    "time": 27.78,
+    "time": 37.193,
     "text": "I swear that you're only here when you need me"
   },
   {
-    "time": 29.38,
+    "time": 39.435,
     "text": "I swear that you're only here when you need me"
   },
   {
-    "time": 31.1,
+    "time": 41.742,
     "text": "I swear that you're only here when you need me"
   },
   {
-    "time": 32.6,
+    "time": 43.81,
     "text": "When it's convenient"
   }
 ]
