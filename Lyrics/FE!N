@@ -115,167 +115,203 @@
   },
   {
     "time": 184.922,
-    "text": "Schyeah, whoa, what?"
+    "text": "Schyeah, whoa, what?",
+    "singer": 2
   },
   {
     "time": 197.767,
-    "text": "What?"
+    "text": "What?",
+    "singer": 2
   },
   {
     "time": 204.477,
     "text": "what?",
-    "adlibs": "Homixide, Homixide, Homixide, Homixide"
+    "adlibs": "Homixide, Homixide, Homixide, Homixide",
+    "singer": 2
   },
   {
     "time": 209.807,
     "text": "",
-    "adlibs": "Yeah, whoa, yeah, yeah"
+    "adlibs": "Yeah, whoa, yeah, yeah",
+    "singer": 2
   },
   {
     "time": 213.418,
     "text": "",
-    "adlibs": "Homixide, Homixide, Homixide, Homixide, yeah"
+    "adlibs": "Homixide, Homixide, Homixide, Homixide, yeah",
+    "singer": 2
   },
   {
     "time": 219.147,
     "text": "",
-    "adlibs": "Yeah, hol' up, yeah"
+    "adlibs": "Yeah, hol' up, yeah",
+    "singer": 2
   },
   {
     "time": 221.284,
     "text": "Yeah, I just been poppin' my **** it's been gettin' live, hol' up",
-    "adlibs": "shit"
+    "adlibs": "shit",
+    "singer": 2
   },
   {
     "time": 227.727,
     "text": "Yeah, you try to come wrong 'bout this ****, we poppin' ya tires, hol' up",
-    "adlibs": "shit"
+    "adlibs": "shit",
+    "singer": 2
   },
   {
     "time": 234.377,
-    "text": "Uh, hunnid round, whoa, feelin' like I'm on ten"
+    "text": "Uh, hunnid round, whoa, feelin' like I'm on ten",
+    "singer": 2
   },
   {
     "time": 241.68,
     "text": "Playin' both sides with these ****",
-    "adlibs": "hol' up"
+    "adlibs": "hol' up",
+    "singer": 2
   },
   {
     "time": 244.857,
     "text": "Shawty, I'm ****in' yo' friends",
-    "adlibs": "hol' up"
+    "adlibs": "hol' up",
+    "singer": 2
   },
   {
     "time": 248.262,
-    "text": "I been goin' crazy, shawty, I've been in the deep end"
+    "text": "I been goin' crazy, shawty, I've been in the deep end",
+    "singer": 2
   },
   {
     "time": 254.618,
-    "text": "She not innocent, uh, ****, she tryna go"
+    "text": "She not innocent, uh, ****, she tryna go",
+    "singer": 2
   },
   {
     "time": 259.481,
     "text": "Fein', fein', fein', fein'-fein'-fein'",
-    "adlibs": "talm 'bout yeah, Schyeah, oh-oh, what?"
+    "adlibs": "talm 'bout yeah, Schyeah, oh-oh, what?",
+    "singer": 3
   },
   {
     "time": 266.125,
     "text": "Fein', fein', fein', fein'-fein'-fein'",
-    "adlibs": "Schyeah, oh-oh"
+    "adlibs": "Schyeah, oh-oh",
+    "singer": 3
   },
   {
     "time": 272.687,
     "text": "Fein', fein', fein', fein'-fein'-fein'",
-    "adlibs": "talm 'bout, talm 'bout, let's go"
+    "adlibs": "talm 'bout, talm 'bout, let's go",
+    "singer": 3
   },
   {
     "time": 279.166,
-    "text": "I just been icin' my ****"
+    "text": "I just been icin' my ****",
+    "singer": 2
   },
   {
     "time": 282.245,
     "text": "I just been drippin' my **",
-    "adlibs": "drippin' my **"
+    "adlibs": "drippin' my **",
+    "singer": 2
   },
   {
     "time": 285.553,
-    "text": "This is a whole 'nother level, shawty"
+    "text": "This is a whole 'nother level, shawty",
+    "singer": 2
   },
   {
     "time": 288.82,
     "text": "I got these **** on they toes",
-    "adlibs": "**** on they toes"
+    "adlibs": "**** on they toes",
+    "singer": 2
   },
   {
     "time": 292.124,
-    "text": "I put the ***** on the road"
+    "text": "I put the ***** on the road",
+    "singer": 2
   },
   {
     "time": 295.112,
-    "text": "She tryna **** on the O, hol' up, hol' up"
+    "text": "She tryna **** on the O, hol' up, hol' up",
+    "singer": 2
   },
   {
     "time": 298.42,
-    "text": "I got this ** with me, she tryna show me some', hol' up, hol' up"
+    "text": "I got this ** with me, she tryna show me some', hol' up, hol' up",
+    "singer": 2
   },
   {
     "time": 304.934,
-    "text": "I got flows for days, these ***** ain't knowin' none, hol' up, hol' up"
+    "text": "I got flows for days, these ***** ain't knowin' none, hol' up, hol' up",
+    "singer": 2
   },
   {
     "time": 311.515,
     "text": "Me and my bro locked in, you know we on one, hol' up",
-    "adlibs": "slatt, slatt"
+    "adlibs": "slatt, slatt",
+    "singer": 2
   },
   {
     "time": 317.993,
-    "text": "We in the spot goin' crazy, until the sun up"
+    "text": "We in the spot goin' crazy, until the sun up",
+    "singer": 2
   },
   {
     "time": 324.524,
     "text": "You worried about that **, that ** done chose us",
-    "adlibs": "slatt, *****-***"
+    "adlibs": "slatt, *****-***",
+    "singer": 2
   },
   {
     "time": 330.177,
     "text": "Uh, pistols all in the kitchen, can't give the zip code up, hol' up, yeah",
-    "adlibs": "wow"
+    "adlibs": "wow",
+    "singer": 2
   },
   {
     "time": 337.461,
     "text": "Fein', fein', fein'",
-    "adlibs": "hol' up, hol' up, huh, yeah"
+    "adlibs": "hol' up, hol' up, huh, yeah",
+    "singer": 1
   },
   {
     "time": 343.754,
-    "text": "Why the **** these ****** actin' like they know us?"
+    "text": "Why the **** these ****** actin' like they know us?",
+    "singer": 2
   },
   {
     "time": 351.137,
     "text": "Double O, Cactus, yeah, we towed up, uh",
-    "adlibs": "skrrt, skrrt"
+    "adlibs": "skrrt, skrrt",
+    "singer": 2
   },
   {
     "time": 357.651,
     "text": "Switch out the bag, these ****** get rolled up, hol' up, slatt",
-    "adlibs": "it's lit"
+    "adlibs": "it's lit",
+    "singer": 2
   },
   {
     "time": 364.167,
-    "text": "Everything hit, hol' up"
+    "text": "Everything hit, hol' up",
+    "singer": 2
   },
   {
     "time": 367.344,
     "text": "Everything Homixide, Homixide",
-    "adlibs": "Homixide, Homixide, Homixide, Homixide"
+    "adlibs": "Homixide, Homixide, Homixide, Homixide",
+    "singer": 2
   },
   {
     "time": 369.833,
-    "text": "Fein', fein', fein', fein'-fein'-fein'"
+    "text": "Fein', fein', fein', fein'-fein'-fein'",
+    "singer": 3
   },
   {
     "time": 380.189,
     "text": "",
-    "adlibs": "Homixide, Homixide, Homixide, Homixide, Homixide, Homixide, Homixide"
+    "adlibs": "Homixide, Homixide, Homixide, Homixide, Homixide, Homixide, Homixide",
+    "singer": 2
   }
 ]
