@@ -1,7 +1,7 @@
-[
   {
     "time": 0.04,
-    "text": "(You have no heart)"
+    "text": "",
+    "adlibs": "You have no heart"
   },
   {
     "time": 0.5,
@@ -13,7 +13,8 @@
   },
   {
     "time": 2.21,
-    "text": "DDoS on that *****', now he easy to get jugged (easy to get jugged)"
+    "text": "DDoS on that *****', now he easy to get jugged",
+    "adlibs": "easy to get jugged"
   },
   {
     "time": 3.7,
@@ -25,7 +26,8 @@
   },
   {
     "time": 6.6,
-    "text": "I can't cuff that **', her ***** is a herb, bro (***** a herb)"
+    "text": "I can't cuff that **', her ***** is a herb, bro",
+    "adlibs": "***** a herb"
   },
   {
     "time": 8.03,
@@ -57,11 +59,13 @@
   },
   {
     "time": 16.8,
-    "text": "I was being nice, when I said, 'Man, your **** is garbage' (**** is garbage)"
+    "text": "I was being nice, when I said, 'Man, your **** is garbage'",
+    "adlibs": "**** is garbage"
   },
   {
     "time": 18.2,
-    "text": "I know your ***** want me, but I won't do it to you (I won't do it to you)"
+    "text": "I know your ***** want me, but I won't do it to you",
+    "adlibs": "I won't do it to you"
   },
   {
     "time": 20,
@@ -81,7 +85,8 @@
   },
   {
     "time": 25.5,
-    "text": "DDoS on that *****', now he easy to get jugged (easy to get jugged)"
+    "text": "DDoS on that *****', now he easy to get jugged",
+    "adlibs": "easy to get jugged"
   },
   {
     "time": 26.97,
@@ -97,7 +102,8 @@
   },
   {
     "time": 30.5,
-    "text": "Her ***** is a herb, bro (***** a herb)"
+    "text": "Her ***** is a herb, bro",
+    "adlibs": "***** a herb"
   },
   {
     "time": 31.44,
@@ -113,23 +119,28 @@
   },
   {
     "time": 36,
-    "text": "(You ******' me off again, Jaydes)"
+    "text": "",
+    "adlibs": "You ******' me off again, Jaydes"
   },
   {
     "time": 37,
-    "text": "(Because, you don't wanna answer my ******* calls, and my ******* texts)"
+    "text": "",
+    "adlibs": "Because, you don't wanna answer my ******* calls, and my ******* texts"
   },
   {
     "time": 38.6,
-    "text": "(Like I ain't even do **** to you)"
+    "text": "",
+    "adlibs": "Like I ain't even do **** to you"
   },
   {
     "time": 39.5,
-    "text": "(And you still don't wanna ******* answer my calls and texts)"
+    "text": "",
+    "adlibs": "And you still don't wanna ******* answer my calls and texts"
   },
   {
     "time": 40.704,
-    "text": "(And it's ******* me off)"
+    "text": "",
+    "adlibs": "And it's ******* me off"
   },
   {
     "time": 42,
