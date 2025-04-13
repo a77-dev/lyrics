@@ -5,7 +5,8 @@
   },
   {
     "time": 2.31,
-    "text": "Uh-uh, uh (blatt, blatt, blatt)"
+    "text": "Uh-uh, uh",
+    "adlibs": "blatt, blatt, blatt"
   },
   {
     "time": 3.33,
@@ -13,11 +14,13 @@
   },
   {
     "time": 4.33,
-    "text": "Uh-uh, uh (uh)"
+    "text": "Uh-uh, uh",
+    "adlibs": "uh"
   },
   {
     "time": 5.34,
-    "text": "Uh-uh, uh (uh)"
+    "text": "Uh-uh, uh",
+    "adlibs": "uh"
   },
   {
     "time": 6.26,
@@ -25,11 +28,13 @@
   },
   {
     "time": 7.23,
-    "text": "Uh-uh, uh (uh-uh, uh)"
+    "text": "Uh-uh, uh",
+    "adlibs": "uh-uh, uh"
   },
   {
     "time": 8.37,
-    "text": "Yeah, not livin' enough (ayy)"
+    "text": "Yeah, not livin' enough",
+    "adlibs": "ayy"
   },
   {
     "time": 9.26,
@@ -41,7 +46,8 @@
   },
   {
     "time": 11.3,
-    "text": "No trust, so do as you must (yeah), for real"
+    "text": "No trust, so do as you must, for real",
+    "adlibs": "yeah"
   },
   {
     "time": 12.45,
@@ -189,7 +195,8 @@
   },
   {
     "time": 47.41,
-    "text": "Yeah, not livin' enough (ayy)"
+    "text": "Yeah, not livin' enough",
+    "adlibs": "ayy"
   },
   {
     "time": 48.31,
@@ -201,7 +208,8 @@
   },
   {
     "time": 50.28,
-    "text": "No trust, so do as you must (yeah), for real"
+    "text": "No trust, so do as you must, for real",
+    "adlibs": "yeah"
   },
   {
     "time": 51.53,
