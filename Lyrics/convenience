@@ -1,11 +1,13 @@
 [
   {
     "time": 0.09,
-    "text": "(You have no heart!)"
+    "text": "",
+    "adlibs": "You have no heart!"
   },
   {
     "time": 0.354,
-    "text": "Yeah, I still <b><i>love</i></b> you, you can't know that yet (Can't know that yet)"
+    "text": "Yeah, I still <b><i>love</i></b> you, you can't know that yet",
+    "adlibs": "Can't know that yet"
   },
   {
     "time": 2.949,
@@ -13,7 +15,8 @@
   },
   {
     "time": 5.43,
-    "text": "I got no time to waste, that's just lately (That's just lately)"
+    "text": "I got no time to waste, that's just lately",
+    "adlibs": "That's just lately"
   },
   {
     "time": 7.486,
@@ -29,11 +32,13 @@
   },
   {
     "time": 17.814,
-    "text": "She don't give a **** (She don't give a ****)"
+    "text": "She don't give a ****",
+    "adlibs": "She don't give a ****"
   },
   {
     "time": 19.322,
-    "text": "She broke my heart but it got my money up (Got my money up)"
+    "text": "She broke my heart but it got my money up",
+    "adlibs": "Got my money up"
   },
   {
     "time": 21.285,
@@ -49,11 +54,13 @@
   },
   {
     "time": 26.95,
-    "text": "She don't give a **** (She don't give a ****)"
+    "text": "She don't give a ****",
+    "adlibs": "She don't give a ****"
   },
   {
     "time": 28.355,
-    "text": "She broke my heart but it got my money up (Got my money up)"
+    "text": "She broke my heart but it got my money up",
+    "adlibs": "Got my money up"
   },
   {
     "time": 30.336,
