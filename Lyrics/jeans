@@ -17,11 +17,13 @@
   },
   {
     "time": 13.96,
-    "text": "(I) I see, see, see"
+    "text": "I see, see, see",
+    "adlibs": "I"
   },
   {
     "time": 14.938,
-    "text": "(Mm) top of tree, it's three, yeah (yeah)"
+    "text": "top of tree, it's three, yeah",
+    "adlibs": "Mm yeah"
   },
   {
     "time": 16.387,
@@ -29,7 +31,8 @@
   },
   {
     "time": 17.455,
-    "text": "(Put your body on my jeans)"
+    "text": "",
+    "adlibs": "Put your body on my jeans"
   },
   {
     "time": 19.161,
@@ -37,7 +40,8 @@
   },
   {
     "time": 20.356,
-    "text": "Double trust within me (ah)"
+    "text": "Double trust within me",
+    "adlibs": "ah"
   },
   {
     "time": 21.437,
@@ -69,7 +73,8 @@
   },
   {
     "time": 30.912,
-    "text": "(I'll take you with me, baby)"
+    "text": "",
+    "adlibs": "I'll take you with me, baby"
   },
   {
     "time": 32.104,
@@ -97,11 +102,13 @@
   },
   {
     "time": 41.349,
-    "text": "(I) I see, see, see"
+    "text": "I see, see, see",
+    "adlibs": "I"
   },
   {
     "time": 42.363,
-    "text": "(Mm) top of tree, it's three, yeah (yeah)"
+    "text": "top of tree, it's three, yeah",
+    "adlibs": "Mm yeah"
   },
   {
     "time": 43.749,
@@ -109,7 +116,8 @@
   },
   {
     "time": 44.845,
-    "text": "(Put your body on my jeans)"
+    "text": "",
+    "adlibs": "Put your body on my jeans"
   },
   {
     "time": 55.155,
@@ -129,11 +137,13 @@
   },
   {
     "time": 59.642,
-    "text": "(I) I see, see, see"
+    "text": "I see, see, see",
+    "adlibs": "I"
   },
   {
     "time": 60.617,
-    "text": "(Mm) top of tree, it's three, yeah (yeah)"
+    "text": "top of tree, it's three, yeah",
+    "adlibs": "Mm yeah"
   },
   {
     "time": 62.074,
@@ -141,7 +151,8 @@
   },
   {
     "time": 63.17,
-    "text": "(Put your body on my jeans)"
+    "text": "",
+    "adlibs": "Put your body on my jeans"
   },
   {
     "time": 64.937,
@@ -149,7 +160,8 @@
   },
   {
     "time": 66.058,
-    "text": "Double trust within me (ah)"
+    "text": "Double trust within me",
+    "adlibs": "ah"
   },
   {
     "time": 67.249,
@@ -181,7 +193,8 @@
   },
   {
     "time": 76.768,
-    "text": "(I'll take you with me, baby)"
+    "text": "",
+    "adlibs": "I'll take you with me, baby"
   },
   {
     "time": 77.823,
@@ -209,11 +222,13 @@
   },
   {
     "time": 87.006,
-    "text": "(I) I see, see, see"
+    "text": "I see, see, see",
+    "adlibs": "I"
   },
   {
     "time": 88.066,
-    "text": "(Mm) top of tree, it's three, yeah (yeah)"
+    "text": "top of tree, it's three, yeah",
+    "adlibs": "Mm yeah"
   },
   {
     "time": 89.456,
@@ -221,6 +236,7 @@
   },
   {
     "time": 90.595,
-    "text": "(Put your body on my jeans)"
+    "text": "",
+    "adlibs": "Put your body on my jeans"
   }
 ]
