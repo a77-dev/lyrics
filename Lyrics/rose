@@ -1,7 +1,8 @@
 [
   {
     "time": 2.118,
-    "text": "Just knew from the start it would end this way (It would end this time)"
+    "text": "Just knew from the start it would end this way",
+    "adlibs": "It would end this time"
   },
   {
     "time": 10.036,
@@ -13,7 +14,8 @@
   },
   {
     "time": 23.122,
-    "text": "(Run away from yourself to escape)"
+    "text": "",
+    "adlibs": "Run away from yourself to escape"
   },
   {
     "time": 26.559,
@@ -21,7 +23,8 @@
   },
   {
     "time": 35.252,
-    "text": "Just knew from the start it would end this way (It would end this time)"
+    "text": "Just knew from the start it would end this way",
+    "adlibs": "It would end this time"
   },
   {
     "time": 43.393,
@@ -33,7 +36,8 @@
   },
   {
     "time": 56.468,
-    "text": "(Run away from yourself to escape)"
+    "text": "",
+    "adlibs": "Run away from yourself to escape"
   },
   {
     "time": 60.149,
