@@ -1,11 +1,13 @@
 [
   {
     "time": 18.54,
-    "text": "Just come outside for the night (yeah)"
+    "text": "Just come outside for the night",
+    "adlibs": "yeah"
   },
   {
     "time": 25.428,
-    "text": "Take your time, get your light (yeah)"
+    "text": "Take your time, get your light",
+    "adlibs": "yeah"
   },
   {
     "time": 31.844,
@@ -21,11 +23,13 @@
   },
   {
     "time": 45.829,
-    "text": "Fein', fein', fein', fein'-fein' (yeah)"
+    "text": "Fein', fein', fein', fein'-fein'",
+    "adlibs": "yeah"
   },
   {
     "time": 52.117,
-    "text": "Fein', fein', fein', fein'-fein' (yeah)"
+    "text": "Fein', fein', fein', fein'-fein'",
+    "adlibs": "yeah"
   },
   {
     "time": 58.436,
@@ -33,43 +37,53 @@
   },
   {
     "time": 64.975,
-    "text": "Fein', fein', fein', fein' (yeah)"
+    "text": "Fein', fein', fein', fein'",
+    "adlibs": "yeah"
   },
   {
     "time": 75.512,
-    "text": "The career's more at stake when you in your prime (at stake)"
+    "text": "The career's more at stake when you in your prime",
+    "adlibs": "at stake"
   },
   {
     "time": 82.023,
-    "text": "**** that paper, baby, my face on the dotted line (dot, yeah)"
+    "text": "**** that paper, baby, my face on the dotted line",
+    "adlibs": "dot, yeah"
   },
   {
     "time": 88.473,
-    "text": "I been flyin' out of town for some peace of mind (yeah, yeah, *****)"
+    "text": "I been flyin' out of town for some peace of mind",
+    "adlibs": "yeah, yeah, *****"
   },
   {
     "time": 94.965,
-    "text": "It's like always they just want a piece of mine (ah)"
+    "text": "It's like always they just want a piece of mine",
+    "adlibs": "ah"
   },
   {
     "time": 101.45,
-    "text": "I been focused on the future, never on right now (ah)"
+    "text": "I been focused on the future, never on right now",
+    "adlibs": "ah"
   },
   {
     "time": 107.799,
-    "text": "But I'm sippin' that kombucha, either pink or brown (it's lit)"
+    "text": "But I'm sippin' that kombucha, either pink or brown",
+    "adlibs": "it's lit"
   },
   {
     "time": 114.38,
-    "text": "I'm the one that introduced you to the you right now (mm, let's go)"
+    "text": "I'm the one that introduced you to the you right now",
+    "adlibs": "mm, let's go"
   },
   {
     "time": 122.439,
-    "text": "Oh my God, that ***** bite (that ***** bite)"
+    "text": "Oh my God, that ***** bite",
+    "adlibs": "that ***** bite"
   },
   {
     "time": 128.991,
-    "text": "But alright (alright), tryna vibe (tryna vibe this)"
+    "text": "But alright, tryna vibe",
+    "adlibs": "alright tryna vibe this"
   },
   {
     "time": 135.399,
@@ -101,182 +115,167 @@
   },
   {
     "time": 184.922,
-    "text": "Schyeah, whoa, what?",
-    "singer": 2
+    "text": "Schyeah, whoa, what?"
   },
   {
     "time": 197.767,
-    "text": "What?",
-    "singer": 2
+    "text": "What?"
   },
   {
     "time": 204.477,
-    "text": "(Homixide, Homixide, Homixide, Homixide) what?",
-    "singer": 2
+    "text": "what?",
+    "adlibs": "Homixide, Homixide, Homixide, Homixide"
   },
   {
     "time": 209.807,
-    "text": "(Yeah, whoa, yeah, yeah)",
-    "singer": 2
+    "text": "",
+    "adlibs": "Yeah, whoa, yeah, yeah"
   },
   {
     "time": 213.418,
-    "text": "(Homixide, Homixide, Homixide, Homixide, yeah)",
-    "singer": 2
+    "text": "",
+    "adlibs": "Homixide, Homixide, Homixide, Homixide, yeah"
   },
   {
     "time": 219.147,
-    "text": "(Yeah, hol' up, yeah)",
-    "singer": 2
+    "text": "",
+    "adlibs": "Yeah, hol' up, yeah"
   },
   {
     "time": 221.284,
-    "text": "Yeah, I just been poppin' my **** it's been gettin' live, hol' up (shit)",
-    "singer": 2
+    "text": "Yeah, I just been poppin' my **** it's been gettin' live, hol' up",
+    "adlibs": "shit"
   },
   {
     "time": 227.727,
-    "text": "Yeah, you try to come wrong 'bout this ****, we poppin' ya tires, hol' up (shit)",
-    "singer": 2
+    "text": "Yeah, you try to come wrong 'bout this ****, we poppin' ya tires, hol' up",
+    "adlibs": "shit"
   },
   {
     "time": 234.377,
-    "text": "Uh, hunnid round, whoa, feelin' like I'm on ten",
-    "singer": 2
+    "text": "Uh, hunnid round, whoa, feelin' like I'm on ten"
   },
   {
     "time": 241.68,
-    "text": "Playin' both sides with these **** (hol' up)",
-    "singer": 2
+    "text": "Playin' both sides with these ****",
+    "adlibs": "hol' up"
   },
   {
     "time": 244.857,
-    "text": "Shawty, I'm ****in' yo' friends (hol' up)",
-    "singer": 2
+    "text": "Shawty, I'm ****in' yo' friends",
+    "adlibs": "hol' up"
   },
   {
     "time": 248.262,
-    "text": "I been goin' crazy, shawty, I've been in the deep end",
-    "singer": 2
+    "text": "I been goin' crazy, shawty, I've been in the deep end"
   },
   {
     "time": 254.618,
-    "text": "She not innocent, uh, ****, she tryna go",
-    "singer": 2
+    "text": "She not innocent, uh, ****, she tryna go"
   },
   {
     "time": 259.481,
-    "text": "Fein', fein' (talm 'bout), fein', fein'-fein'-fein' (yeah, Schyeah, oh-oh, what?)",
-    "singer": 3
+    "text": "Fein', fein', fein', fein'-fein'-fein'",
+    "adlibs": "talm 'bout yeah, Schyeah, oh-oh, what?"
   },
   {
     "time": 266.125,
-    "text": "Fein', fein', fein', fein'-fein'-fein' (Schyeah, oh-oh)",
-    "singer": 3
+    "text": "Fein', fein', fein', fein'-fein'-fein'",
+    "adlibs": "Schyeah, oh-oh"
   },
   {
     "time": 272.687,
-    "text": "Fein', fein', fein', fein'-fein'-fein' (talm 'bout, talm 'bout, let's go)",
-    "singer": 3
+    "text": "Fein', fein', fein', fein'-fein'-fein'",
+    "adlibs": "talm 'bout, talm 'bout, let's go"
   },
   {
     "time": 279.166,
-    "text": "I just been icin' my ****",
-    "singer": 2
+    "text": "I just been icin' my ****"
   },
   {
     "time": 282.245,
-    "text": "I just been drippin' my ** (drippin' my **)",
-    "singer": 2
+    "text": "I just been drippin' my **",
+    "adlibs": "drippin' my **"
   },
   {
     "time": 285.553,
-    "text": "This is a whole 'nother level, shawty",
-    "singer": 2
+    "text": "This is a whole 'nother level, shawty"
   },
   {
     "time": 288.82,
-    "text": "I got these **** on they toes (**** on they toes)",
-    "singer": 2
+    "text": "I got these **** on they toes",
+    "adlibs": "**** on they toes"
   },
   {
     "time": 292.124,
-    "text": "I put the ***** on the road",
-    "singer": 2
+    "text": "I put the ***** on the road"
   },
   {
     "time": 295.112,
-    "text": "She tryna **** on the O, hol' up, hol' up",
-    "singer": 2
+    "text": "She tryna **** on the O, hol' up, hol' up"
   },
   {
     "time": 298.42,
-    "text": "I got this ** with me, she tryna show me some', hol' up, hol' up",
-    "singer": 2
+    "text": "I got this ** with me, she tryna show me some', hol' up, hol' up"
   },
   {
     "time": 304.934,
-    "text": "I got flows for days, these ***** ain't knowin' none, hol' up, hol' up",
-    "singer": 2
+    "text": "I got flows for days, these ***** ain't knowin' none, hol' up, hol' up"
   },
   {
     "time": 311.515,
-    "text": "Me and my bro locked in, you know we on one, hol' up (slatt, slatt)",
-    "singer": 2
+    "text": "Me and my bro locked in, you know we on one, hol' up",
+    "adlibs": "slatt, slatt"
   },
   {
     "time": 317.993,
-    "text": "We in the spot goin' crazy, until the sun up",
-    "singer": 2
+    "text": "We in the spot goin' crazy, until the sun up"
   },
   {
     "time": 324.524,
-    "text": "You worried about that **, that ** done chose us (slatt, *****-***)",
-    "singer": 2
+    "text": "You worried about that **, that ** done chose us",
+    "adlibs": "slatt, *****-***"
   },
   {
     "time": 330.177,
-    "text": "Uh, pistols all in the kitchen, can't give the zip code up, hol' up, yeah (wow)",
-    "singer": 2
+    "text": "Uh, pistols all in the kitchen, can't give the zip code up, hol' up, yeah",
+    "adlibs": "wow"
   },
   {
     "time": 337.461,
-    "text": "Fein', fein', fein' (hol' up, hol' up, huh, yeah)",
-    "singer": 1
+    "text": "Fein', fein', fein'",
+    "adlibs": "hol' up, hol' up, huh, yeah"
   },
   {
     "time": 343.754,
-    "text": "Why the **** these ****** actin' like they know us?",
-    "singer": 2
+    "text": "Why the **** these ****** actin' like they know us?"
   },
   {
     "time": 351.137,
-    "text": "Double O, Cactus, yeah, we towed up, uh (skrrt, skrrt)",
-    "singer": 2
+    "text": "Double O, Cactus, yeah, we towed up, uh",
+    "adlibs": "skrrt, skrrt"
   },
   {
     "time": 357.651,
-    "text": "Switch out the bag, these ****** get rolled up, hol' up, slatt (it's lit)",
-    "singer": 2
+    "text": "Switch out the bag, these ****** get rolled up, hol' up, slatt",
+    "adlibs": "it's lit"
   },
   {
     "time": 364.167,
-    "text": "Everything hit, hol' up",
-    "singer": 2
+    "text": "Everything hit, hol' up"
   },
   {
     "time": 367.344,
-    "text": "Everything Homixide, Homixide (Homixide, Homixide, Homixide, Homixide)",
-    "singer": 2
+    "text": "Everything Homixide, Homixide",
+    "adlibs": "Homixide, Homixide, Homixide, Homixide"
   },
   {
     "time": 369.833,
-    "text": "Fein', fein', fein', fein'-fein'-fein'",
-    "singer": 3
+    "text": "Fein', fein', fein', fein'-fein'-fein'"
   },
   {
     "time": 380.189,
-    "text": "(Homixide, Homixide, Homixide, Homixide, Homixide, Homixide, Homixide)",
-    "singer": 2
+    "text": "",
+    "adlibs": "Homixide, Homixide, Homixide, Homixide, Homixide, Homixide, Homixide"
   }
 ]
