@@ -11,7 +11,7 @@
   },
   {
     "time": 3.778,
-    "text": "Drugs 'posed to make it better",
+    "text": "***** 'posed to make it better",
     "singer": 2
   },
   {
@@ -140,7 +140,7 @@
   },
   {
     "time": 53.714,
-    "text": "Drugs 'posed to make it better",
+    "text": "***** 'posed to make it better",
     "singer": 2
   },
   {
@@ -175,7 +175,7 @@
   },
   {
     "time": 63.951,
-    "text": "Drugs 'posed to make it better",
+    "text": "***** 'posed to make it better",
     "singer": 2
   },
   {
@@ -204,15 +204,18 @@
   },
   {
     "time": 71.664,
-    "text": "I'm movin' on for the better, yeah (Uh, uh)"
+    "text": "I'm movin' on for the better, yeah",
+    "adlibs": "Uh, uh"
   },
   {
     "time": 74.25,
-    "text": "I'm movin' on for the better, yeah (Uh, uh)"
+    "text": "I'm movin' on for the better, yeah",
+    "adlibs": "Uh, uh"
   },
   {
     "time": 76.739,
-    "text": "I'm movin' on for the better, yeah (Uh, uh)"
+    "text": "I'm movin' on for the better, yeah",
+    "adlibs": "Uh, uh"
   },
   {
     "time": 79.338,
