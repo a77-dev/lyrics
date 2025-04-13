@@ -1,7 +1,8 @@
 [
   {
     "time": 0.16,
-    "text": "(Kkei)"
+    "text": "",
+    "adlibs": "Kkei"
   },
   {
     "time": 1.085,
@@ -13,7 +14,8 @@
   },
   {
     "time": 3.41,
-    "text": "(You have no heart) Ooh"
+    "text": "Ooh",
+    "adlibs": "You have no heart"
   },
   {
     "time": 6.17,
@@ -21,11 +23,13 @@
   },
   {
     "time": 7.68,
-    "text": "Lookin' up to me could cause an issue (Cause an issue)"
+    "text": "Lookin' up to me could cause an issue",
+    "adlibs": "Cause an issue"
   },
   {
     "time": 9.33,
-    "text": "I got cash and hella gas, like what's the issue? Ayy (What's the issue?)"
+    "text": "I got cash and hella gas, like what's the issue? Ayy",
+    "adlibs": "What's the issue?"
   },
   {
     "time": 11.15,
@@ -37,15 +41,18 @@
   },
   {
     "time": 15,
-    "text": "And I put my ** in Raf Simons jeans (Raf Simons jeans)"
+    "text": "And I put my ** in Raf Simons jeans",
+    "adlibs": "Raf Simons jeans"
   },
   {
     "time": 16.4,
-    "text": "I just took his ** 'cause he was bag fumbling (Bag fumbling)"
+    "text": "I just took his ** 'cause he was bag fumbling",
+    "adlibs": "Bag fumbling"
   },
   {
     "time": 18.69,
-    "text": "I've been on my *** for some green (*** for some green)"
+    "text": "I've been on my *** for some green",
+    "adlibs": "*** for some green"
   },
   {
     "time": 20.05,
@@ -89,11 +96,13 @@
   },
   {
     "time": 36.7,
-    "text": "Lookin' up to me could cause an issue (Cause an issue)"
+    "text": "Lookin' up to me could cause an issue",
+    "adlibs": "Cause an issue"
   },
   {
     "time": 38.45,
-    "text": "I got cash and hella gas, like what's the issue? Ayy (What's the issue?)"
+    "text": "I got cash and hella gas, like what's the issue? Ayy",
+    "adlibs": "What's the issue?"
   },
   {
     "time": 40.28,
@@ -105,11 +114,13 @@
   },
   {
     "time": 44.15,
-    "text": "And I put my ** in Raf Simons jeans (Raf Simons jeans)"
+    "text": "And I put my ** in Raf Simons jeans",
+    "adlibs": "Raf Simons jeans"
   },
   {
     "time": 45.45,
-    "text": "I just took his ** 'cause he was bag fumbling (Bag fumbling)"
+    "text": "I just took his ** 'cause he was bag fumbling",
+    "adlibs": "Bag fumbling"
   },
   {
     "time": 47.15,
@@ -117,7 +128,8 @@
   },
   {
     "time": 47.8,
-    "text": "I've been on my *** for some green (*** for some green)"
+    "text": "I've been on my *** for some green",
+    "adlibs": "*** for some green"
   },
   {
     "time": 49.14,
