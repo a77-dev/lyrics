@@ -1,49 +1,225 @@
 [
-  { "time": 3.888, "text": "All these bands make my head hurt", "singer": 2 },
-  { "time": 7.659, "text": "All the gas 'til my lungs black", "singer": 2 },
-  { "time": 11.314, "text": "***** 'posed to make it better", "singer": 2 },
-  { "time": 15.168, "text": "She keep askin' where the love at", "singer": 2 },
-  { "time": 19.191, "text": "Really don't know what to tell her", "singer": 2 },
-  { "time": 23.156, "text": "You miss the old me, but **** that", "singer": 2 },
-  { "time": 26.753, "text": "I'm movin' on for the better", "singer": 2 },
-  { "time": 30.799, "text": "Smokin' on gas 'til my head hurt" },
-  { "time": 35.516, "text": "Don't gotta stay, if she wanna leave then I'ma let her" },
-  { "time": 42.971, "text": "But my lil' baby cannot end of me, I swear we tethered" },
-  { "time": 49.766, "text": "What I said before I left her" },
-  { "time": 53.651, "text": "I had to grow out my feathers" },
-  { "time": 57.464, "text": "I went and pulled up and blessed her" },
-  { "time": 60.947, "text": "Heart cold, it ain't December" },
-  { "time": 64.703, "text": "Chop give that boy a check-up" },
-  { "time": 68.898, "text": "Chop hit him from the neck up" },
-  { "time": 72.842, "text": "Lost, but I'm tryna get up" },
-  { "time": 76.768, "text": "Lost, but I'm tryna get up", "singer": 2 },
-  { "time": 80.111, "text": "I'm just tryna get my bread up", "singer": 2 },
-  { "time": 84.142, "text": "If that boy talkin', we get down, smacked up by Berettas", "singer": 2 },
-  { "time": 91.453, "text": "They say that I'm in my glow, I'm really up in the shows", "singer": 2 },
-  { "time": 98.738, "text": "I got way too many ****, had to let some of 'em go, oh", "singer": 2 },
-  { "time": 105.872, "text": "AMG, pushin' to start, you know that we hittin' road" },
-  { "time": 113.122, "text": "I'm way too high off this gas, lil' *****, I'm high off this dro", "singer": 2 },
-  { "time": 119.602, "text": "Really been up since a jit, I get a rack and spend on my fit, I'm him", "singer": 2 },
-  { "time": 126.893, "text": "I'm here just talkin' my ****, you see the Prada, Margiela my kicks, uh-huh", "singer": 2 },
-  { "time": 133.837, "text": "Lil' ***** had a show on the flip, might as well tell her, her ***** my kid, uh-huh", "singer": 2 },
-  { "time": 140.845, "text": "Wock' in this pint, this **** real, you can just tell by the way that it stick, uh-huh", "singer": 2 },
-  { "time": 153.103, "text": "All these bands make my head hurt", "singer": 2 },
-  { "time": 157.409, "text": "All the gas 'til my lungs black", "singer": 2 },
-  { "time": 161.568, "text": "***** 'posed to make it better", "singer": 2 },
-  { "time": 165.045, "text": "She keep askin' where the love at", "singer": 2 },
-  { "time": 168.747, "text": "Really don't know what to tell her", "singer": 2 },
-  { "time": 172.748, "text": "You miss the old me, but **** that", "singer": 2 },
-  { "time": 176.519, "text": "I'm movin' on for the better", "singer": 2 },
-  { "time": 180.484, "text": "All these bands make my head hurt", "singer": 2 },
-  { "time": 184.913, "text": "All the gas 'til my lungs black", "singer": 2 },
-  { "time": 188.532, "text": "***** 'posed to make it better", "singer": 2 },
-  { "time": 192.255, "text": "She keep askin' where the love at", "singer": 2 },
-  { "time": 195.701, "text": "Really don't know what to tell her", "singer": 2 },
-  { "time": 199.935, "text": "You miss the old me, but **** that", "singer": 2 },
-  { "time": 203.174, "text": "I'm movin' on for the better", "singer": 2 },
-  { "time": 206.802, "text": "", "adlibs": "I'm movin' on for the better" },
-  { "time": 210.588, "text": "I'm movin' on for the better, yeah" },
-  { "time": 217.472, "text": "I'm movin' on for the better, yeah" },
-  { "time": 224.629, "text": "I'm movin' on for the better, yeah" },
-  { "time": 231.453, "text": "I'm movin' on for the better, yeah, uh" }
+  {
+    "time": 2.641,
+    "text": "All these bands make my head hurt",
+    "singer": 2
+  },
+  {
+    "time": 5.02,
+    "text": "All the gas 'til my lungs black",
+    "singer": 2
+  },
+  {
+    "time": 7.555,
+    "text": "***** 'posed to make it better",
+    "singer": 2
+  },
+  {
+    "time": 10.1,
+    "text": "She keep askin' where the love at",
+    "singer": 2
+  },
+  {
+    "time": 12.834,
+    "text": "Really don't know what to tell her",
+    "singer": 2
+  },
+  {
+    "time": 15.324,
+    "text": "You miss the old me, but **** that",
+    "singer": 2
+  },
+  {
+    "time": 17.907,
+    "text": "I'm movin' on for the better",
+    "singer": 2
+  },
+  {
+    "time": 20.315,
+    "text": "Smokin' on gas 'til my head hurt"
+  },
+  {
+    "time": 23.59,
+    "text": "Don't gotta stay, if she wanna leave then I'ma let her"
+  },
+  {
+    "time": 28.755,
+    "text": "But my lil' baby cannot end of me, I swear we tethered"
+  },
+  {
+    "time": 33.268,
+    "text": "What I said before I left her"
+  },
+  {
+    "time": 35.98,
+    "text": "I had to grow out my feathers"
+  },
+  {
+    "time": 38.375,
+    "text": "I went and pulled up and blessed her"
+  },
+  {
+    "time": 40.847,
+    "text": "Heart cold, it ain't December"
+  },
+  {
+    "time": 43.498,
+    "text": "Chop give that boy a check-up"
+  },
+  {
+    "time": 46.026,
+    "text": "Chop hit him from the neck up"
+  },
+  {
+    "time": 48.532,
+    "text": "Lost, but I'm tryna get up"
+  },
+  {
+    "time": 51.127,
+    "text": "Lost, but I'm tryna get up",
+    "singer": 2
+  },
+  {
+    "time": 53.718,
+    "text": "I'm just tryna get my bread up",
+    "singer": 2
+  },
+  {
+    "time": 56.318,
+    "text": "If that boy talkin', we get down, smacked up by Berettas",
+    "singer": 2
+  },
+  {
+    "time": 62.008,
+    "text": "They say that I'm in my glow, I'm really up in the shows",
+    "singer": 2
+  },
+  {
+    "time": 67.123,
+    "text": "I got way too many ****, had to let some of 'em go, oh",
+    "singer": 2
+  },
+  {
+    "time": 72.261,
+    "text": "AMG, pushin' to start, you know that we hittin' road"
+  },
+  {
+    "time": 77.4,
+    "text": "I'm way too high off this gas, lil' *****, I'm high off this dro",
+    "singer": 2
+  },
+  {
+    "time": 82.539,
+    "text": "Really been up since a jit, I get a rack and spend on my fit, I'm him",
+    "singer": 2
+  },
+  {
+    "time": 87.658,
+    "text": "I'm here just talkin' my ****, you see the Prada, Margiela my kicks, uh-huh",
+    "singer": 2
+  },
+  {
+    "time": 92.707,
+    "text": "Lil' ***** had a show on the flip, might as well tell her, her ***** my kid, uh-huh",
+    "singer": 2
+  },
+  {
+    "time": 97.803,
+    "text": "Wock' in this pint, this **** real, you can just tell by the way that it stick, uh-huh",
+    "singer": 2
+  },
+  {
+    "time": 102.326,
+    "text": "All these bands make my head hurt",
+    "singer": 2
+  },
+  {
+    "time": 104.902,
+    "text": "All the gas 'til my lungs black",
+    "singer": 2
+  },
+  {
+    "time": 107.411,
+    "text": "Drugs 'posed to make it better",
+    "singer": 2
+  },
+  {
+    "time": 109.937,
+    "text": "She keep askin' where the love at",
+    "singer": 2
+  },
+  {
+    "time": 112.519,
+    "text": "Really don't know what to tell her",
+    "singer": 2
+  },
+  {
+    "time": 115.159,
+    "text": "You miss the old me, but **** that",
+    "singer": 2
+  },
+  {
+    "time": 117.687,
+    "text": "I'm movin' on for the better",
+    "singer": 2
+  },
+  {
+    "time": 122.63,
+    "text": "All these bands make my head hurt",
+    "singer": 2
+  },
+  {
+    "time": 125.39,
+    "text": "All the gas 'til my lungs black",
+    "singer": 2
+  },
+  {
+    "time": 127.815,
+    "text": "Drugs 'posed to make it better",
+    "singer": 2
+  },
+  {
+    "time": 130.321,
+    "text": "She keep askin' where the love at",
+    "singer": 2
+  },
+  {
+    "time": 132.974,
+    "text": "Really don't know what to tell her",
+    "singer": 2
+  },
+  {
+    "time": 135.565,
+    "text": "You miss the old me, but **** that",
+    "singer": 2
+  },
+  {
+    "time": 138.23,
+    "text": "I'm movin' on for the better",
+    "singer": 2
+  },
+  {
+    "time": 140.778,
+    "text": "",
+    "adlibs": "I'm movin' on for the better"
+  },
+  {
+    "time": 143.352,
+    "text": "I'm movin' on for the better, yeah",
+    "adlibs": "Uh, uh"
+  },
+  {
+    "time": 148.471,
+    "text": "I'm movin' on for the better, yeah",
+    "adlibs": "Uh, uh"
+  },
+  {
+    "time": 153.589,
+    "text": "I'm movin' on for the better, yeah",
+    "adlibs": "Uh, uh"
+  },
+  {
+    "time": 158.701,
+    "text": "I'm movin' on for the better, yeah, uh"
+  }
 ]
