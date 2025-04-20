@@ -1,27 +1,103 @@
 [
-  { "time": 0.01, "text": "I'm not tryna ruin your fun" },
-  { "time": 1.69, "text": "You're just a little bit late, I guess you're already done" },
-  { "time": 4.52, "text": "There's this feeling I can't shake 'cause I'm too dumb" },
-  { "time": 6.99, "text": "I'm never doing the right thing so I'm so stuck" },
-  { "time": 9.96, "text": "If you see me in America I might say, \"hi\"" },
-  { "time": 12.38, "text": "But if you meet me out in Europe I'm a talkative guy" },
-  { "time": 15.04, "text": "Maybe we'll talk over scones around lunch some time" },
-  { "time": 17.83, "text": "And I've never been to France so it might be nice" },
-  { "time": 20.47, "text": "But I can't take this paparazzi, geez" },
-  { "time": 23.11, "text": "It's like the camera's always out and always staring at me" },
-  { "time": 25.75, "text": "And if I say the wrong thing they'll cut my tongue 'til it bleeds" },
-  { "time": 28.58, "text": "Always whipping out their pitch forks when you try to speak" },
-  { "time": 31.16, "text": "But that couldn't be me" },
-  { "time": 32.45, "text": "Next day I'm walkin' the road", "singer": 2 },
-  { "time": 33.55, "text": "Kickin' rocks it's my fault", "singer": 2 },
-  { "time": 34.90, "text": "My life's the worst story told", "singer": 2 },
-  { "time": 36.35, "text": "I'll be this way 'til I'm old", "singer": 2 },
-  { "time": 37.68, "text": "I rip a page out the book", "singer": 2 },
-  { "time": 38.98, "text": "I'm just so misunderstood", "singer": 2 },
-  { "time": 40.31, "text": "I always think about her", "singer": 2 },
-  { "time": 41.83, "text": "And when my life felt good I smoked a cig on the porch", "singer": 2 },
-  { "time": 44.41, "text": "It doesn't help me at all, I wonder what's it all for?", "singer": 2 },
-  { "time": 47.12, "text": "Is this the girl I adored and I know I can't afford", "singer": 2 },
-  { "time": 49.68, "text": "Watchin' her walk out the door so I keep it to myself", "singer": 2 },
-  { "time": 52.33, "text": "And keep my feet on the floor", "singer": 2 }
+  {
+    "time": 1.158,
+    "text": "I'm not tryin' to ruin your fun"
+  },
+  {
+    "time": 5.226,
+    "text": "You're just a little bit late"
+  },
+  {
+    "time": 9.246,
+    "text": "I guess you're already done"
+  },
+  {
+    "time": 13.678,
+    "text": "There's this feeling I can't shake 'cause I'm too dumb"
+  },
+  {
+    "time": 21.028,
+    "text": "I'm never doing the right thing so I'm so stuck"
+  },
+  {
+    "time": 29.382,
+    "text": "If you see me in America I might say hi"
+  },
+  {
+    "time": 37.083,
+    "text": "But if you meet me out in Europe I'm a talkative guy"
+  },
+  {
+    "time": 45.204,
+    "text": "Maybe we'll talk over scones around lunch some time"
+  },
+  {
+    "time": 53.19,
+    "text": "And I've never met a fan so it might be nice"
+  },
+  {
+    "time": 61.503,
+    "text": "But I can't take this paparazzi, geez"
+  },
+  {
+    "time": 69.137,
+    "text": "It's like the camera's always out and always starin' at me"
+  },
+  {
+    "time": 77.327,
+    "text": "And if I say the wrong thing, they'll cut my tongue 'til it bleeds"
+  },
+  {
+    "time": 85.141,
+    "text": "Always whippin' out their pitchforks when you try to speak"
+  },
+  {
+    "time": 93.767,
+    "text": "But that couldn't be me"
+  },
+  {
+    "time": 97.975,
+    "text": "Next day I'm walkin' the road, kickin' rocks, it's my fault",
+    "singer": 2
+  },
+  {
+    "time": 105.327,
+    "text": "My life's the worst story told, I'll be this way 'til I'm old",
+    "singer": 2
+  },
+  {
+    "time": 113.204,
+    "text": "I rip a page out the book, I'm just so misunderstood",
+    "singer": 2
+  },
+  {
+    "time": 121.205,
+    "text": "I always think about her and when my life felt good",
+    "singer": 2
+  },
+  {
+    "time": 129.187,
+    "text": "I smoked a cig on the porch",
+    "singer": 2
+  },
+  {
+    "time": 133.198,
+    "text": "It doesn't help me at all, I wonder what's it all for?",
+    "singer": 2
+  },
+  {
+    "time": 141.224,
+    "text": "Is this the girl I adored and I know I can't afford",
+    "singer": 2
+  },
+  {
+    "time": 149.01,
+    "text": "Watchin' her walk out the door",
+    "singer": 2
+  },
+  {
+    "time": 153.244,
+    "text": "So I keep it to myself and keep my feet on the floor",
+    "singer": 2
+  }
 ]
