@@ -1,103 +1,1064 @@
 [
   {
     "time": 1.158,
-    "text": "I'm not tryin' to ruin your fun"
+    "text": "I'm not tryin' to ruin your fun",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 1.197
+      },
+      {
+        "text": "not",
+        "time": 1.575
+      },
+      {
+        "text": "tryin'",
+        "time": 1.976
+      },
+      {
+        "text": "to",
+        "time": 2.442
+      },
+      {
+        "text": "ruin",
+        "time": 2.995
+      },
+      {
+        "text": "your",
+        "time": 3.916
+      },
+      {
+        "text": "fun",
+        "time": 4.324
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 5.226,
-    "text": "You're just a little bit late"
+    "text": "You're just a little bit late",
+    "words": [
+      {
+        "text": "You're",
+        "time": 5.396
+      },
+      {
+        "text": "just",
+        "time": 5.913
+      },
+      {
+        "text": "a",
+        "time": 6.435
+      },
+      {
+        "text": "little",
+        "time": 6.958
+      },
+      {
+        "text": "bit",
+        "time": 8.001
+      },
+      {
+        "text": "late",
+        "time": 8.481
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 9.246,
-    "text": "I guess you're already done"
+    "text": "I guess you're already done",
+    "words": [
+      {
+        "text": "I",
+        "time": 9.355
+      },
+      {
+        "text": "guess",
+        "time": 9.869
+      },
+      {
+        "text": "you're",
+        "time": 10.347
+      },
+      {
+        "text": "already",
+        "time": 10.847
+      },
+      {
+        "text": "done",
+        "time": 12.283
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 13.678,
-    "text": "There's this feeling I can't shake 'cause I'm too dumb"
+    "text": "There's this feeling I can't shake 'cause I'm too dumb",
+    "words": [
+      {
+        "text": "There's",
+        "time": 13.834
+      },
+      {
+        "text": "this",
+        "time": 14.392
+      },
+      {
+        "text": "feeling",
+        "time": 14.89
+      },
+      {
+        "text": "I",
+        "time": 15.856
+      },
+      {
+        "text": "can't",
+        "time": 16.373
+      },
+      {
+        "text": "shake",
+        "time": 17.315
+      },
+      {
+        "text": "'cause",
+        "time": 18.31
+      },
+      {
+        "text": "I'm",
+        "time": 18.89
+      },
+      {
+        "text": "too",
+        "time": 19.58
+      },
+      {
+        "text": "dumb",
+        "time": 20.263
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 21.028,
-    "text": "I'm never doing the right thing so I'm so stuck"
+    "text": "I'm never doing the right thing so I'm so stuck",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 21.567
+      },
+      {
+        "text": "never",
+        "time": 22.04
+      },
+      {
+        "text": "doing",
+        "time": 22.956
+      },
+      {
+        "text": "the",
+        "time": 23.792
+      },
+      {
+        "text": "right",
+        "time": 24.305
+      },
+      {
+        "text": "thing",
+        "time": 25.347
+      },
+      {
+        "text": "so",
+        "time": 26.323
+      },
+      {
+        "text": "I'm",
+        "time": 26.805
+      },
+      {
+        "text": "so",
+        "time": 27.592
+      },
+      {
+        "text": "stuck",
+        "time": 28.311
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 29.382,
-    "text": "If you see me in America I might say hi"
+    "text": "If you see me in America I might say hi",
+    "words": [
+      {
+        "text": "If",
+        "time": 29.918
+      },
+      {
+        "text": "you",
+        "time": 30.369
+      },
+      {
+        "text": "see",
+        "time": 30.863
+      },
+      {
+        "text": "me",
+        "time": 31.308
+      },
+      {
+        "text": "in",
+        "time": 31.795
+      },
+      {
+        "text": "America",
+        "time": 32.889
+      },
+      {
+        "text": "I",
+        "time": 33.882
+      },
+      {
+        "text": "might",
+        "time": 34.623
+      },
+      {
+        "text": "say",
+        "time": 35.413
+      },
+      {
+        "text": "hi",
+        "time": 36.144
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 37.083,
-    "text": "But if you meet me out in Europe I'm a talkative guy"
+    "text": "But if you meet me out in Europe I'm a talkative guy",
+    "words": [
+      {
+        "text": "But",
+        "time": 37.146
+      },
+      {
+        "text": "if",
+        "time": 37.711
+      },
+      {
+        "text": "you",
+        "time": 38.229
+      },
+      {
+        "text": "meet",
+        "time": 38.699
+      },
+      {
+        "text": "me",
+        "time": 39.175
+      },
+      {
+        "text": "out",
+        "time": 39.661
+      },
+      {
+        "text": "in",
+        "time": 40.097
+      },
+      {
+        "text": "Europe",
+        "time": 40.51
+      },
+      {
+        "text": "I'm",
+        "time": 41.769
+      },
+      {
+        "text": "a",
+        "time": 42.29
+      },
+      {
+        "text": "talkative",
+        "time": 42.786
+      },
+      {
+        "text": "guy",
+        "time": 44.226
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 45.204,
-    "text": "Maybe we'll talk over scones around lunch some time"
+    "text": "Maybe we'll talk over scones around lunch some time",
+    "words": [
+      {
+        "text": "Maybe",
+        "time": 45.913
+      },
+      {
+        "text": "we'll",
+        "time": 46.328
+      },
+      {
+        "text": "talk",
+        "time": 46.804
+      },
+      {
+        "text": "over",
+        "time": 47.833
+      },
+      {
+        "text": "scones",
+        "time": 48.692
+      },
+      {
+        "text": "around",
+        "time": 49.837
+      },
+      {
+        "text": "lunch",
+        "time": 50.773
+      },
+      {
+        "text": "some",
+        "time": 51.517
+      },
+      {
+        "text": "time",
+        "time": 52.162
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 53.19,
-    "text": "And I've never met a fan so it might be nice"
+    "text": "And I've never met a fan so it might be nice",
+    "words": [
+      {
+        "text": "And",
+        "time": 53.23
+      },
+      {
+        "text": "I've",
+        "time": 53.743
+      },
+      {
+        "text": "never",
+        "time": 55.267
+      },
+      {
+        "text": "met",
+        "time": 55.84
+      },
+      {
+        "text": "a",
+        "time": 56.295
+      },
+      {
+        "text": "fan",
+        "time": 56.694
+      },
+      {
+        "text": "so",
+        "time": 57.827
+      },
+      {
+        "text": "it",
+        "time": 58.269
+      },
+      {
+        "text": "might",
+        "time": 58.701
+      },
+      {
+        "text": "be",
+        "time": 59.436
+      },
+      {
+        "text": "nice",
+        "time": 60.155
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 61.503,
-    "text": "But I can't take this paparazzi, geez"
+    "text": "But I can't take this paparazzi, geez",
+    "words": [
+      {
+        "text": "But",
+        "time": 61.612
+      },
+      {
+        "text": "I",
+        "time": 62.153
+      },
+      {
+        "text": "can't",
+        "time": 62.646
+      },
+      {
+        "text": "take",
+        "time": 63.757
+      },
+      {
+        "text": "this",
+        "time": 64.206
+      },
+      {
+        "text": "paparazzi,",
+        "time": 64.705
+      },
+      {
+        "text": "geez",
+        "time": 68.246
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 69.137,
-    "text": "It's like the camera's always out and always starin' at me"
+    "text": "It's like the camera's always out and always starin' at me",
+    "words": [
+      {
+        "text": "It's",
+        "time": 69.347
+      },
+      {
+        "text": "like",
+        "time": 69.873
+      },
+      {
+        "text": "the",
+        "time": 70.319
+      },
+      {
+        "text": "camera's",
+        "time": 70.739
+      },
+      {
+        "text": "always",
+        "time": 71.841
+      },
+      {
+        "text": "out",
+        "time": 72.867
+      },
+      {
+        "text": "and",
+        "time": 73.302
+      },
+      {
+        "text": "always",
+        "time": 73.746
+      },
+      {
+        "text": "starin'",
+        "time": 74.899
+      },
+      {
+        "text": "at",
+        "time": 75.846
+      },
+      {
+        "text": "me",
+        "time": 76.277
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 77.327,
-    "text": "And if I say the wrong thing, they'll cut my tongue 'til it bleeds"
+    "text": "And if I say the wrong thing, they'll cut my tongue 'til it bleeds",
+    "words": [
+      {
+        "text": "And",
+        "time": 77.329
+      },
+      {
+        "text": "if",
+        "time": 77.838
+      },
+      {
+        "text": "I",
+        "time": 78.322
+      },
+      {
+        "text": "say",
+        "time": 78.785
+      },
+      {
+        "text": "the",
+        "time": 79.253
+      },
+      {
+        "text": "wrong",
+        "time": 79.724
+      },
+      {
+        "text": "thing,",
+        "time": 80.223
+      },
+      {
+        "text": "they'll",
+        "time": 81.395
+      },
+      {
+        "text": "cut",
+        "time": 81.742
+      },
+      {
+        "text": "my",
+        "time": 82.152
+      },
+      {
+        "text": "tongue",
+        "time": 83.052
+      },
+      {
+        "text": "'til",
+        "time": 83.511
+      },
+      {
+        "text": "it",
+        "time": 83.913
+      },
+      {
+        "text": "bleeds",
+        "time": 84.509
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 85.141,
-    "text": "Always whippin' out their pitchforks when you try to speak"
+    "text": "Always whippin' out their pitchforks when you try to speak",
+    "words": [
+      {
+        "text": "Always",
+        "time": 85.271
+      },
+      {
+        "text": "whippin'",
+        "time": 85.815
+      },
+      {
+        "text": "out",
+        "time": 86.992
+      },
+      {
+        "text": "their",
+        "time": 88.14
+      },
+      {
+        "text": "pitchforks",
+        "time": 88.694
+      },
+      {
+        "text": "when",
+        "time": 90.332
+      },
+      {
+        "text": "you",
+        "time": 90.833
+      },
+      {
+        "text": "try",
+        "time": 91.355
+      },
+      {
+        "text": "to",
+        "time": 91.792
+      },
+      {
+        "text": "speak",
+        "time": 92.195
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 93.767,
-    "text": "But that couldn't be me"
+    "text": "But that couldn't be me",
+    "words": [
+      {
+        "text": "But",
+        "time": 93.796
+      },
+      {
+        "text": "that",
+        "time": 94.268
+      },
+      {
+        "text": "couldn't",
+        "time": 94.736
+      },
+      {
+        "text": "be",
+        "time": 95.734
+      },
+      {
+        "text": "me",
+        "time": 96.187
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 97.975,
     "text": "Next day I'm walkin' the road, kickin' rocks, it's my fault",
-    "singer": 2
+    "singer": 2,
+    "words": [
+      {
+        "text": "Next",
+        "time": 97.194
+      },
+      {
+        "text": "day",
+        "time": 97.743
+      },
+      {
+        "text": "I'm",
+        "time": 98.201
+      },
+      {
+        "text": "walkin'",
+        "time": 98.711
+      },
+      {
+        "text": "the",
+        "time": 99.228
+      },
+      {
+        "text": "road,",
+        "time": 100.146
+      },
+      {
+        "text": "kickin'",
+        "time": 101.247
+      },
+      {
+        "text": "rocks,",
+        "time": 101.877
+      },
+      {
+        "text": "it's",
+        "time": 103.186
+      },
+      {
+        "text": "my",
+        "time": 103.712
+      },
+      {
+        "text": "fault",
+        "time": 104.123
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 105.327,
     "text": "My life's the worst story told, I'll be this way 'til I'm old",
-    "singer": 2
+    "singer": 2,
+    "words": [
+      {
+        "text": "My",
+        "time": 105.253
+      },
+      {
+        "text": "life's",
+        "time": 105.798
+      },
+      {
+        "text": "the",
+        "time": 106.414
+      },
+      {
+        "text": "worst",
+        "time": 106.872
+      },
+      {
+        "text": "story",
+        "time": 107.338
+      },
+      {
+        "text": "told,",
+        "time": 108.327
+      },
+      {
+        "text": "I'll",
+        "time": 109.22
+      },
+      {
+        "text": "be",
+        "time": 109.782
+      },
+      {
+        "text": "this",
+        "time": 110.273
+      },
+      {
+        "text": "way",
+        "time": 110.753
+      },
+      {
+        "text": "'til",
+        "time": 111.249
+      },
+      {
+        "text": "I'm",
+        "time": 111.683
+      },
+      {
+        "text": "old",
+        "time": 112.143
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 113.204,
     "text": "I rip a page out the book, I'm just so misunderstood",
-    "singer": 2
+    "singer": 2,
+    "words": [
+      {
+        "text": "I",
+        "time": 113.18
+      },
+      {
+        "text": "rip",
+        "time": 113.74
+      },
+      {
+        "text": "a",
+        "time": 114.219
+      },
+      {
+        "text": "page",
+        "time": 114.695
+      },
+      {
+        "text": "out",
+        "time": 115.175
+      },
+      {
+        "text": "the",
+        "time": 115.651
+      },
+      {
+        "text": "book,",
+        "time": 116.085
+      },
+      {
+        "text": "I'm",
+        "time": 117.22
+      },
+      {
+        "text": "just",
+        "time": 117.737
+      },
+      {
+        "text": "so",
+        "time": 118.193
+      },
+      {
+        "text": "misunderstood",
+        "time": 118.691
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 121.205,
     "text": "I always think about her and when my life felt good",
-    "singer": 2
+    "singer": 2,
+    "words": [
+      {
+        "text": "I",
+        "time": 121.288
+      },
+      {
+        "text": "always",
+        "time": 121.783
+      },
+      {
+        "text": "think",
+        "time": 122.884
+      },
+      {
+        "text": "about",
+        "time": 123.373
+      },
+      {
+        "text": "her",
+        "time": 123.828
+      },
+      {
+        "text": "and",
+        "time": 124.287
+      },
+      {
+        "text": "when",
+        "time": 125.796
+      },
+      {
+        "text": "my",
+        "time": 126.315
+      },
+      {
+        "text": "life",
+        "time": 126.775
+      },
+      {
+        "text": "felt",
+        "time": 127.29
+      },
+      {
+        "text": "good",
+        "time": 127.974
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 129.187,
     "text": "I smoked a cig on the porch",
-    "singer": 2
+    "singer": 2,
+    "words": [
+      {
+        "text": "I",
+        "time": 129.138
+      },
+      {
+        "text": "smoked",
+        "time": 129.642
+      },
+      {
+        "text": "a",
+        "time": 130.203
+      },
+      {
+        "text": "cig",
+        "time": 130.713
+      },
+      {
+        "text": "on",
+        "time": 131.192
+      },
+      {
+        "text": "the",
+        "time": 131.682
+      },
+      {
+        "text": "porch",
+        "time": 132.119
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 133.198,
     "text": "It doesn't help me at all, I wonder what's it all for?",
-    "singer": 2
+    "singer": 2,
+    "words": [
+      {
+        "text": "It",
+        "time": 133.238
+      },
+      {
+        "text": "doesn't",
+        "time": 133.782
+      },
+      {
+        "text": "help",
+        "time": 134.796
+      },
+      {
+        "text": "me",
+        "time": 135.292
+      },
+      {
+        "text": "at",
+        "time": 135.783
+      },
+      {
+        "text": "all,",
+        "time": 136.238
+      },
+      {
+        "text": "I",
+        "time": 137.212
+      },
+      {
+        "text": "wonder",
+        "time": 137.76
+      },
+      {
+        "text": "what's",
+        "time": 138.362
+      },
+      {
+        "text": "it",
+        "time": 139.162
+      },
+      {
+        "text": "all",
+        "time": 139.662
+      },
+      {
+        "text": "for?",
+        "time": 140.349
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 141.224,
     "text": "Is this the girl I adored and I know I can't afford",
-    "singer": 2
+    "singer": 2,
+    "words": [
+      {
+        "text": "Is",
+        "time": 141.408
+      },
+      {
+        "text": "this",
+        "time": 141.916
+      },
+      {
+        "text": "the",
+        "time": 142.391
+      },
+      {
+        "text": "girl",
+        "time": 142.82
+      },
+      {
+        "text": "I",
+        "time": 143.308
+      },
+      {
+        "text": "adored",
+        "time": 143.792
+      },
+      {
+        "text": "and",
+        "time": 145.219
+      },
+      {
+        "text": "I",
+        "time": 145.772
+      },
+      {
+        "text": "know",
+        "time": 146.228
+      },
+      {
+        "text": "I",
+        "time": 146.729
+      },
+      {
+        "text": "can't",
+        "time": 147.228
+      },
+      {
+        "text": "afford",
+        "time": 147.693
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 149.01,
     "text": "Watchin' her walk out the door",
-    "singer": 2
+    "singer": 2,
+    "words": [
+      {
+        "text": "Watchin'",
+        "time": 149.258
+      },
+      {
+        "text": "her",
+        "time": 149.798
+      },
+      {
+        "text": "walk",
+        "time": 150.219
+      },
+      {
+        "text": "out",
+        "time": 150.671
+      },
+      {
+        "text": "the",
+        "time": 151.168
+      },
+      {
+        "text": "door",
+        "time": 151.615
+      }
+    ],
+    "adlibs": ""
   },
   {
     "time": 153.244,
     "text": "So I keep it to myself and keep my feet on the floor",
-    "singer": 2
+    "singer": 2,
+    "words": [
+      {
+        "text": "So",
+        "time": 153.153
+      },
+      {
+        "text": "I",
+        "time": 153.719
+      },
+      {
+        "text": "keep",
+        "time": 154.209
+      },
+      {
+        "text": "it",
+        "time": 154.716
+      },
+      {
+        "text": "to",
+        "time": 155.209
+      },
+      {
+        "text": "myself",
+        "time": 156.053
+      },
+      {
+        "text": "and",
+        "time": 157.154
+      },
+      {
+        "text": "keep",
+        "time": 157.688
+      },
+      {
+        "text": "my",
+        "time": 158.228
+      },
+      {
+        "text": "feet",
+        "time": 158.703
+      },
+      {
+        "text": "on",
+        "time": 159.231
+      },
+      {
+        "text": "the",
+        "time": 159.708
+      },
+      {
+        "text": "floor",
+        "time": 161.012
+      }
+    ],
+    "adlibs": ""
   }
 ]
