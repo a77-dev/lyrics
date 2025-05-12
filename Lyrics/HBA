@@ -1,230 +1,2322 @@
 [
   {
     "time": 41.9,
-    "text": "Uh, you gotta get high like this"
+    "text": "Uh, you gotta get high like this",
+    "words": [
+      {
+        "text": "Uh,",
+        "time": 42.132
+      },
+      {
+        "text": "you",
+        "time": 43.056
+      },
+      {
+        "text": "gotta",
+        "time": 43.332
+      },
+      {
+        "text": "get",
+        "time": 43.75
+      },
+      {
+        "text": "high",
+        "time": 44.283
+      },
+      {
+        "text": "like",
+        "time": 44.777
+      },
+      {
+        "text": "this",
+        "time": 45.188
+      }
+    ]
   },
   {
     "time": 45.84,
-    "text": "You gotta get high like me"
+    "text": "You gotta get high like me",
+    "words": [
+      {
+        "text": "You",
+        "time": 46.481
+      },
+      {
+        "text": "gotta",
+        "time": 46.734
+      },
+      {
+        "text": "get",
+        "time": 47.334
+      },
+      {
+        "text": "high",
+        "time": 47.79
+      },
+      {
+        "text": "like",
+        "time": 48.258
+      },
+      {
+        "text": "me",
+        "time": 48.674
+      }
+    ]
   },
   {
     "time": 49.44,
-    "text": "You gotta get high like this"
+    "text": "You gotta get high like this",
+    "words": [
+      {
+        "text": "You",
+        "time": 49.961
+      },
+      {
+        "text": "gotta",
+        "time": 50.219
+      },
+      {
+        "text": "get",
+        "time": 50.869
+      },
+      {
+        "text": "high",
+        "time": 51.329
+      },
+      {
+        "text": "like",
+        "time": 51.77
+      },
+      {
+        "text": "this",
+        "time": 52.19
+      }
+    ]
   },
   {
     "time": 52.96,
-    "text": "You gotta get high like me"
+    "text": "You gotta get high like me",
+    "words": [
+      {
+        "text": "You",
+        "time": 53.412
+      },
+      {
+        "text": "gotta",
+        "time": 53.678
+      },
+      {
+        "text": "get",
+        "time": 54.242
+      },
+      {
+        "text": "high",
+        "time": 54.681
+      },
+      {
+        "text": "like",
+        "time": 55.183
+      },
+      {
+        "text": "me",
+        "time": 55.552
+      }
+    ]
   },
   {
     "time": 56.18,
-    "text": "You gotta get high like this"
+    "text": "You gotta get high like this",
+    "words": [
+      {
+        "text": "You",
+        "time": 56.824
+      },
+      {
+        "text": "gotta",
+        "time": 57.132
+      },
+      {
+        "text": "get",
+        "time": 57.617
+      },
+      {
+        "text": "high",
+        "time": 58.086
+      },
+      {
+        "text": "like",
+        "time": 58.536
+      },
+      {
+        "text": "this",
+        "time": 58.954
+      }
+    ]
   },
   {
     "time": 59.4,
-    "text": "You gotta get high like me"
+    "text": "You gotta get high like me",
+    "words": [
+      {
+        "text": "You",
+        "time": 60.258
+      },
+      {
+        "text": "gotta",
+        "time": 60.534
+      },
+      {
+        "text": "get",
+        "time": 61.096
+      },
+      {
+        "text": "high",
+        "time": 61.533
+      },
+      {
+        "text": "like",
+        "time": 61.951
+      },
+      {
+        "text": "me",
+        "time": 62.373
+      }
+    ]
   },
   {
     "time": 62.86,
-    "text": "You gotta get high like this"
+    "text": "You gotta get high like this",
+    "words": [
+      {
+        "text": "You",
+        "time": 63.613
+      },
+      {
+        "text": "gotta",
+        "time": 63.904
+      },
+      {
+        "text": "get",
+        "time": 64.436
+      },
+      {
+        "text": "high",
+        "time": 64.901
+      },
+      {
+        "text": "like",
+        "time": 65.284
+      },
+      {
+        "text": "this",
+        "time": 65.707
+      }
+    ]
   },
   {
     "time": 66.32,
-    "text": "You gotta get high like me"
+    "text": "You gotta get high like me",
+    "words": [
+      {
+        "text": "You",
+        "time": 66.954
+      },
+      {
+        "text": "gotta",
+        "time": 67.25
+      },
+      {
+        "text": "get",
+        "time": 67.902
+      },
+      {
+        "text": "high",
+        "time": 68.315
+      },
+      {
+        "text": "like",
+        "time": 68.747
+      },
+      {
+        "text": "me",
+        "time": 69.105
+      }
+    ]
   },
   {
     "time": 69.92,
-    "text": "I'm ******' these *******, alright"
+    "text": "I'm ******' these *******, alright",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 70.204
+      },
+      {
+        "text": "******'",
+        "time": 70.482
+      },
+      {
+        "text": "these",
+        "time": 70.877
+      },
+      {
+        "text": "*******,",
+        "time": 71.224
+      },
+      {
+        "text": "alright",
+        "time": 71.503
+      }
+    ]
   },
   {
     "time": 73.18,
-    "text": "I'm havin' my way, alright, uh"
+    "text": "I'm havin' my way, alright, uh",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 71.855
+      },
+      {
+        "text": "havin'",
+        "time": 73.835
+      },
+      {
+        "text": "my",
+        "time": 74.473
+      },
+      {
+        "text": "way,",
+        "time": 74.722
+      },
+      {
+        "text": "alright,",
+        "time": 75.363
+      },
+      {
+        "text": "uh",
+        "time": 75.666
+      }
+    ]
   },
   {
     "time": 76.84,
-    "text": "My fingers, they mother******' tight"
+    "text": "My fingers, they mother******' tight",
+    "words": [
+      {
+        "text": "My",
+        "time": 77.015
+      },
+      {
+        "text": "fingers,",
+        "time": 77.281
+      },
+      {
+        "text": "they",
+        "time": 77.548
+      },
+      {
+        "text": "mother******'",
+        "time": 77.844
+      },
+      {
+        "text": "tight",
+        "time": 78.969
+      }
+    ]
   },
   {
     "time": 79.98,
-    "text": "My eyes are open, I'm high"
+    "text": "My eyes are open, I'm high",
+    "words": [
+      {
+        "text": "My",
+        "time": 80.258
+      },
+      {
+        "text": "eyes",
+        "time": 80.583
+      },
+      {
+        "text": "are",
+        "time": 81.23
+      },
+      {
+        "text": "open,",
+        "time": 81.518
+      },
+      {
+        "text": "I'm",
+        "time": 82.109
+      },
+      {
+        "text": "high",
+        "time": 82.324
+      }
+    ]
   },
   {
     "time": 83.56,
-    "text": "I can't believe I can die"
+    "text": "I can't believe I can die",
+    "words": [
+      {
+        "text": "I",
+        "time": 83.688
+      },
+      {
+        "text": "can't",
+        "time": 84.089
+      },
+      {
+        "text": "believe",
+        "time": 84.72
+      },
+      {
+        "text": "I",
+        "time": 85.276
+      },
+      {
+        "text": "can",
+        "time": 85.568
+      },
+      {
+        "text": "die",
+        "time": 85.889
+      }
+    ]
   },
   {
     "time": 87.12,
-    "text": "I just realized I was high"
+    "text": "I just realized I was high",
+    "words": [
+      {
+        "text": "I",
+        "time": 87.135
+      },
+      {
+        "text": "just",
+        "time": 87.569
+      },
+      {
+        "text": "realized",
+        "time": 88.174
+      },
+      {
+        "text": "I",
+        "time": 88.585
+      },
+      {
+        "text": "was",
+        "time": 88.903
+      },
+      {
+        "text": "high",
+        "time": 89.22
+      }
+    ]
   },
   {
     "time": 90.46,
-    "text": "I was 17 on the mic"
+    "text": "I was 17 on the mic",
+    "words": [
+      {
+        "text": "I",
+        "time": 90.453
+      },
+      {
+        "text": "was",
+        "time": 90.846
+      },
+      {
+        "text": "17",
+        "time": 91.733
+      },
+      {
+        "text": "on",
+        "time": 92.273
+      },
+      {
+        "text": "the",
+        "time": 92.644
+      },
+      {
+        "text": "mic",
+        "time": 92.945
+      }
+    ]
   },
   {
     "time": 93.66,
-    "text": "I'm tryna be Carti, not Mike"
+    "text": "I'm tryna be Carti, not Mike",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 94.088
+      },
+      {
+        "text": "tryna",
+        "time": 94.455
+      },
+      {
+        "text": "be",
+        "time": 94.809
+      },
+      {
+        "text": "Carti,",
+        "time": 95.218
+      },
+      {
+        "text": "not",
+        "time": 95.599
+      },
+      {
+        "text": "Mike",
+        "time": 96.045
+      }
+    ]
   },
   {
     "time": 97.28,
-    "text": "I'm a gigolo, **, I bite"
+    "text": "I'm a gigolo, **, I bite",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 97.2
+      },
+      {
+        "text": "a",
+        "time": 97.552
+      },
+      {
+        "text": "gigolo,",
+        "time": 97.917
+      },
+      {
+        "text": "**,",
+        "time": 98.617
+      },
+      {
+        "text": "I",
+        "time": 99.063
+      },
+      {
+        "text": "bite",
+        "time": 99.428
+      }
+    ]
   },
   {
     "time": 100.34,
-    "text": "My whole career, they bite"
+    "text": "My whole career, they bite",
+    "words": [
+      {
+        "text": "My",
+        "time": 100.813
+      },
+      {
+        "text": "whole",
+        "time": 101.336
+      },
+      {
+        "text": "career,",
+        "time": 101.9
+      },
+      {
+        "text": "they",
+        "time": 102.403
+      },
+      {
+        "text": "bite",
+        "time": 102.805
+      }
+    ]
   },
   {
     "time": 103.7,
-    "text": "Some ****** still thinkin' they faster than me"
+    "text": "Some ****** still thinkin' they faster than me",
+    "words": [
+      {
+        "text": "Some",
+        "time": 104.166
+      },
+      {
+        "text": "******",
+        "time": 104.778
+      },
+      {
+        "text": "still",
+        "time": 105.381
+      },
+      {
+        "text": "thinkin'",
+        "time": 105.714
+      },
+      {
+        "text": "they",
+        "time": 106.082
+      },
+      {
+        "text": "faster",
+        "time": 106.423
+      },
+      {
+        "text": "than",
+        "time": 106.729
+      },
+      {
+        "text": "me",
+        "time": 107.053
+      }
+    ]
   },
   {
     "time": 107.58,
-    "text": "Somebody should tell 'em they dyin'"
+    "text": "Somebody should tell 'em they dyin'",
+    "words": [
+      {
+        "text": "Somebody",
+        "time": 107.78
+      },
+      {
+        "text": "should",
+        "time": 108.157
+      },
+      {
+        "text": "tell",
+        "time": 108.586
+      },
+      {
+        "text": "'em",
+        "time": 108.934
+      },
+      {
+        "text": "they",
+        "time": 109.245
+      },
+      {
+        "text": "dyin'",
+        "time": 109.583
+      }
+    ]
   },
   {
     "time": 110.76,
-    "text": "I'm done with these ****** and dissin', I just be pissin', I don't give a ****"
+    "text": "I'm done with these ****** and dissin', I just be pissin', I don't give a ****",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 111.156
+      },
+      {
+        "text": "done",
+        "time": 111.518
+      },
+      {
+        "text": "with",
+        "time": 111.896
+      },
+      {
+        "text": "these",
+        "time": 112.264
+      },
+      {
+        "text": "******",
+        "time": 112.676
+      },
+      {
+        "text": "and",
+        "time": 113.002
+      },
+      {
+        "text": "dissin',",
+        "time": 114.135
+      },
+      {
+        "text": "I",
+        "time": 114.485
+      },
+      {
+        "text": "just",
+        "time": 114.78
+      },
+      {
+        "text": "be",
+        "time": 115.073
+      },
+      {
+        "text": "pissin',",
+        "time": 115.437
+      },
+      {
+        "text": "I",
+        "time": 115.755
+      },
+      {
+        "text": "don't",
+        "time": 116.041
+      },
+      {
+        "text": "give",
+        "time": 116.347
+      },
+      {
+        "text": "a",
+        "time": 116.634
+      },
+      {
+        "text": "****",
+        "time": 117.384
+      }
+    ]
   },
   {
     "time": 117.66,
-    "text": "I know I'm on your moodboard, *****, I'm tryna tell you your ho gon' ****"
+    "text": "I know I'm on your moodboard, *****, I'm tryna tell you your ho gon' ****",
+    "words": [
+      {
+        "text": "I",
+        "time": 118.348
+      },
+      {
+        "text": "know",
+        "time": 118.65
+      },
+      {
+        "text": "I'm",
+        "time": 118.947
+      },
+      {
+        "text": "on",
+        "time": 119.256
+      },
+      {
+        "text": "your",
+        "time": 119.593
+      },
+      {
+        "text": "moodboard,",
+        "time": 119.91
+      },
+      {
+        "text": "*****,",
+        "time": 120.218
+      },
+      {
+        "text": "I'm",
+        "time": 120.516
+      },
+      {
+        "text": "tryna",
+        "time": 120.856
+      },
+      {
+        "text": "tell",
+        "time": 121.153
+      },
+      {
+        "text": "you",
+        "time": 121.493
+      },
+      {
+        "text": "your",
+        "time": 121.84
+      },
+      {
+        "text": "ho",
+        "time": 122.255
+      },
+      {
+        "text": "gon'",
+        "time": 122.682
+      },
+      {
+        "text": "****",
+        "time": 123.085
+      }
+    ]
   },
   {
     "time": 131.72,
-    "text": "If you really got a problem, we can handle that problem, yeah, body to body"
+    "text": "If you really got a problem, we can handle that problem, yeah, body to body",
+    "words": [
+      {
+        "text": "If",
+        "time": 131.66
+      },
+      {
+        "text": "you",
+        "time": 132.099
+      },
+      {
+        "text": "really",
+        "time": 132.45
+      },
+      {
+        "text": "got",
+        "time": 132.767
+      },
+      {
+        "text": "a",
+        "time": 133.124
+      },
+      {
+        "text": "problem,",
+        "time": 133.418
+      },
+      {
+        "text": "we",
+        "time": 133.711
+      },
+      {
+        "text": "can",
+        "time": 133.986
+      },
+      {
+        "text": "handle",
+        "time": 134.221
+      },
+      {
+        "text": "that",
+        "time": 134.475
+      },
+      {
+        "text": "problem,",
+        "time": 134.733
+      },
+      {
+        "text": "yeah,",
+        "time": 135.105
+      },
+      {
+        "text": "body",
+        "time": 135.492
+      },
+      {
+        "text": "to",
+        "time": 135.792
+      },
+      {
+        "text": "body",
+        "time": 136.212
+      }
+    ]
   },
   {
     "time": 142,
-    "text": "Buffy the body, my **** got body, Buffy the body"
+    "text": "Buffy the body, my **** got body, Buffy the body",
+    "words": [
+      {
+        "text": "Buffy",
+        "time": 139
+      },
+      {
+        "text": "the",
+        "time": 139.31
+      },
+      {
+        "text": "body,",
+        "time": 143.187
+      },
+      {
+        "text": "my",
+        "time": 144.049
+      },
+      {
+        "text": "****",
+        "time": 144.349
+      },
+      {
+        "text": "got",
+        "time": 144.631
+      },
+      {
+        "text": "body,",
+        "time": 144.929
+      },
+      {
+        "text": "Buffy",
+        "time": 145.769
+      },
+      {
+        "text": "the",
+        "time": 146.068
+      },
+      {
+        "text": "body",
+        "time": 146.375
+      }
+    ]
   },
   {
     "time": 149.14,
-    "text": "My **** got body, yeah, my ***** got body, yeah, my ***** got body"
+    "text": "My **** got body, yeah, my ***** got body, yeah, my ***** got body",
+    "words": [
+      {
+        "text": "My",
+        "time": 146.656
+      },
+      {
+        "text": "****",
+        "time": 149.701
+      },
+      {
+        "text": "got",
+        "time": 150.024
+      },
+      {
+        "text": "body,",
+        "time": 150.339
+      },
+      {
+        "text": "yeah,",
+        "time": 150.7
+      },
+      {
+        "text": "my",
+        "time": 151.073
+      },
+      {
+        "text": "*****",
+        "time": 151.355
+      },
+      {
+        "text": "got",
+        "time": 151.659
+      },
+      {
+        "text": "body,",
+        "time": 151.972
+      },
+      {
+        "text": "yeah,",
+        "time": 152.269
+      },
+      {
+        "text": "my",
+        "time": 152.596
+      },
+      {
+        "text": "*****",
+        "time": 152.912
+      },
+      {
+        "text": "got",
+        "time": 153.241
+      },
+      {
+        "text": "body",
+        "time": 153.927
+      }
+    ]
   },
   {
     "time": 155.76,
-    "text": "She screech like a hyena when I get her body"
+    "text": "She screech like a hyena when I get her body",
+    "words": [
+      {
+        "text": "She",
+        "time": 155.848
+      },
+      {
+        "text": "screech",
+        "time": 156.19
+      },
+      {
+        "text": "like",
+        "time": 156.529
+      },
+      {
+        "text": "a",
+        "time": 156.856
+      },
+      {
+        "text": "hyena",
+        "time": 157.153
+      },
+      {
+        "text": "when",
+        "time": 159.167
+      },
+      {
+        "text": "I",
+        "time": 159.488
+      },
+      {
+        "text": "get",
+        "time": 160.127
+      },
+      {
+        "text": "her",
+        "time": 160.419
+      },
+      {
+        "text": "body",
+        "time": 160.661
+      }
+    ]
   },
   {
     "time": 165.54,
-    "text": "Travel the world, huh, huh, schyeah, hol' up"
+    "text": "Travel the world, huh, huh, schyeah, hol' up",
+    "words": [
+      {
+        "text": "Travel",
+        "time": 172.501
+      },
+      {
+        "text": "the",
+        "time": 172.802
+      },
+      {
+        "text": "world,",
+        "time": 173.245
+      },
+      {
+        "text": "huh,",
+        "time": 175.026
+      },
+      {
+        "text": "huh,",
+        "time": 175.667
+      },
+      {
+        "text": "schyeah,",
+        "time": 176.788
+      },
+      {
+        "text": "hol'",
+        "time": 177.576
+      },
+      {
+        "text": "up",
+        "time": 177.844
+      }
+    ]
   },
   {
     "time": 170.94,
-    "text": "On tour with your girl"
+    "text": "On tour with your girl",
+    "words": [
+      {
+        "text": "On",
+        "time": 179.147
+      },
+      {
+        "text": "tour",
+        "time": 179.443
+      },
+      {
+        "text": "with",
+        "time": 179.725
+      },
+      {
+        "text": "your",
+        "time": 180.037
+      },
+      {
+        "text": "girl",
+        "time": 180.364
+      }
+    ]
   },
   {
     "time": 175.2,
-    "text": "It's not my world, it's Mali world"
+    "text": "It's not my world, it's Mali world",
+    "words": [
+      {
+        "text": "It's",
+        "time": 185.699
+      },
+      {
+        "text": "not",
+        "time": 186.125
+      },
+      {
+        "text": "my",
+        "time": 186.516
+      },
+      {
+        "text": "world,",
+        "time": 187.001
+      },
+      {
+        "text": "it's",
+        "time": 189.072
+      },
+      {
+        "text": "Mali",
+        "time": 189.638
+      },
+      {
+        "text": "world",
+        "time": 190.24
+      }
+    ]
   },
   {
     "time": 182.1,
-    "text": "And she's not my girl, she's Mali's girl"
+    "text": "And she's not my girl, she's Mali's girl",
+    "words": [
+      {
+        "text": "And",
+        "time": 192.42
+      },
+      {
+        "text": "she's",
+        "time": 192.7
+      },
+      {
+        "text": "not",
+        "time": 193.156
+      },
+      {
+        "text": "my",
+        "time": 193.576
+      },
+      {
+        "text": "girl,",
+        "time": 193.979
+      },
+      {
+        "text": "she's",
+        "time": 195.934
+      },
+      {
+        "text": "Mali's",
+        "time": 196.433
+      },
+      {
+        "text": "girl",
+        "time": 196.991
+      }
+    ]
   },
   {
     "time": 186.08,
-    "text": "You play with my top, get a referral"
+    "text": "You play with my top, get a referral",
+    "words": [
+      {
+        "text": "You",
+        "time": 206.432
+      },
+      {
+        "text": "play",
+        "time": 207.199
+      },
+      {
+        "text": "with",
+        "time": 207.487
+      },
+      {
+        "text": "my",
+        "time": 207.721
+      },
+      {
+        "text": "top,",
+        "time": 208.06
+      },
+      {
+        "text": "get",
+        "time": 209.804
+      },
+      {
+        "text": "a",
+        "time": 210.225
+      },
+      {
+        "text": "referral",
+        "time": 210.63
+      }
+    ]
   },
   {
     "time": 193.1,
-    "text": "Put him in smoke, he reefer"
+    "text": "Put him in smoke, he reefer",
+    "words": [
+      {
+        "text": "Put",
+        "time": 213.638
+      },
+      {
+        "text": "him",
+        "time": 214.013
+      },
+      {
+        "text": "in",
+        "time": 214.414
+      },
+      {
+        "text": "smoke,",
+        "time": 214.671
+      },
+      {
+        "text": "he",
+        "time": 216.625
+      },
+      {
+        "text": "reefer",
+        "time": 217.073
+      }
+    ]
   },
   {
     "time": 199.54,
-    "text": "Put him in a coffin, put him in a coffin"
+    "text": "Put him in a coffin, put him in a coffin",
+    "words": [
+      {
+        "text": "Put",
+        "time": 220.54
+      },
+      {
+        "text": "him",
+        "time": 220.73
+      },
+      {
+        "text": "in",
+        "time": 220.948
+      },
+      {
+        "text": "a",
+        "time": 221.16
+      },
+      {
+        "text": "coffin,",
+        "time": 221.415
+      },
+      {
+        "text": "put",
+        "time": 223.936
+      },
+      {
+        "text": "him",
+        "time": 224.213
+      },
+      {
+        "text": "in",
+        "time": 224.383
+      },
+      {
+        "text": "a",
+        "time": 224.629
+      },
+      {
+        "text": "coffin",
+        "time": 224.842
+      }
+    ]
   },
   {
     "time": 206.74,
-    "text": "Put him in a, uh, put him in a, uh, put him in a coffin"
+    "text": "Put him in a, uh, put him in a, uh, put him in a coffin",
+    "words": [
+      {
+        "text": "Put",
+        "time": 227.404
+      },
+      {
+        "text": "him",
+        "time": 227.643
+      },
+      {
+        "text": "in",
+        "time": 227.823
+      },
+      {
+        "text": "a,",
+        "time": 228.051
+      },
+      {
+        "text": "uh,",
+        "time": 228.26
+      },
+      {
+        "text": "put",
+        "time": 229.176
+      },
+      {
+        "text": "him",
+        "time": 229.324
+      },
+      {
+        "text": "in",
+        "time": 229.556
+      },
+      {
+        "text": "a,",
+        "time": 229.789
+      },
+      {
+        "text": "uh,",
+        "time": 229.995
+      },
+      {
+        "text": "put",
+        "time": 230.815
+      },
+      {
+        "text": "him",
+        "time": 231.006
+      },
+      {
+        "text": "in",
+        "time": 231.22
+      },
+      {
+        "text": "a",
+        "time": 231.476
+      },
+      {
+        "text": "coffin",
+        "time": 231.683
+      }
+    ]
   },
   {
     "time": 213.28,
-    "text": "I jump out the Lam' truck, she thought that I lost it"
+    "text": "I jump out the Lam' truck, she thought that I lost it",
+    "words": [
+      {
+        "text": "I",
+        "time": 233.901
+      },
+      {
+        "text": "jump",
+        "time": 234.194
+      },
+      {
+        "text": "out",
+        "time": 234.422
+      },
+      {
+        "text": "the",
+        "time": 234.637
+      },
+      {
+        "text": "Lam'",
+        "time": 234.924
+      },
+      {
+        "text": "truck,",
+        "time": 235.962
+      },
+      {
+        "text": "she",
+        "time": 237.371
+      },
+      {
+        "text": "thought",
+        "time": 237.544
+      },
+      {
+        "text": "that",
+        "time": 237.78
+      },
+      {
+        "text": "I",
+        "time": 238.053
+      },
+      {
+        "text": "lost",
+        "time": 238.338
+      },
+      {
+        "text": "it",
+        "time": 238.868
+      }
+    ]
   },
   {
     "time": 220.34,
-    "text": "I jump out my Redeye, push out, then I go to Boston"
+    "text": "I jump out my Redeye, push out, then I go to Boston",
+    "words": [
+      {
+        "text": "I",
+        "time": 240.878
+      },
+      {
+        "text": "jump",
+        "time": 241.193
+      },
+      {
+        "text": "out",
+        "time": 241.334
+      },
+      {
+        "text": "my",
+        "time": 241.596
+      },
+      {
+        "text": "Redeye,",
+        "time": 241.879
+      },
+      {
+        "text": "push",
+        "time": 243.082
+      },
+      {
+        "text": "out,",
+        "time": 243.581
+      },
+      {
+        "text": "then",
+        "time": 244.25
+      },
+      {
+        "text": "I",
+        "time": 244.56
+      },
+      {
+        "text": "go",
+        "time": 244.789
+      },
+      {
+        "text": "to",
+        "time": 245.001
+      },
+      {
+        "text": "Boston",
+        "time": 245.303
+      }
+    ]
   },
   {
     "time": 227.54,
-    "text": "I stay with like ten *****, Austin"
+    "text": "I stay with like ten *****, Austin",
+    "words": [
+      {
+        "text": "I",
+        "time": 247.557
+      },
+      {
+        "text": "stay",
+        "time": 247.958
+      },
+      {
+        "text": "with",
+        "time": 248.262
+      },
+      {
+        "text": "like",
+        "time": 248.471
+      },
+      {
+        "text": "ten",
+        "time": 248.949
+      },
+      {
+        "text": "*****,",
+        "time": 249.565
+      },
+      {
+        "text": "Austin",
+        "time": 250.607
+      }
+    ]
   },
   {
     "time": 231.96,
-    "text": "Everything is awesome, FA, ****** awesome"
+    "text": "Everything is awesome, FA, ****** awesome",
+    "words": [
+      {
+        "text": "Everything",
+        "time": 252.265
+      },
+      {
+        "text": "is",
+        "time": 252.759
+      },
+      {
+        "text": "awesome,",
+        "time": 253.139
+      },
+      {
+        "text": "FA,",
+        "time": 255.683
+      },
+      {
+        "text": "******",
+        "time": 256.986
+      },
+      {
+        "text": "awesome",
+        "time": 257.589
+      }
+    ]
   },
   {
     "time": 238.46,
-    "text": "Make sure you tell them ****** watch me, they don't know how I cross over"
+    "text": "Make sure you tell them ****** watch me, they don't know how I cross over",
+    "words": [
+      {
+        "text": "Make",
+        "time": 259.092
+      },
+      {
+        "text": "sure",
+        "time": 259.336
+      },
+      {
+        "text": "you",
+        "time": 259.589
+      },
+      {
+        "text": "tell",
+        "time": 259.917
+      },
+      {
+        "text": "them",
+        "time": 260.18
+      },
+      {
+        "text": "******",
+        "time": 260.467
+      },
+      {
+        "text": "watch",
+        "time": 260.768
+      },
+      {
+        "text": "me,",
+        "time": 261.261
+      },
+      {
+        "text": "they",
+        "time": 261.983
+      },
+      {
+        "text": "don't",
+        "time": 262.306
+      },
+      {
+        "text": "know",
+        "time": 262.836
+      },
+      {
+        "text": "how",
+        "time": 263.199
+      },
+      {
+        "text": "I",
+        "time": 263.434
+      },
+      {
+        "text": "cross",
+        "time": 263.724
+      },
+      {
+        "text": "over",
+        "time": 264.461
+      }
+    ]
   },
   {
     "time": 245.28,
-    "text": "Double O, yeah, the biggest ever, we just gettin' ready for the crossover"
+    "text": "Double O, yeah, the biggest ever, we just gettin' ready for the crossover",
+    "words": [
+      {
+        "text": "Double",
+        "time": 266.008
+      },
+      {
+        "text": "O,",
+        "time": 266.542
+      },
+      {
+        "text": "yeah,",
+        "time": 267.129
+      },
+      {
+        "text": "the",
+        "time": 267.644
+      },
+      {
+        "text": "biggest",
+        "time": 267.908
+      },
+      {
+        "text": "ever,",
+        "time": 268.115
+      },
+      {
+        "text": "we",
+        "time": 269.031
+      },
+      {
+        "text": "just",
+        "time": 269.197
+      },
+      {
+        "text": "gettin'",
+        "time": 269.477
+      },
+      {
+        "text": "ready",
+        "time": 269.753
+      },
+      {
+        "text": "for",
+        "time": 270.051
+      },
+      {
+        "text": "the",
+        "time": 270.312
+      },
+      {
+        "text": "crossover",
+        "time": 270.632
+      }
+    ]
   },
   {
     "time": 252.56,
-    "text": "Tell the driver he need to pull over, let this ***** come top, then over"
+    "text": "Tell the driver he need to pull over, let this ***** come top, then over",
+    "words": [
+      {
+        "text": "Tell",
+        "time": 272.624
+      },
+      {
+        "text": "the",
+        "time": 272.947
+      },
+      {
+        "text": "driver",
+        "time": 273.287
+      },
+      {
+        "text": "he",
+        "time": 273.533
+      },
+      {
+        "text": "need",
+        "time": 273.863
+      },
+      {
+        "text": "to",
+        "time": 274.131
+      },
+      {
+        "text": "pull",
+        "time": 274.501
+      },
+      {
+        "text": "over,",
+        "time": 275.145
+      },
+      {
+        "text": "let",
+        "time": 276.271
+      },
+      {
+        "text": "this",
+        "time": 276.572
+      },
+      {
+        "text": "*****",
+        "time": 276.815
+      },
+      {
+        "text": "come",
+        "time": 277.142
+      },
+      {
+        "text": "top,",
+        "time": 277.445
+      },
+      {
+        "text": "then",
+        "time": 277.956
+      },
+      {
+        "text": "over",
+        "time": 278.494
+      }
+    ]
   },
   {
     "time": 259.34,
-    "text": "Nosebleed, yeah, high speed, huh, I can get the rollover"
+    "text": "Nosebleed, yeah, high speed, huh, I can get the rollover",
+    "words": [
+      {
+        "text": "Nosebleed,",
+        "time": 279.525
+      },
+      {
+        "text": "yeah,",
+        "time": 279.947
+      },
+      {
+        "text": "high",
+        "time": 281.272
+      },
+      {
+        "text": "speed,",
+        "time": 281.922
+      },
+      {
+        "text": "huh,",
+        "time": 282.539
+      },
+      {
+        "text": "I",
+        "time": 283.142
+      },
+      {
+        "text": "can",
+        "time": 283.659
+      },
+      {
+        "text": "get",
+        "time": 284.346
+      },
+      {
+        "text": "the",
+        "time": 284.643
+      },
+      {
+        "text": "rollover",
+        "time": 285.411
+      }
+    ]
   },
   {
     "time": 265.86,
-    "text": "You been actin' funny, and you fake poppin', yeah, just like hot soda"
+    "text": "You been actin' funny, and you fake poppin', yeah, just like hot soda",
+    "words": [
+      {
+        "text": "You",
+        "time": 286.533
+      },
+      {
+        "text": "been",
+        "time": 287.001
+      },
+      {
+        "text": "actin'",
+        "time": 287.395
+      },
+      {
+        "text": "funny,",
+        "time": 287.992
+      },
+      {
+        "text": "and",
+        "time": 288.458
+      },
+      {
+        "text": "you",
+        "time": 288.9
+      },
+      {
+        "text": "fake",
+        "time": 289.341
+      },
+      {
+        "text": "poppin',",
+        "time": 289.801
+      },
+      {
+        "text": "yeah,",
+        "time": 290.224
+      },
+      {
+        "text": "just",
+        "time": 290.638
+      },
+      {
+        "text": "like",
+        "time": 291.087
+      },
+      {
+        "text": "hot",
+        "time": 291.609
+      },
+      {
+        "text": "soda",
+        "time": 292.168
+      }
+    ]
   },
   {
     "time": 272.96,
-    "text": "Y'all ****** don't know how to grow up, I been an OG since I was younger"
+    "text": "Y'all ****** don't know how to grow up, I been an OG since I was younger",
+    "words": [
+      {
+        "text": "Y'all",
+        "time": 293.391
+      },
+      {
+        "text": "******",
+        "time": 293.682
+      },
+      {
+        "text": "don't",
+        "time": 294.05
+      },
+      {
+        "text": "know",
+        "time": 294.45
+      },
+      {
+        "text": "how",
+        "time": 294.779
+      },
+      {
+        "text": "to",
+        "time": 295.027
+      },
+      {
+        "text": "grow",
+        "time": 295.505
+      },
+      {
+        "text": "up,",
+        "time": 296.025
+      },
+      {
+        "text": "I",
+        "time": 296.403
+      },
+      {
+        "text": "been",
+        "time": 296.73
+      },
+      {
+        "text": "an",
+        "time": 297.158
+      },
+      {
+        "text": "OG",
+        "time": 297.606
+      },
+      {
+        "text": "since",
+        "time": 297.979
+      },
+      {
+        "text": "I",
+        "time": 298.294
+      },
+      {
+        "text": "was",
+        "time": 298.56
+      },
+      {
+        "text": "younger",
+        "time": 298.923
+      }
+    ]
   },
   {
     "time": 279.64,
-    "text": "All of my friends are dead, leave 'em in the cold, put 'em in the tundra"
+    "text": "All of my friends are dead, leave 'em in the cold, put 'em in the tundra",
+    "words": [
+      {
+        "text": "All",
+        "time": 300.239
+      },
+      {
+        "text": "of",
+        "time": 300.603
+      },
+      {
+        "text": "my",
+        "time": 300.845
+      },
+      {
+        "text": "friends",
+        "time": 301.034
+      },
+      {
+        "text": "are",
+        "time": 301.234
+      },
+      {
+        "text": "dead,",
+        "time": 301.753
+      },
+      {
+        "text": "leave",
+        "time": 302.08
+      },
+      {
+        "text": "'em",
+        "time": 302.975
+      },
+      {
+        "text": "in",
+        "time": 303.308
+      },
+      {
+        "text": "the",
+        "time": 303.545
+      },
+      {
+        "text": "cold,",
+        "time": 304.449
+      },
+      {
+        "text": "put",
+        "time": 304.743
+      },
+      {
+        "text": "'em",
+        "time": 304.982
+      },
+      {
+        "text": "in",
+        "time": 305.193
+      },
+      {
+        "text": "the",
+        "time": 305.659
+      },
+      {
+        "text": "tundra",
+        "time": 307.104
+      }
+    ]
   },
   {
     "time": 286.52,
-    "text": "I go Ray Charles, I cannot see her, I make her fumble"
+    "text": "I go Ray Charles, I cannot see her, I make her fumble",
+    "words": [
+      {
+        "text": "I",
+        "time": 307.496
+      },
+      {
+        "text": "go",
+        "time": 307.86
+      },
+      {
+        "text": "Ray",
+        "time": 308.819
+      },
+      {
+        "text": "Charles,",
+        "time": 309.192
+      },
+      {
+        "text": "I",
+        "time": 309.726
+      },
+      {
+        "text": "cannot",
+        "time": 310.007
+      },
+      {
+        "text": "see",
+        "time": 310.235
+      },
+      {
+        "text": "her,",
+        "time": 310.552
+      },
+      {
+        "text": "I",
+        "time": 311.316
+      },
+      {
+        "text": "make",
+        "time": 311.607
+      },
+      {
+        "text": "her",
+        "time": 311.88
+      },
+      {
+        "text": "fumble",
+        "time": 312.167
+      }
+    ]
   },
   {
     "time": 293.2,
-    "text": "I was just in Texas with Aaliyah, her ****** a jungle"
+    "text": "I was just in Texas with Aaliyah, her ****** a jungle",
+    "words": [
+      {
+        "text": "I",
+        "time": 314.048
+      },
+      {
+        "text": "was",
+        "time": 314.436
+      },
+      {
+        "text": "just",
+        "time": 314.796
+      },
+      {
+        "text": "in",
+        "time": 314.994
+      },
+      {
+        "text": "Texas",
+        "time": 315.265
+      },
+      {
+        "text": "with",
+        "time": 316.504
+      },
+      {
+        "text": "Aaliyah,",
+        "time": 317.026
+      },
+      {
+        "text": "her",
+        "time": 317.917
+      },
+      {
+        "text": "******",
+        "time": 318.343
+      },
+      {
+        "text": "a",
+        "time": 318.616
+      },
+      {
+        "text": "jungle",
+        "time": 319.131
+      }
+    ]
   },
   {
     "time": 299.96,
-    "text": "They wanted this album to be opposite, but I told 'em I'm comin' normal"
+    "text": "They wanted this album to be opposite, but I told 'em I'm comin' normal",
+    "words": [
+      {
+        "text": "They",
+        "time": 320.752
+      },
+      {
+        "text": "wanted",
+        "time": 321.036
+      },
+      {
+        "text": "this",
+        "time": 321.425
+      },
+      {
+        "text": "album",
+        "time": 321.656
+      },
+      {
+        "text": "to",
+        "time": 321.931
+      },
+      {
+        "text": "be",
+        "time": 322.207
+      },
+      {
+        "text": "opposite,",
+        "time": 322.482
+      },
+      {
+        "text": "but",
+        "time": 323.44
+      },
+      {
+        "text": "I",
+        "time": 323.885
+      },
+      {
+        "text": "told",
+        "time": 324.312
+      },
+      {
+        "text": "'em",
+        "time": 324.716
+      },
+      {
+        "text": "I'm",
+        "time": 325.171
+      },
+      {
+        "text": "comin'",
+        "time": 325.566
+      },
+      {
+        "text": "normal",
+        "time": 325.915
+      }
+    ]
   },
   {
     "time": 306.66,
-    "text": "When you play this shit, wear a white tux, young *****, like you in a formal, ha"
+    "text": "When you play this shit, wear a white tux, young *****, like you in a formal, ha",
+    "words": [
+      {
+        "text": "When",
+        "time": 327.508
+      },
+      {
+        "text": "you",
+        "time": 327.768
+      },
+      {
+        "text": "play",
+        "time": 328.027
+      },
+      {
+        "text": "this",
+        "time": 328.39
+      },
+      {
+        "text": "shit,",
+        "time": 329.025
+      },
+      {
+        "text": "wear",
+        "time": 329.429
+      },
+      {
+        "text": "a",
+        "time": 329.836
+      },
+      {
+        "text": "white",
+        "time": 330.324
+      },
+      {
+        "text": "tux,",
+        "time": 330.688
+      },
+      {
+        "text": "young",
+        "time": 331.029
+      },
+      {
+        "text": "*****,",
+        "time": 331.482
+      },
+      {
+        "text": "like",
+        "time": 331.923
+      },
+      {
+        "text": "you",
+        "time": 332.252
+      },
+      {
+        "text": "in",
+        "time": 332.477
+      },
+      {
+        "text": "a",
+        "time": 332.716
+      },
+      {
+        "text": "formal,",
+        "time": 333.144
+      },
+      {
+        "text": "ha",
+        "time": 334.049
+      }
+    ]
   },
   {
     "time": 363.72,
-    "text": "I was 24 when I had lil' Onyx"
-  },
-  {
-    "time": 367.72,
-    "text": ""
+    "text": "I was 24 when I had lil' Onyx",
+    "words": [
+      {
+        "text": "I",
+        "time": 334.968
+      },
+      {
+        "text": "was",
+        "time": 364.429
+      },
+      {
+        "text": "24",
+        "time": 364.723
+      },
+      {
+        "text": "when",
+        "time": 365.905
+      },
+      {
+        "text": "I",
+        "time": 369.72
+      },
+      {
+        "text": "had",
+        "time": 369.997
+      },
+      {
+        "text": "lil'",
+        "time": 370.279
+      },
+      {
+        "text": "Onyx",
+        "time": 370.524
+      }
+    ]
   },
   {
     "time": 371.62,
-    "text": "27 when I had Yves"
+    "text": "27 when I had Yves",
+    "words": [
+      {
+        "text": "27",
+        "time": 370.794
+      },
+      {
+        "text": "when",
+        "time": 371.071
+      },
+      {
+        "text": "I",
+        "time": 371.347
+      },
+      {
+        "text": "had",
+        "time": 371.692
+      },
+      {
+        "text": "Yves",
+        "time": 372.024
+      }
+    ]
   },
   {
     "time": 378.98,
-    "text": "Now I can finally sleep"
+    "text": "Now I can finally sleep",
+    "words": [
+      {
+        "text": "Now",
+        "time": 373.347
+      },
+      {
+        "text": "I",
+        "time": 379.239
+      },
+      {
+        "text": "can",
+        "time": 379.545
+      },
+      {
+        "text": "finally",
+        "time": 379.945
+      },
+      {
+        "text": "sleep",
+        "time": 380.59
+      }
+    ]
   },
   {
     "time": 387.86,
-    "text": "I let the sun"
+    "text": "I let the sun",
+    "words": [
+      {
+        "text": "I",
+        "time": 391.92
+      },
+      {
+        "text": "let",
+        "time": 392.291
+      },
+      {
+        "text": "the",
+        "time": 392.683
+      },
+      {
+        "text": "sun",
+        "time": 392.896
+      }
+    ]
   },
   {
     "time": 391.24,
-    "text": "I let the sun lead me home"
+    "text": "I let the sun lead me home",
+    "words": [
+      {
+        "text": "I",
+        "time": 395.637
+      },
+      {
+        "text": "let",
+        "time": 395.9
+      },
+      {
+        "text": "the",
+        "time": 396.154
+      },
+      {
+        "text": "sun",
+        "time": 396.883
+      },
+      {
+        "text": "lead",
+        "time": 397.177
+      },
+      {
+        "text": "me",
+        "time": 397.392
+      },
+      {
+        "text": "home",
+        "time": 397.626
+      }
+    ]
   },
   {
     "time": 394.94,
-    "text": "I let the moon"
+    "text": "I let the moon",
+    "words": [
+      {
+        "text": "I",
+        "time": 398.944
+      },
+      {
+        "text": "let",
+        "time": 399.219
+      },
+      {
+        "text": "the",
+        "time": 399.474
+      },
+      {
+        "text": "moon",
+        "time": 399.681
+      }
+    ]
   },
   {
     "time": 398.04,
-    "text": "I let the moon set me up"
+    "text": "I let the moon set me up",
+    "words": [
+      {
+        "text": "I",
+        "time": 402.317
+      },
+      {
+        "text": "let",
+        "time": 402.606
+      },
+      {
+        "text": "the",
+        "time": 402.861
+      },
+      {
+        "text": "moon",
+        "time": 403.1
+      },
+      {
+        "text": "set",
+        "time": 403.606
+      },
+      {
+        "text": "me",
+        "time": 403.875
+      },
+      {
+        "text": "up",
+        "time": 404.087
+      }
+    ]
   }
 ]
