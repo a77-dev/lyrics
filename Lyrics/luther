@@ -49,35 +49,43 @@
   },
   {
     "time": 107.56,
-    "text": "In this world, concrete flowers grow"
+    "text": "In this world, concrete flowers grow",
+    "singer": 2
   },
   {
     "time": 114.24,
-    "text": "Heartache, she only doing what she know"
+    "text": "Heartache, she only doing what she know",
+    "singer": 2
   },
   {
     "time": 121.06,
-    "text": "Weekends, get it poppin' on the low"
+    "text": "Weekends, get it poppin' on the low",
+    "singer": 2
   },
   {
     "time": 127.96,
-    "text": "Better days comin' for sure"
+    "text": "Better days comin' for sure",
+    "singer": 2
   },
   {
     "time": 131.78,
-    "text": "If this world were—"
+    "text": "If this world were—",
+    "singer": 1
   },
   {
     "time": 138.6,
-    "text": "If it was up to me"
+    "text": "If it was up to me",
+    "singer": 3
   },
   {
     "time": 142.62,
-    "text": "I wouldn't give these nobodies no sympathy"
+    "text": "I wouldn't give these nobodies no sympathy",
+    "singer": 3
   },
   {
     "time": 149.52,
-    "text": "I'd take away the pain, I'd give you everything"
+    "text": "I'd take away the pain, I'd give you everything",
+    "singer": 3
   },
   {
     "time": 158.86,
@@ -90,47 +98,57 @@
   {
     "time": 165.64,
     "text": "It go in, out, do it real slow",
-    "adlibs": "When you, ride it, slide"
+    "adlibs": "When you, ride it, slide",
+    "singer": 3
   },
   {
     "time": 173.5,
-    "text": "Baby, you a star, strike, pose"
+    "text": "Baby, you a star, strike, pose",
+    "singer": 3
   },
   {
     "time": 180.52,
     "text": "When I'm, with you, everything goes",
-    "adlibs": "When you, with me, slow"
+    "adlibs": "When you, with me, slow",
+    "singer": 3
   },
   {
     "time": 187.56,
     "text": "Come and, put that, on my, soul",
-    "adlibs": "Put that, on my, Titi, soul"
+    "adlibs": "Put that, on my, Titi, soul",
+    "singer": 3
   },
   {
     "time": 194.36,
     "text": "'Rari, crown, wrist, froze",
-    "adlibs": "Red, Stack, Stay, Really,"
+    "adlibs": "Red, Stack, Stay, Really,",
+    "singer": 3
   },
   {
     "time": 201.54,
     "text": "Drip, pound, on the way home",
-    "adlibs": "Tell me, if you, love me"
+    "adlibs": "Tell me, if you, love me",
+    "singer": 3
   },
   {
     "time": 208.54,
-    "text": "In this world, concrete flowers grow"
+    "text": "In this world, concrete flowers grow",
+    "singer": 3
   },
   {
     "time": 215.34,
-    "text": "Heartache, she only doin' what she know"
+    "text": "Heartache, she only doin' what she know",
+    "singer": 3
   },
   {
     "time": 222.06,
-    "text": "Weekends, get it poppin' on the low"
+    "text": "Weekends, get it poppin' on the low",
+    "singer": 3
   },
   {
     "time": 229.04,
-    "text": "Better days comin' for sure"
+    "text": "Better days comin' for sure",
+    "singer": 3
   },
   {
     "time": 232.72,
@@ -138,19 +156,23 @@
   },
   {
     "time": 239.88,
-    "text": "If it was up to me"
+    "text": "If it was up to me",
+    "singer": 3
   },
   {
     "time": 243.58,
-    "text": "I wouldn't give these nobodies no sympathy"
+    "text": "I wouldn't give these nobodies no sympathy",
+    "singer": 3
   },
   {
     "time": 250.5,
-    "text": "I'd take away the pain, I'd give you everything"
+    "text": "I'd take away the pain, I'd give you everything",
+    "singer": 3
   },
   {
     "time": 259.8,
-    "text": "I just wanna see you win, wanna see"
+    "text": "I just wanna see you win, wanna see",
+    "singer": 3
   },
   {
     "time": 263.24,
@@ -158,51 +180,63 @@
   },
   {
     "time": 266.96,
-    "text": "I can't lie"
+    "text": "I can't lie",
+    "singer": 3
   },
   {
     "time": 268.54,
-    "text": "I trust you, I love you, I won't waste your time"
+    "text": "I trust you, I love you, I won't waste your time",
+    "singer": 3
   },
   {
     "time": 274.26,
-    "text": "I turn it off just so I can turn you on"
+    "text": "I turn it off just so I can turn you on",
+    "singer": 3
   },
   {
     "time": 279.76,
-    "text": "I'ma make you say it loud"
+    "text": "I'ma make you say it loud",
+    "singer": 3
   },
   {
     "time": 284.9,
-    "text": "I'm not even trippin', I won't stress you out"
+    "text": "I'm not even trippin', I won't stress you out",
+    "singer": 3
   },
   {
     "time": 291.68,
-    "text": "I might even settle down for you, I'ma show you I'm a pro"
+    "text": "I might even settle down for you, I'ma show you I'm a pro",
+    "singer": 3
   },
   {
     "time": 299.76,
-    "text": "I'ma take my time and turn it off"
+    "text": "I'ma take my time and turn it off",
+    "singer": 3
   },
   {
     "time": 304.16,
-    "text": "Just so I can turn you on, baby"
+    "text": "Just so I can turn you on, baby",
+    "singer": 3
   },
   {
     "time": 309.14,
-    "text": "Weekends, get it poppin' on the low"
+    "text": "Weekends, get it poppin' on the low",
+    "singer": 3
   },
   {
     "time": 315.9,
-    "text": "Better days comin' for sure"
+    "text": "Better days comin' for sure",
+    "singer": 3
   },
   {
     "time": 318.32,
-    "text": "I know you're com—, I know you're comin' for—"
+    "text": "I know you're com—, I know you're comin' for—",
+    "singer": 2
   },
   {
     "time": 335.52,
-    "text": "Better days"
+    "text": "Better days",
+    "singer": 2
   },
   {
     "time": 346.32,
