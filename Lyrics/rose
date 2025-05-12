@@ -2,45 +2,419 @@
   {
     "time": 6.31,
     "text": "Just knew from the start it would end this way",
-    "adlibs": "It would end this time"
+    "adlibs": "It would end this time",
+    "words": [
+      {
+        "text": "Just",
+        "time": 5.384
+      },
+      {
+        "text": "knew",
+        "time": 6.225
+      },
+      {
+        "text": "from",
+        "time": 7.002
+      },
+      {
+        "text": "the",
+        "time": 7.757
+      },
+      {
+        "text": "start",
+        "time": 8.515
+      },
+      {
+        "text": "it",
+        "time": 10.319
+      },
+      {
+        "text": "would",
+        "time": 10.978
+      },
+      {
+        "text": "end",
+        "time": 11.735
+      },
+      {
+        "text": "this",
+        "time": 13.272
+      },
+      {
+        "text": "way",
+        "time": 14.814
+      }
+    ]
   },
   {
     "time": 30.108,
-    "text": "Tell me how it feels to fade away, away from me"
+    "text": "Tell me how it feels to fade away, away from me",
+    "words": [
+      {
+        "text": "Tell",
+        "time": 30.337
+      },
+      {
+        "text": "me",
+        "time": 31.202
+      },
+      {
+        "text": "how",
+        "time": 32.036
+      },
+      {
+        "text": "it",
+        "time": 32.857
+      },
+      {
+        "text": "feels",
+        "time": 33.671
+      },
+      {
+        "text": "to",
+        "time": 35.735
+      },
+      {
+        "text": "fade",
+        "time": 36.582
+      },
+      {
+        "text": "away,",
+        "time": 38.917
+      },
+      {
+        "text": "away",
+        "time": 45.175
+      },
+      {
+        "text": "from",
+        "time": 48.088
+      },
+      {
+        "text": "me",
+        "time": 48.996
+      }
+    ]
   },
   {
     "time": 54.614,
-    "text": "I watched you run away from this Earth to escape"
-  },
-  {
-    "time": 69.455,
-    "text": "",
-    "adlibs": "Run away from yourself to escape"
+    "text": "I watched you run away from this Earth to escape",
+    "words": [
+      {
+        "text": "I",
+        "time": 54.542
+      },
+      {
+        "text": "watched",
+        "time": 55.338
+      },
+      {
+        "text": "you",
+        "time": 56.087
+      },
+      {
+        "text": "run",
+        "time": 56.902
+      },
+      {
+        "text": "away",
+        "time": 57.748
+      },
+      {
+        "text": "from",
+        "time": 59.968
+      },
+      {
+        "text": "this",
+        "time": 60.749
+      },
+      {
+        "text": "Earth",
+        "time": 61.563
+      },
+      {
+        "text": "to",
+        "time": 62.995
+      },
+      {
+        "text": "escape",
+        "time": 63.82
+      }
+    ]
   },
   {
     "time": 79.519,
-    "text": "And I can't believe a word you say to me, don't say it to me"
+    "text": "And I can't believe a word you say to me, don't say it to me",
+    "words": [
+      {
+        "text": "And",
+        "time": 79.51
+      },
+      {
+        "text": "I",
+        "time": 80.231
+      },
+      {
+        "text": "can't",
+        "time": 81.994
+      },
+      {
+        "text": "believe",
+        "time": 82.769
+      },
+      {
+        "text": "a",
+        "time": 85.718
+      },
+      {
+        "text": "word",
+        "time": 86.534
+      },
+      {
+        "text": "you",
+        "time": 88.741
+      },
+      {
+        "text": "say",
+        "time": 89.533
+      },
+      {
+        "text": "to",
+        "time": 91.907
+      },
+      {
+        "text": "me,",
+        "time": 92.584
+      },
+      {
+        "text": "don't",
+        "time": 94.276
+      },
+      {
+        "text": "say",
+        "time": 95.892
+      },
+      {
+        "text": "it",
+        "time": 97.265
+      },
+      {
+        "text": "to",
+        "time": 98.124
+      },
+      {
+        "text": "me",
+        "time": 98.958
+      }
+    ]
   },
   {
     "time": 105.981,
     "text": "Just knew from the start it would end this way",
-    "adlibs": "It would end this time"
+    "adlibs": "It would end this time",
+    "words": [
+      {
+        "text": "Just",
+        "time": 105.108
+      },
+      {
+        "text": "knew",
+        "time": 105.984
+      },
+      {
+        "text": "from",
+        "time": 106.821
+      },
+      {
+        "text": "the",
+        "time": 107.618
+      },
+      {
+        "text": "start",
+        "time": 108.421
+      },
+      {
+        "text": "it",
+        "time": 109.915
+      },
+      {
+        "text": "would",
+        "time": 110.752
+      },
+      {
+        "text": "end",
+        "time": 111.518
+      },
+      {
+        "text": "this",
+        "time": 113.033
+      },
+      {
+        "text": "way",
+        "time": 114.604
+      }
+    ]
   },
   {
     "time": 129.991,
-    "text": "Tell me how it feels to fade away, away from me"
+    "text": "Tell me how it feels to fade away, away from me",
+    "words": [
+      {
+        "text": "Tell",
+        "time": 130.092
+      },
+      {
+        "text": "me",
+        "time": 130.885
+      },
+      {
+        "text": "how",
+        "time": 131.661
+      },
+      {
+        "text": "it",
+        "time": 132.487
+      },
+      {
+        "text": "feels",
+        "time": 133.266
+      },
+      {
+        "text": "to",
+        "time": 135.475
+      },
+      {
+        "text": "fade",
+        "time": 136.345
+      },
+      {
+        "text": "away,",
+        "time": 138.734
+      },
+      {
+        "text": "away",
+        "time": 144.942
+      },
+      {
+        "text": "from",
+        "time": 147.923
+      },
+      {
+        "text": "me",
+        "time": 148.788
+      }
+    ]
   },
   {
     "time": 154.284,
-    "text": "I watched you run away from this Earth to escape"
-  },
-  {
-    "time": 169.092,
-    "text": "",
-    "adlibs": "Run away from yourself to escape"
+    "text": "I watched you run away from this Earth to escape",
+    "words": [
+      {
+        "text": "I",
+        "time": 154.27
+      },
+      {
+        "text": "watched",
+        "time": 155.09
+      },
+      {
+        "text": "you",
+        "time": 155.87
+      },
+      {
+        "text": "run",
+        "time": 156.62
+      },
+      {
+        "text": "away",
+        "time": 157.418
+      },
+      {
+        "text": "from",
+        "time": 159.844
+      },
+      {
+        "text": "this",
+        "time": 160.533
+      },
+      {
+        "text": "Earth",
+        "time": 161.322
+      },
+      {
+        "text": "to",
+        "time": 162.834
+      },
+      {
+        "text": "escape",
+        "time": 163.663
+      }
+    ]
   },
   {
     "time": 179.59,
-    "text": "And I can't believe a word you say to me, don't say it to me"
+    "text": "And I can't believe a word you say to me, don't say it to me",
+    "words": [
+      {
+        "text": "And",
+        "time": 179.217
+      },
+      {
+        "text": "I",
+        "time": 179.974
+      },
+      {
+        "text": "can't",
+        "time": 181.563
+      },
+      {
+        "text": "believe",
+        "time": 182.368
+      },
+      {
+        "text": "a",
+        "time": 185.588
+      },
+      {
+        "text": "word",
+        "time": 186.367
+      },
+      {
+        "text": "you",
+        "time": 188.425
+      },
+      {
+        "text": "say",
+        "time": 189.215
+      },
+      {
+        "text": "to",
+        "time": 191.581
+      },
+      {
+        "text": "me,",
+        "time": 192.346
+      },
+      {
+        "text": "don't",
+        "time": 193.995
+      },
+      {
+        "text": "say",
+        "time": 194.952
+      },
+      {
+        "text": "it",
+        "time": 194.952
+      },
+      {
+        "text": "to",
+        "time": 194.952
+      },
+      {
+        "text": "me",
+        "time": 194.952
+      }
+    ]
   }
 ]
