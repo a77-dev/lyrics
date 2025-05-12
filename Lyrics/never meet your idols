@@ -1,146 +1,1449 @@
 [
   {
-    "time": 0.62,
-    "text": "",
-    "adlibs": "Kkei"
-  },
-  {
     "time": 4.34,
-    "text": "Huh, yeah, yeah"
+    "text": "Huh, yeah, yeah",
+    "words": [
+      {
+        "text": "Huh,",
+        "time": 0.526
+      },
+      {
+        "text": "Huh,",
+        "time": 4.254
+      },
+      {
+        "text": "Huh,",
+        "time": 4.177
+      },
+      {
+        "text": "yeah,",
+        "time": 4.747
+      },
+      {
+        "text": "yeah,",
+        "time": 6.091
+      },
+      {
+        "text": "yeah,",
+        "time": 5.885
+      },
+      {
+        "text": "yeah",
+        "time": 5.018
+      },
+      {
+        "text": "yeah",
+        "time": 6.864
+      },
+      {
+        "text": "yeah",
+        "time": 6.749
+      }
+    ]
   },
   {
     "time": 11.44,
-    "text": "Yeah, yeah, ooh"
+    "text": "Yeah, yeah, ooh",
+    "words": [
+      {
+        "text": "Yeah,",
+        "time": 10.825
+      },
+      {
+        "text": "yeah,",
+        "time": 11.682
+      },
+      {
+        "text": "ooh",
+        "time": 12.085
+      }
+    ]
   },
   {
     "time": 13.64,
     "text": "Ooh",
-    "adlibs": "You have no heart"
+    "adlibs": "You have no heart",
+    "words": [
+      {
+        "text": "Ooh",
+        "time": 16.005
+      }
+    ]
   },
   {
     "time": 22.68,
-    "text": "Okay, pew"
+    "text": "Okay, pew",
+    "words": [
+      {
+        "text": "Okay,",
+        "time": 22.453
+      },
+      {
+        "text": "pew",
+        "time": 26.11
+      }
+    ]
   },
   {
     "time": 28.72,
     "text": "Lookin' up to me could cause an issue",
-    "adlibs": "Cause an issue"
+    "adlibs": "Cause an issue",
+    "words": [
+      {
+        "text": "Lookin'",
+        "time": 28.575
+      },
+      {
+        "text": "up",
+        "time": 29.374
+      },
+      {
+        "text": "to",
+        "time": 29.764
+      },
+      {
+        "text": "me",
+        "time": 30.167
+      },
+      {
+        "text": "could",
+        "time": 30.568
+      },
+      {
+        "text": "cause",
+        "time": 30.93
+      },
+      {
+        "text": "an",
+        "time": 31.296
+      },
+      {
+        "text": "issue",
+        "time": 31.896
+      }
+    ]
   },
   {
     "time": 34.54,
     "text": "I got cash and hella gas, like what's the issue? Ayy",
-    "adlibs": "What's the issue?"
+    "adlibs": "What's the issue?",
+    "words": [
+      {
+        "text": "I",
+        "time": 34.5
+      },
+      {
+        "text": "got",
+        "time": 35.034
+      },
+      {
+        "text": "cash",
+        "time": 35.358
+      },
+      {
+        "text": "and",
+        "time": 35.736
+      },
+      {
+        "text": "hella",
+        "time": 36.164
+      },
+      {
+        "text": "gas,",
+        "time": 37.064
+      },
+      {
+        "text": "like",
+        "time": 37.432
+      },
+      {
+        "text": "what's",
+        "time": 37.949
+      },
+      {
+        "text": "the",
+        "time": 38.388
+      },
+      {
+        "text": "issue?",
+        "time": 38.808
+      },
+      {
+        "text": "Ayy",
+        "time": 40.436
+      }
+    ]
   },
   {
     "time": 41.38,
-    "text": "Way too many ****, I don't know if I miss you, ayy"
+    "text": "Way too many ****, I don't know if I miss you, ayy",
+    "words": [
+      {
+        "text": "Way",
+        "time": 41.326
+      },
+      {
+        "text": "too",
+        "time": 41.711
+      },
+      {
+        "text": "many",
+        "time": 42.874
+      },
+      {
+        "text": "****,",
+        "time": 43.25
+      },
+      {
+        "text": "I",
+        "time": 43.653
+      },
+      {
+        "text": "don't",
+        "time": 44.01
+      },
+      {
+        "text": "know",
+        "time": 44.4
+      },
+      {
+        "text": "if",
+        "time": 44.766
+      },
+      {
+        "text": "I",
+        "time": 45.116
+      },
+      {
+        "text": "miss",
+        "time": 45.522
+      },
+      {
+        "text": "you,",
+        "time": 46.444
+      },
+      {
+        "text": "ayy",
+        "time": 47.311
+      }
+    ]
   },
   {
     "time": 47.96,
-    "text": "Can't let pretty ** get makeup on my fit, ooh, ayy"
+    "text": "Can't let pretty ** get makeup on my fit, ooh, ayy",
+    "words": [
+      {
+        "text": "Can't",
+        "time": 48.176
+      },
+      {
+        "text": "let",
+        "time": 48.563
+      },
+      {
+        "text": "pretty",
+        "time": 48.924
+      },
+      {
+        "text": "**",
+        "time": 49.718
+      },
+      {
+        "text": "get",
+        "time": 50.092
+      },
+      {
+        "text": "makeup",
+        "time": 50.518
+      },
+      {
+        "text": "on",
+        "time": 51.347
+      },
+      {
+        "text": "my",
+        "time": 51.778
+      },
+      {
+        "text": "fit,",
+        "time": 52.173
+      },
+      {
+        "text": "ooh,",
+        "time": 53.123
+      },
+      {
+        "text": "ayy",
+        "time": 53.958
+      }
+    ]
   },
   {
     "time": 54.84,
     "text": "And I put my ** in Raf Simons jeans",
-    "adlibs": "Raf Simons jeans"
+    "adlibs": "Raf Simons jeans",
+    "words": [
+      {
+        "text": "And",
+        "time": 54.813
+      },
+      {
+        "text": "I",
+        "time": 55.216
+      },
+      {
+        "text": "put",
+        "time": 55.601
+      },
+      {
+        "text": "my",
+        "time": 55.974
+      },
+      {
+        "text": "**",
+        "time": 56.329
+      },
+      {
+        "text": "in",
+        "time": 56.727
+      },
+      {
+        "text": "Raf",
+        "time": 57.131
+      },
+      {
+        "text": "Simons",
+        "time": 58.212
+      },
+      {
+        "text": "jeans",
+        "time": 59.011
+      }
+    ]
   },
   {
     "time": 60.64,
     "text": "I just took his ** 'cause he was bag fumbling",
-    "adlibs": "Bag fumbling"
+    "adlibs": "Bag fumbling",
+    "words": [
+      {
+        "text": "I",
+        "time": 60.847
+      },
+      {
+        "text": "just",
+        "time": 61.173
+      },
+      {
+        "text": "took",
+        "time": 61.501
+      },
+      {
+        "text": "his",
+        "time": 61.819
+      },
+      {
+        "text": "**",
+        "time": 62.189
+      },
+      {
+        "text": "'cause",
+        "time": 62.553
+      },
+      {
+        "text": "he",
+        "time": 62.944
+      },
+      {
+        "text": "was",
+        "time": 63.341
+      },
+      {
+        "text": "bag",
+        "time": 63.755
+      },
+      {
+        "text": "fumbling",
+        "time": 64.883
+      }
+    ]
   },
   {
     "time": 69.16,
     "text": "I've been on my *** for some green",
-    "adlibs": "*** for some green"
+    "adlibs": "*** for some green",
+    "words": [
+      {
+        "text": "I've",
+        "time": 69.14
+      },
+      {
+        "text": "been",
+        "time": 69.568
+      },
+      {
+        "text": "on",
+        "time": 69.945
+      },
+      {
+        "text": "my",
+        "time": 70.304
+      },
+      {
+        "text": "***",
+        "time": 70.62
+      },
+      {
+        "text": "for",
+        "time": 71.634
+      },
+      {
+        "text": "some",
+        "time": 71.987
+      },
+      {
+        "text": "green",
+        "time": 72.421
+      }
+    ]
   },
   {
     "time": 74.36,
-    "text": "All these ****** rats for some cheese"
+    "text": "All these ****** rats for some cheese",
+    "words": [
+      {
+        "text": "All",
+        "time": 74.151
+      },
+      {
+        "text": "these",
+        "time": 74.627
+      },
+      {
+        "text": "******",
+        "time": 75.014
+      },
+      {
+        "text": "rats",
+        "time": 75.846
+      },
+      {
+        "text": "for",
+        "time": 76.758
+      },
+      {
+        "text": "some",
+        "time": 77.106
+      },
+      {
+        "text": "cheese",
+        "time": 77.55
+      }
+    ]
   },
   {
     "time": 78.2,
-    "text": "On my knees, I pray to God"
+    "text": "On my knees, I pray to God",
+    "words": [
+      {
+        "text": "On",
+        "time": 78.522
+      },
+      {
+        "text": "my",
+        "time": 78.842
+      },
+      {
+        "text": "knees,",
+        "time": 79.242
+      },
+      {
+        "text": "I",
+        "time": 79.629
+      },
+      {
+        "text": "pray",
+        "time": 79.971
+      },
+      {
+        "text": "to",
+        "time": 80.344
+      },
+      {
+        "text": "God",
+        "time": 80.749
+      }
+    ]
   },
   {
     "time": 82.6,
-    "text": "You think you can trust me? I can only trust myself"
+    "text": "You think you can trust me? I can only trust myself",
+    "words": [
+      {
+        "text": "You",
+        "time": 82.756
+      },
+      {
+        "text": "You",
+        "time": 83.027
+      },
+      {
+        "text": "You",
+        "time": 85.519
+      },
+      {
+        "text": "You",
+        "time": 82.912
+      },
+      {
+        "text": "think",
+        "time": 83.151
+      },
+      {
+        "text": "think",
+        "time": 83.315
+      },
+      {
+        "text": "think",
+        "time": 89.729
+      },
+      {
+        "text": "think",
+        "time": 83.025
+      },
+      {
+        "text": "you",
+        "time": 83.504
+      },
+      {
+        "text": "you",
+        "time": 83.702
+      },
+      {
+        "text": "you",
+        "time": 89.965
+      },
+      {
+        "text": "you",
+        "time": 83.375
+      },
+      {
+        "text": "can",
+        "time": 83.855
+      },
+      {
+        "text": "can",
+        "time": 84.082
+      },
+      {
+        "text": "can",
+        "time": 90.201
+      },
+      {
+        "text": "can",
+        "time": 83.738
+      },
+      {
+        "text": "trust",
+        "time": 84.301
+      },
+      {
+        "text": "trust",
+        "time": 84.567
+      },
+      {
+        "text": "trust",
+        "time": 90.467
+      },
+      {
+        "text": "trust",
+        "time": 84.323
+      },
+      {
+        "text": "me?",
+        "time": 84.672
+      },
+      {
+        "text": "me?",
+        "time": 84.914
+      },
+      {
+        "text": "me?",
+        "time": 90.734
+      },
+      {
+        "text": "me?",
+        "time": 84.728
+      },
+      {
+        "text": "I",
+        "time": 85.081
+      },
+      {
+        "text": "I",
+        "time": 85.239
+      },
+      {
+        "text": "I",
+        "time": 91.002
+      },
+      {
+        "text": "I",
+        "time": 85.217
+      },
+      {
+        "text": "can",
+        "time": 85.477
+      },
+      {
+        "text": "can",
+        "time": 85.685
+      },
+      {
+        "text": "can",
+        "time": 91.238
+      },
+      {
+        "text": "can",
+        "time": 85.587
+      },
+      {
+        "text": "only",
+        "time": 85.974
+      },
+      {
+        "text": "only",
+        "time": 86.978
+      },
+      {
+        "text": "only",
+        "time": 91.507
+      },
+      {
+        "text": "only",
+        "time": 86.071
+      },
+      {
+        "text": "trust",
+        "time": 86.955
+      },
+      {
+        "text": "trust",
+        "time": 87.37
+      },
+      {
+        "text": "trust",
+        "time": 92.008
+      },
+      {
+        "text": "trust",
+        "time": 86.951
+      },
+      {
+        "text": "myself",
+        "time": 87.192
+      },
+      {
+        "text": "myself",
+        "time": 87.789
+      },
+      {
+        "text": "myself",
+        "time": 92.304
+      },
+      {
+        "text": "myself",
+        "time": 87.225
+      }
+    ]
   },
   {
     "time": 88.52,
-    "text": "I remember you was mad at me when I needed your help"
+    "text": "I remember you was mad at me when I needed your help",
+    "words": [
+      {
+        "text": "I",
+        "time": 88.635
+      },
+      {
+        "text": "remember",
+        "time": 88.94
+      },
+      {
+        "text": "you",
+        "time": 90.343
+      },
+      {
+        "text": "was",
+        "time": 90.651
+      },
+      {
+        "text": "mad",
+        "time": 91.192
+      },
+      {
+        "text": "at",
+        "time": 91.563
+      },
+      {
+        "text": "me",
+        "time": 91.96
+      },
+      {
+        "text": "when",
+        "time": 92.4
+      },
+      {
+        "text": "I",
+        "time": 92.825
+      },
+      {
+        "text": "needed",
+        "time": 93.222
+      },
+      {
+        "text": "your",
+        "time": 94.128
+      },
+      {
+        "text": "help",
+        "time": 94.506
+      }
+    ]
   },
   {
     "time": 95.86,
-    "text": "Someone said your name, I said \"it doesn't ring a bell\""
+    "text": "Someone said your name, I said \"it doesn't ring a bell\"",
+    "words": [
+      {
+        "text": "Someone",
+        "time": 96.274
+      },
+      {
+        "text": "said",
+        "time": 96.618
+      },
+      {
+        "text": "your",
+        "time": 97.016
+      },
+      {
+        "text": "name,",
+        "time": 97.377
+      },
+      {
+        "text": "I",
+        "time": 98.207
+      },
+      {
+        "text": "said",
+        "time": 98.645
+      },
+      {
+        "text": "\"it",
+        "time": 99.055
+      },
+      {
+        "text": "doesn't",
+        "time": 99.476
+      },
+      {
+        "text": "ring",
+        "time": 100.383
+      },
+      {
+        "text": "a",
+        "time": 100.676
+      },
+      {
+        "text": "bell\"",
+        "time": 101.332
+      }
+    ]
   },
   {
     "time": 102.92,
-    "text": "I got rich off toxic ****** in the bank, like, hell yeah"
+    "text": "I got rich off toxic ****** in the bank, like, hell yeah",
+    "words": [
+      {
+        "text": "I",
+        "time": 103.114
+      },
+      {
+        "text": "got",
+        "time": 103.472
+      },
+      {
+        "text": "rich",
+        "time": 103.88
+      },
+      {
+        "text": "off",
+        "time": 104.244
+      },
+      {
+        "text": "toxic",
+        "time": 104.647
+      },
+      {
+        "text": "******",
+        "time": 105.544
+      },
+      {
+        "text": "in",
+        "time": 106.32
+      },
+      {
+        "text": "the",
+        "time": 106.66
+      },
+      {
+        "text": "bank,",
+        "time": 107.042
+      },
+      {
+        "text": "like,",
+        "time": 107.436
+      },
+      {
+        "text": "hell",
+        "time": 107.939
+      },
+      {
+        "text": "yeah",
+        "time": 108.814
+      }
+    ]
   },
   {
     "time": 109.64,
-    "text": "OG kush and track runners, she think she a pack runner"
+    "text": "OG kush and track runners, she think she a pack runner",
+    "words": [
+      {
+        "text": "OG",
+        "time": 109.814
+      },
+      {
+        "text": "kush",
+        "time": 110.339
+      },
+      {
+        "text": "and",
+        "time": 110.715
+      },
+      {
+        "text": "track",
+        "time": 111.057
+      },
+      {
+        "text": "runners,",
+        "time": 111.374
+      },
+      {
+        "text": "she",
+        "time": 113.091
+      },
+      {
+        "text": "think",
+        "time": 113.465
+      },
+      {
+        "text": "she",
+        "time": 113.912
+      },
+      {
+        "text": "a",
+        "time": 114.325
+      },
+      {
+        "text": "pack",
+        "time": 114.733
+      },
+      {
+        "text": "runner",
+        "time": 115.67
+      }
+    ]
   },
   {
     "time": 116.5,
-    "text": "Either real or you fake, no in-between, that's blasphemous"
+    "text": "Either real or you fake, no in-between, that's blasphemous",
+    "words": [
+      {
+        "text": "Either",
+        "time": 116.585
+      },
+      {
+        "text": "real",
+        "time": 117.324
+      },
+      {
+        "text": "or",
+        "time": 118.275
+      },
+      {
+        "text": "you",
+        "time": 118.682
+      },
+      {
+        "text": "fake,",
+        "time": 119.083
+      },
+      {
+        "text": "no",
+        "time": 119.468
+      },
+      {
+        "text": "in-between,",
+        "time": 119.895
+      },
+      {
+        "text": "that's",
+        "time": 121.1
+      },
+      {
+        "text": "blasphemous",
+        "time": 121.566
+      }
+    ]
   },
   {
     "time": 123.1,
-    "text": "Finally went up and now I know that there's a catch to it"
+    "text": "Finally went up and now I know that there's a catch to it",
+    "words": [
+      {
+        "text": "Finally",
+        "time": 123.308
+      },
+      {
+        "text": "went",
+        "time": 124.589
+      },
+      {
+        "text": "up",
+        "time": 124.989
+      },
+      {
+        "text": "and",
+        "time": 125.422
+      },
+      {
+        "text": "now",
+        "time": 125.793
+      },
+      {
+        "text": "I",
+        "time": 126.181
+      },
+      {
+        "text": "know",
+        "time": 126.576
+      },
+      {
+        "text": "that",
+        "time": 126.975
+      },
+      {
+        "text": "there's",
+        "time": 127.364
+      },
+      {
+        "text": "a",
+        "time": 127.755
+      },
+      {
+        "text": "catch",
+        "time": 128.218
+      },
+      {
+        "text": "to",
+        "time": 129.193
+      },
+      {
+        "text": "it",
+        "time": 129.531
+      }
+    ]
   },
   {
     "time": 129.96,
-    "text": "I just copped a brick and flipped that ***, I got my cash through it"
+    "text": "I just copped a brick and flipped that ***, I got my cash through it",
+    "words": [
+      {
+        "text": "I",
+        "time": 130.086
+      },
+      {
+        "text": "just",
+        "time": 130.458
+      },
+      {
+        "text": "copped",
+        "time": 130.84
+      },
+      {
+        "text": "a",
+        "time": 131.23
+      },
+      {
+        "text": "brick",
+        "time": 131.627
+      },
+      {
+        "text": "and",
+        "time": 132.063
+      },
+      {
+        "text": "flipped",
+        "time": 132.453
+      },
+      {
+        "text": "that",
+        "time": 132.868
+      },
+      {
+        "text": "***,",
+        "time": 133.238
+      },
+      {
+        "text": "I",
+        "time": 133.664
+      },
+      {
+        "text": "got",
+        "time": 134.094
+      },
+      {
+        "text": "my",
+        "time": 134.478
+      },
+      {
+        "text": "cash",
+        "time": 134.919
+      },
+      {
+        "text": "through",
+        "time": 135.952
+      },
+      {
+        "text": "it",
+        "time": 136.235
+      }
+    ]
   },
   {
     "time": 137.34,
     "text": "Lookin' up to me could cause an issue",
-    "adlibs": "Cause an issue"
+    "adlibs": "Cause an issue",
+    "words": [
+      {
+        "text": "Lookin'",
+        "time": 137.003
+      },
+      {
+        "text": "up",
+        "time": 137.313
+      },
+      {
+        "text": "to",
+        "time": 137.675
+      },
+      {
+        "text": "me",
+        "time": 138.059
+      },
+      {
+        "text": "could",
+        "time": 138.453
+      },
+      {
+        "text": "cause",
+        "time": 138.869
+      },
+      {
+        "text": "an",
+        "time": 139.311
+      },
+      {
+        "text": "issue",
+        "time": 139.706
+      }
+    ]
   },
   {
     "time": 145.12,
     "text": "I got cash and hella gas, like what's the issue? Ayy",
-    "adlibs": "What's the issue?"
+    "adlibs": "What's the issue?",
+    "words": [
+      {
+        "text": "I",
+        "time": 142.582
+      },
+      {
+        "text": "got",
+        "time": 142.918
+      },
+      {
+        "text": "cash",
+        "time": 143.323
+      },
+      {
+        "text": "and",
+        "time": 143.682
+      },
+      {
+        "text": "hella",
+        "time": 144.106
+      },
+      {
+        "text": "gas,",
+        "time": 144.485
+      },
+      {
+        "text": "like",
+        "time": 145.519
+      },
+      {
+        "text": "what's",
+        "time": 145.923
+      },
+      {
+        "text": "the",
+        "time": 146.786
+      },
+      {
+        "text": "issue?",
+        "time": 147.087
+      },
+      {
+        "text": "Ayy",
+        "time": 148.702
+      }
+    ]
   },
   {
     "time": 148.54,
-    "text": "Way too many ****, I don't know if I miss you, ayy"
+    "text": "Way too many ****, I don't know if I miss you, ayy",
+    "words": [
+      {
+        "text": "Way",
+        "time": 149.559
+      },
+      {
+        "text": "too",
+        "time": 149.944
+      },
+      {
+        "text": "many",
+        "time": 150.343
+      },
+      {
+        "text": "****,",
+        "time": 150.749
+      },
+      {
+        "text": "I",
+        "time": 151.503
+      },
+      {
+        "text": "don't",
+        "time": 151.9
+      },
+      {
+        "text": "know",
+        "time": 152.307
+      },
+      {
+        "text": "if",
+        "time": 152.786
+      },
+      {
+        "text": "I",
+        "time": 153.204
+      },
+      {
+        "text": "miss",
+        "time": 153.644
+      },
+      {
+        "text": "you,",
+        "time": 154.603
+      },
+      {
+        "text": "ayy",
+        "time": 155.457
+      }
+    ]
   },
   {
     "time": 156.12,
-    "text": "Can't let pretty ** get makeup on my fit, ooh, ayy"
+    "text": "Can't let pretty ** get makeup on my fit, ooh, ayy",
+    "words": [
+      {
+        "text": "Can't",
+        "time": 156.324
+      },
+      {
+        "text": "let",
+        "time": 156.713
+      },
+      {
+        "text": "pretty",
+        "time": 157.119
+      },
+      {
+        "text": "**",
+        "time": 157.538
+      },
+      {
+        "text": "get",
+        "time": 158.214
+      },
+      {
+        "text": "makeup",
+        "time": 158.61
+      },
+      {
+        "text": "on",
+        "time": 159.032
+      },
+      {
+        "text": "my",
+        "time": 159.531
+      },
+      {
+        "text": "fit,",
+        "time": 160.096
+      },
+      {
+        "text": "ooh,",
+        "time": 161.182
+      },
+      {
+        "text": "ayy",
+        "time": 162.113
+      }
+    ]
   },
   {
     "time": 163.04,
     "text": "And I put my ** in Raf Simons jeans",
-    "adlibs": "Raf Simons jeans"
+    "adlibs": "Raf Simons jeans",
+    "words": [
+      {
+        "text": "And",
+        "time": 163.008
+      },
+      {
+        "text": "I",
+        "time": 163.386
+      },
+      {
+        "text": "put",
+        "time": 163.805
+      },
+      {
+        "text": "my",
+        "time": 164.204
+      },
+      {
+        "text": "**",
+        "time": 164.581
+      },
+      {
+        "text": "in",
+        "time": 165.021
+      },
+      {
+        "text": "Raf",
+        "time": 165.433
+      },
+      {
+        "text": "Simons",
+        "time": 166.422
+      },
+      {
+        "text": "jeans",
+        "time": 167.237
+      }
+    ]
   },
   {
     "time": 168.82,
     "text": "I just took his ** 'cause he was bag fumbling",
-    "adlibs": "Bag fumbling"
+    "adlibs": "Bag fumbling",
+    "words": [
+      {
+        "text": "I",
+        "time": 168.944
+      },
+      {
+        "text": "just",
+        "time": 169.307
+      },
+      {
+        "text": "took",
+        "time": 169.66
+      },
+      {
+        "text": "his",
+        "time": 169.992
+      },
+      {
+        "text": "**",
+        "time": 170.361
+      },
+      {
+        "text": "'cause",
+        "time": 170.719
+      },
+      {
+        "text": "he",
+        "time": 171.131
+      },
+      {
+        "text": "was",
+        "time": 171.536
+      },
+      {
+        "text": "bag",
+        "time": 171.992
+      },
+      {
+        "text": "fumbling",
+        "time": 173.107
+      }
+    ]
   },
   {
     "time": 174.7,
-    "text": "Bag fum—"
+    "text": "Bag fum—",
+    "words": [
+      {
+        "text": "Bag",
+        "time": 174.842
+      },
+      {
+        "text": "fum—",
+        "time": 175.515
+      }
+    ]
   },
   {
     "time": 177.28,
     "text": "I've been on my *** for some green",
-    "adlibs": "*** for some green"
+    "adlibs": "*** for some green",
+    "words": [
+      {
+        "text": "I've",
+        "time": 177.292
+      },
+      {
+        "text": "been",
+        "time": 177.713
+      },
+      {
+        "text": "on",
+        "time": 178.068
+      },
+      {
+        "text": "my",
+        "time": 178.413
+      },
+      {
+        "text": "***",
+        "time": 178.754
+      },
+      {
+        "text": "for",
+        "time": 179.793
+      },
+      {
+        "text": "some",
+        "time": 180.154
+      },
+      {
+        "text": "green",
+        "time": 180.563
+      }
+    ]
   },
   {
     "time": 182.56,
-    "text": "All these—"
+    "text": "All these—",
+    "words": [
+      {
+        "text": "All",
+        "time": 182.347
+      },
+      {
+        "text": "these—",
+        "time": 182.724
+      }
+    ]
   },
   {
     "time": 183.3,
-    "text": "All these rats for some cheese"
+    "text": "All these rats for some cheese",
+    "words": [
+      {
+        "text": "All",
+        "time": 183.135
+      },
+      {
+        "text": "these",
+        "time": 183.489
+      },
+      {
+        "text": "rats",
+        "time": 183.912
+      },
+      {
+        "text": "for",
+        "time": 184.852
+      },
+      {
+        "text": "some",
+        "time": 185.22
+      },
+      {
+        "text": "cheese",
+        "time": 185.581
+      }
+    ]
   },
   {
     "time": 186.58,
-    "text": "On my knees, I pray to God"
+    "text": "On my knees, I pray to God",
+    "words": [
+      {
+        "text": "On",
+        "time": 186.664
+      },
+      {
+        "text": "my",
+        "time": 187.046
+      },
+      {
+        "text": "knees,",
+        "time": 187.409
+      },
+      {
+        "text": "I",
+        "time": 187.793
+      },
+      {
+        "text": "pray",
+        "time": 188.195
+      },
+      {
+        "text": "to",
+        "time": 188.558
+      },
+      {
+        "text": "God",
+        "time": 188.91
+      }
+    ]
   }
 ]
