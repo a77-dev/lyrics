@@ -5,36 +5,12 @@
     "words": [
       {
         "text": "Huh,",
-        "time": 0.526
-      },
-      {
-        "text": "Huh,",
-        "time": 4.254
-      },
-      {
-        "text": "Huh,",
         "time": 4.177
       },
       {
         "text": "yeah,",
-        "time": 4.747
-      },
-      {
-        "text": "yeah,",
-        "time": 6.091
-      },
-      {
-        "text": "yeah,",
         "time": 5.885
-      },
-      {
-        "text": "yeah",
-        "time": 5.018
-      },
-      {
-        "text": "yeah",
-        "time": 6.864
-      },
+      },'G=
       {
         "text": "yeah",
         "time": 6.749
@@ -481,31 +457,7 @@
     "words": [
       {
         "text": "You",
-        "time": 82.756
-      },
-      {
-        "text": "You",
-        "time": 83.027
-      },
-      {
-        "text": "You",
-        "time": 85.519
-      },
-      {
-        "text": "You",
         "time": 82.912
-      },
-      {
-        "text": "think",
-        "time": 83.151
-      },
-      {
-        "text": "think",
-        "time": 83.315
-      },
-      {
-        "text": "think",
-        "time": 89.729
       },
       {
         "text": "think",
@@ -513,31 +465,7 @@
       },
       {
         "text": "you",
-        "time": 83.504
-      },
-      {
-        "text": "you",
-        "time": 83.702
-      },
-      {
-        "text": "you",
-        "time": 89.965
-      },
-      {
-        "text": "you",
         "time": 83.375
-      },
-      {
-        "text": "can",
-        "time": 83.855
-      },
-      {
-        "text": "can",
-        "time": 84.082
-      },
-      {
-        "text": "can",
-        "time": 90.201
       },
       {
         "text": "can",
@@ -545,31 +473,7 @@
       },
       {
         "text": "trust",
-        "time": 84.301
-      },
-      {
-        "text": "trust",
-        "time": 84.567
-      },
-      {
-        "text": "trust",
-        "time": 90.467
-      },
-      {
-        "text": "trust",
         "time": 84.323
-      },
-      {
-        "text": "me?",
-        "time": 84.672
-      },
-      {
-        "text": "me?",
-        "time": 84.914
-      },
-      {
-        "text": "me?",
-        "time": 90.734
       },
       {
         "text": "me?",
@@ -577,31 +481,7 @@
       },
       {
         "text": "I",
-        "time": 85.081
-      },
-      {
-        "text": "I",
-        "time": 85.239
-      },
-      {
-        "text": "I",
-        "time": 91.002
-      },
-      {
-        "text": "I",
         "time": 85.217
-      },
-      {
-        "text": "can",
-        "time": 85.477
-      },
-      {
-        "text": "can",
-        "time": 85.685
-      },
-      {
-        "text": "can",
-        "time": 91.238
       },
       {
         "text": "can",
@@ -609,47 +489,11 @@
       },
       {
         "text": "only",
-        "time": 85.974
-      },
-      {
-        "text": "only",
-        "time": 86.978
-      },
-      {
-        "text": "only",
-        "time": 91.507
-      },
-      {
-        "text": "only",
         "time": 86.071
       },
       {
         "text": "trust",
-        "time": 86.955
-      },
-      {
-        "text": "trust",
-        "time": 87.37
-      },
-      {
-        "text": "trust",
-        "time": 92.008
-      },
-      {
-        "text": "trust",
         "time": 86.951
-      },
-      {
-        "text": "myself",
-        "time": 87.192
-      },
-      {
-        "text": "myself",
-        "time": 87.789
-      },
-      {
-        "text": "myself",
-        "time": 92.304
       },
       {
         "text": "myself",
