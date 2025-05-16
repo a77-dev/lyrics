@@ -1,112 +1,978 @@
 [
   {
     "time": 0.596,
-    "text": "I'm deleting the app"
+    "text": "I'm deleting the app",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 0.649
+      },
+      {
+        "text": "deleting",
+        "time": 0.881
+      },
+      {
+        "text": "the",
+        "time": 1.617
+      },
+      {
+        "text": "app",
+        "time": 1.967
+      }
+    ]
   },
   {
     "time": 3.796,
     "text": "Yeah",
-    "adlibs": "Yeah"
+    "adlibs": "Yeah",
+    "words": [
+      {
+        "text": "Yeah",
+        "time": 3.706
+      }
+    ]
   },
   {
     "time": 5.882,
     "text": "Baby, sippin' **** and poppin' ****",
-    "adlibs": "Poppin' ****"
+    "adlibs": "Poppin' ****",
+    "words": [
+      {
+        "text": "Baby,",
+        "time": 5.996
+      },
+      {
+        "text": "sippin'",
+        "time": 6.498
+      },
+      {
+        "text": "****",
+        "time": 7.031
+      },
+      {
+        "text": "and",
+        "time": 7.868
+      },
+      {
+        "text": "poppin'",
+        "time": 8.152
+      },
+      {
+        "text": "****",
+        "time": 8.653
+      }
+    ]
   },
   {
     "time": 10.13,
     "text": "Yeah, you different, you from a different planet",
-    "adlibs": "Trap, baby girl, you different for real"
+    "adlibs": "Trap, baby girl, you different for real",
+    "words": [
+      {
+        "text": "Yeah,",
+        "time": 10.241
+      },
+      {
+        "text": "you",
+        "time": 10.491
+      },
+      {
+        "text": "different,",
+        "time": 10.875
+      },
+      {
+        "text": "you",
+        "time": 11.628
+      },
+      {
+        "text": "from",
+        "time": 11.928
+      },
+      {
+        "text": "a",
+        "time": 12.179
+      },
+      {
+        "text": "different",
+        "time": 12.48
+      },
+      {
+        "text": "planet",
+        "time": 13.032
+      }
+    ]
   },
   {
     "time": 14.464,
-    "text": "Said you back in love, I undid the damage"
+    "text": "Said you back in love, I undid the damage",
+    "words": [
+      {
+        "text": "Said",
+        "time": 14.636
+      },
+      {
+        "text": "you",
+        "time": 14.852
+      },
+      {
+        "text": "back",
+        "time": 15.153
+      },
+      {
+        "text": "in",
+        "time": 15.437
+      },
+      {
+        "text": "love,",
+        "time": 15.721
+      },
+      {
+        "text": "I",
+        "time": 15.989
+      },
+      {
+        "text": "undid",
+        "time": 16.223
+      },
+      {
+        "text": "the",
+        "time": 16.992
+      },
+      {
+        "text": "damage",
+        "time": 17.292
+      }
+    ]
   },
   {
     "time": 18.351,
     "text": "She walked down I said, \"I love it where her hand has been\"",
-    "adlibs": "You have no heart"
+    "adlibs": "You have no heart",
+    "words": [
+      {
+        "text": "She",
+        "time": 18.312
+      },
+      {
+        "text": "She",
+        "time": 18.386
+      },
+      {
+        "text": "walked",
+        "time": 18.83
+      },
+      {
+        "text": "walked",
+        "time": 18.954
+      },
+      {
+        "text": "down",
+        "time": 19.381
+      },
+      {
+        "text": "down",
+        "time": 19.472
+      },
+      {
+        "text": "I",
+        "time": 19.649
+      },
+      {
+        "text": "I",
+        "time": 19.723
+      },
+      {
+        "text": "said,",
+        "time": 19.883
+      },
+      {
+        "text": "said,",
+        "time": 19.974
+      },
+      {
+        "text": "\"I",
+        "time": 20.133
+      },
+      {
+        "text": "\"I",
+        "time": 20.241
+      },
+      {
+        "text": "love",
+        "time": 20.417
+      },
+      {
+        "text": "love",
+        "time": 20.525
+      },
+      {
+        "text": "it",
+        "time": 20.668
+      },
+      {
+        "text": "it",
+        "time": 20.809
+      },
+      {
+        "text": "where",
+        "time": 20.952
+      },
+      {
+        "text": "where",
+        "time": 21.076
+      },
+      {
+        "text": "her",
+        "time": 21.237
+      },
+      {
+        "text": "her",
+        "time": 21.378
+      },
+      {
+        "text": "hand",
+        "time": 21.504
+      },
+      {
+        "text": "hand",
+        "time": 21.628
+      },
+      {
+        "text": "has",
+        "time": 21.988
+      },
+      {
+        "text": "has",
+        "time": 22.13
+      },
+      {
+        "text": "been\"",
+        "time": 22.556
+      },
+      {
+        "text": "been\"",
+        "time": 22.648
+      }
+    ]
   },
   {
     "time": 23.138,
     "text": "Anytime you cross my mind when I landed",
-    "adlibs": "Cross my mind when I landed"
+    "adlibs": "Cross my mind when I landed",
+    "words": [
+      {
+        "text": "Anytime",
+        "time": 23.299
+      },
+      {
+        "text": "you",
+        "time": 24.068
+      },
+      {
+        "text": "cross",
+        "time": 24.352
+      },
+      {
+        "text": "my",
+        "time": 24.619
+      },
+      {
+        "text": "mind",
+        "time": 24.887
+      },
+      {
+        "text": "when",
+        "time": 25.422
+      },
+      {
+        "text": "I",
+        "time": 25.74
+      },
+      {
+        "text": "landed",
+        "time": 26.006
+      }
+    ]
   },
   {
     "time": 27.178,
-    "text": "My money dance, I'm getting bread like I planned it"
+    "text": "My money dance, I'm getting bread like I planned it",
+    "words": [
+      {
+        "text": "My",
+        "time": 27.293
+      },
+      {
+        "text": "money",
+        "time": 27.56
+      },
+      {
+        "text": "dance,",
+        "time": 28.078
+      },
+      {
+        "text": "I'm",
+        "time": 28.329
+      },
+      {
+        "text": "getting",
+        "time": 28.597
+      },
+      {
+        "text": "bread",
+        "time": 29.081
+      },
+      {
+        "text": "like",
+        "time": 29.583
+      },
+      {
+        "text": "I",
+        "time": 29.833
+      },
+      {
+        "text": "planned",
+        "time": 30.15
+      },
+      {
+        "text": "it",
+        "time": 30.702
+      }
+    ]
   },
   {
     "time": 31.309,
-    "text": "Still alone on the stage like I'm doing stand-up"
+    "text": "Still alone on the stage like I'm doing stand-up",
+    "words": [
+      {
+        "text": "Still",
+        "time": 31.32
+      },
+      {
+        "text": "alone",
+        "time": 31.839
+      },
+      {
+        "text": "on",
+        "time": 32.406
+      },
+      {
+        "text": "the",
+        "time": 32.724
+      },
+      {
+        "text": "stage",
+        "time": 33.042
+      },
+      {
+        "text": "like",
+        "time": 33.544
+      },
+      {
+        "text": "I'm",
+        "time": 33.81
+      },
+      {
+        "text": "doing",
+        "time": 34.061
+      },
+      {
+        "text": "stand-up",
+        "time": 34.613
+      }
+    ]
   },
   {
     "time": 35.657,
-    "text": "I'm so high, pass the ***** to God"
+    "text": "I'm so high, pass the ***** to God",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 35.667
+      },
+      {
+        "text": "so",
+        "time": 36.184
+      },
+      {
+        "text": "high,",
+        "time": 36.701
+      },
+      {
+        "text": "pass",
+        "time": 37.236
+      },
+      {
+        "text": "the",
+        "time": 37.587
+      },
+      {
+        "text": "*****",
+        "time": 37.821
+      },
+      {
+        "text": "to",
+        "time": 38.172
+      },
+      {
+        "text": "God",
+        "time": 38.373
+      }
+    ]
   },
   {
     "time": 39.969,
-    "text": "Bad **, take advantage of my money"
+    "text": "Bad **, take advantage of my money",
+    "words": [
+      {
+        "text": "Bad",
+        "time": 40.061
+      },
+      {
+        "text": "**,",
+        "time": 40.578
+      },
+      {
+        "text": "take",
+        "time": 41.113
+      },
+      {
+        "text": "advantage",
+        "time": 41.414
+      },
+      {
+        "text": "of",
+        "time": 42.701
+      },
+      {
+        "text": "my",
+        "time": 42.969
+      },
+      {
+        "text": "money",
+        "time": 43.168
+      }
+    ]
   },
   {
     "time": 45.277,
-    "text": "Put me on Hulu or something"
+    "text": "Put me on Hulu or something",
+    "words": [
+      {
+        "text": "Put",
+        "time": 45.39
+      },
+      {
+        "text": "me",
+        "time": 45.642
+      },
+      {
+        "text": "on",
+        "time": 45.909
+      },
+      {
+        "text": "Hulu",
+        "time": 46.511
+      },
+      {
+        "text": "or",
+        "time": 47.264
+      },
+      {
+        "text": "something",
+        "time": 47.514
+      }
+    ]
   },
   {
     "time": 48.923,
-    "text": "Gucci bag when I walk in the function"
+    "text": "Gucci bag when I walk in the function",
+    "words": [
+      {
+        "text": "Gucci",
+        "time": 49.118
+      },
+      {
+        "text": "bag",
+        "time": 49.737
+      },
+      {
+        "text": "when",
+        "time": 50.304
+      },
+      {
+        "text": "I",
+        "time": 50.539
+      },
+      {
+        "text": "walk",
+        "time": 50.773
+      },
+      {
+        "text": "in",
+        "time": 51.308
+      },
+      {
+        "text": "the",
+        "time": 51.558
+      },
+      {
+        "text": "function",
+        "time": 51.791
+      }
+    ]
   },
   {
     "time": 53.309,
     "text": "Gucci watch but need a Patek, I'm bugging",
-    "adlibs": "Gucci watch, yeah, yeah"
+    "adlibs": "Gucci watch, yeah, yeah",
+    "words": [
+      {
+        "text": "Gucci",
+        "time": 53.48
+      },
+      {
+        "text": "watch",
+        "time": 54.048
+      },
+      {
+        "text": "but",
+        "time": 54.266
+      },
+      {
+        "text": "need",
+        "time": 54.549
+      },
+      {
+        "text": "a",
+        "time": 55.017
+      },
+      {
+        "text": "Patek,",
+        "time": 55.218
+      },
+      {
+        "text": "I'm",
+        "time": 55.853
+      },
+      {
+        "text": "bugging",
+        "time": 56.221
+      }
+    ]
   },
   {
     "time": 57.686,
     "text": "Baby, sippin' Hennessy and poppin' Xans",
-    "adlibs": "Yeah, poppin' Xans"
+    "adlibs": "Yeah, poppin' Xans",
+    "words": [
+      {
+        "text": "Baby,",
+        "time": 57.758
+      },
+      {
+        "text": "sippin'",
+        "time": 58.393
+      },
+      {
+        "text": "Hennessy",
+        "time": 58.944
+      },
+      {
+        "text": "and",
+        "time": 59.78
+      },
+      {
+        "text": "poppin'",
+        "time": 60.048
+      },
+      {
+        "text": "Xans",
+        "time": 60.548
+      }
+    ]
   },
   {
     "time": 62.012,
     "text": "Yeah, you different, you from a different planet",
-    "adlibs": "Baby girl you different for real"
+    "adlibs": "Baby girl you different for real",
+    "words": [
+      {
+        "text": "Yeah,",
+        "time": 62.186
+      },
+      {
+        "text": "you",
+        "time": 62.454
+      },
+      {
+        "text": "different,",
+        "time": 62.738
+      },
+      {
+        "text": "you",
+        "time": 63.54
+      },
+      {
+        "text": "from",
+        "time": 63.824
+      },
+      {
+        "text": "a",
+        "time": 64.092
+      },
+      {
+        "text": "different",
+        "time": 64.359
+      },
+      {
+        "text": "planet",
+        "time": 64.894
+      }
+    ]
   },
   {
     "time": 66.227,
-    "text": "Said you back in love, I undid the damage"
+    "text": "Said you back in love, I undid the damage",
+    "words": [
+      {
+        "text": "Said",
+        "time": 66.481
+      },
+      {
+        "text": "you",
+        "time": 66.732
+      },
+      {
+        "text": "back",
+        "time": 67.016
+      },
+      {
+        "text": "in",
+        "time": 67.316
+      },
+      {
+        "text": "love,",
+        "time": 67.567
+      },
+      {
+        "text": "I",
+        "time": 67.851
+      },
+      {
+        "text": "undid",
+        "time": 68.102
+      },
+      {
+        "text": "the",
+        "time": 68.837
+      },
+      {
+        "text": "damage",
+        "time": 69.104
+      }
+    ]
   },
   {
     "time": 70.115,
     "text": "She walked down I said, \"I love it where her hand has been\"",
-    "adlibs": "Where it has been"
+    "adlibs": "Where it has been",
+    "words": [
+      {
+        "text": "She",
+        "time": 70.257
+      },
+      {
+        "text": "walked",
+        "time": 70.826
+      },
+      {
+        "text": "down",
+        "time": 71.344
+      },
+      {
+        "text": "I",
+        "time": 71.611
+      },
+      {
+        "text": "said,",
+        "time": 71.862
+      },
+      {
+        "text": "\"I",
+        "time": 72.13
+      },
+      {
+        "text": "love",
+        "time": 72.397
+      },
+      {
+        "text": "it",
+        "time": 72.681
+      },
+      {
+        "text": "where",
+        "time": 72.965
+      },
+      {
+        "text": "her",
+        "time": 73.232
+      },
+      {
+        "text": "hand",
+        "time": 73.517
+      },
+      {
+        "text": "has",
+        "time": 74.101
+      },
+      {
+        "text": "been\"",
+        "time": 74.672
+      }
+    ]
   },
   {
     "time": 74.859,
     "text": "Anytime you cross my mind when I landed",
-    "adlibs": "Cross my mind when I landed"
+    "adlibs": "Cross my mind when I landed",
+    "words": [
+      {
+        "text": "Anytime",
+        "time": 75.205
+      },
+      {
+        "text": "you",
+        "time": 75.922
+      },
+      {
+        "text": "cross",
+        "time": 76.19
+      },
+      {
+        "text": "my",
+        "time": 76.424
+      },
+      {
+        "text": "mind",
+        "time": 76.692
+      },
+      {
+        "text": "when",
+        "time": 77.243
+      },
+      {
+        "text": "I",
+        "time": 77.546
+      },
+      {
+        "text": "landed",
+        "time": 77.845
+      }
+    ]
   },
   {
     "time": 79.029,
-    "text": "My money dance, I'm getting bread like I planned it"
+    "text": "My money dance, I'm getting bread like I planned it",
+    "words": [
+      {
+        "text": "My",
+        "time": 79.199
+      },
+      {
+        "text": "money",
+        "time": 79.483
+      },
+      {
+        "text": "dance,",
+        "time": 80.034
+      },
+      {
+        "text": "I'm",
+        "time": 80.251
+      },
+      {
+        "text": "getting",
+        "time": 80.552
+      },
+      {
+        "text": "bread",
+        "time": 81.137
+      },
+      {
+        "text": "like",
+        "time": 81.655
+      },
+      {
+        "text": "I",
+        "time": 81.873
+      },
+      {
+        "text": "planned",
+        "time": 82.123
+      },
+      {
+        "text": "it",
+        "time": 82.623
+      }
+    ]
   },
   {
     "time": 83.068,
-    "text": "Still alone on the stage like I'm doing stand-up"
+    "text": "Still alone on the stage like I'm doing stand-up",
+    "words": [
+      {
+        "text": "Still",
+        "time": 83.226
+      },
+      {
+        "text": "alone",
+        "time": 83.466
+      },
+      {
+        "text": "on",
+        "time": 84.311
+      },
+      {
+        "text": "the",
+        "time": 84.529
+      },
+      {
+        "text": "stage",
+        "time": 84.78
+      },
+      {
+        "text": "like",
+        "time": 85.314
+      },
+      {
+        "text": "I'm",
+        "time": 85.582
+      },
+      {
+        "text": "doing",
+        "time": 85.833
+      },
+      {
+        "text": "stand-up",
+        "time": 86.468
+      }
+    ]
   },
   {
     "time": 87.258,
-    "text": "I'm so high, pass the **** to God"
+    "text": "I'm so high, pass the **** to God",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 87.54
+      },
+      {
+        "text": "so",
+        "time": 88.089
+      },
+      {
+        "text": "high,",
+        "time": 88.59
+      },
+      {
+        "text": "pass",
+        "time": 89.208
+      },
+      {
+        "text": "the",
+        "time": 89.56
+      },
+      {
+        "text": "****",
+        "time": 89.743
+      },
+      {
+        "text": "to",
+        "time": 90.127
+      },
+      {
+        "text": "God",
+        "time": 90.328
+      }
+    ]
   },
   {
     "time": 91.8,
-    "text": "Ball like MJ, just pass me the rock"
+    "text": "Ball like MJ, just pass me the rock",
+    "words": [
+      {
+        "text": "Ball",
+        "time": 92.049
+      },
+      {
+        "text": "like",
+        "time": 92.249
+      },
+      {
+        "text": "MJ,",
+        "time": 92.551
+      },
+      {
+        "text": "just",
+        "time": 93.554
+      },
+      {
+        "text": "pass",
+        "time": 93.77
+      },
+      {
+        "text": "me",
+        "time": 94.055
+      },
+      {
+        "text": "the",
+        "time": 94.304
+      },
+      {
+        "text": "rock",
+        "time": 94.507
+      }
+    ]
   },
   {
     "time": 100,
-    "text": "Traeh ruoy ot yek eht dna"
+    "text": "Traeh ruoy ot yek eht dna",
+    "words": [
+      {
+        "text": "Traeh",
+        "time": 101.074
+      },
+      {
+        "text": "ruoy",
+        "time": 103.062
+      },
+      {
+        "text": "ot",
+        "time": 103.346
+      },
+      {
+        "text": "yek",
+        "time": 103.613
+      },
+      {
+        "text": "eht",
+        "time": 103.846
+      },
+      {
+        "text": "dna",
+        "time": 104.065
+      }
+    ]
   },
   {
     "time": 106.342,
-    "text": "Trap"
+    "text": "Trap",
+    "words": [
+      {
+        "text": "Trap",
+        "time": 106.421
+      }
+    ]
   }
 ]
