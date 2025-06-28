@@ -1,225 +1,276 @@
 [
   {
-    "time": 2.641,
+    "time": 5.668,
     "text": "All these bands make my head hurt",
     "singer": 2
   },
   {
-    "time": 5.02,
-    "text": "All the gas 'til my lungs black",
+    "time": 11.466,
+    "text": "Off the gas 'til my lungs black",
     "singer": 2
   },
   {
-    "time": 7.555,
-    "text": "***** 'posed to make it better",
+    "time": 18.143,
+    "text": "Drugs 'posed to make it better",
     "singer": 2
   },
   {
-    "time": 10.1,
-    "text": "She keep askin' where the love at",
+    "time": 25.049,
+    "text": "She keep askin', \"Where the love at?\"",
     "singer": 2
   },
   {
-    "time": 12.834,
+    "time": 30.651,
     "text": "Really don't know what to tell her",
     "singer": 2
   },
   {
-    "time": 15.324,
-    "text": "You miss the old me, but **** that",
+    "time": 37.59,
+    "text": "You miss the old me, but fuck that",
     "singer": 2
   },
   {
-    "time": 17.907,
+    "time": 43.029,
     "text": "I'm movin' on for the better",
     "singer": 2
   },
   {
-    "time": 20.315,
-    "text": "Smokin' on gas 'til my head hurt"
+    "time": 49.446,
+    "text": "Smokin' on gas 'til my head hurt",
+    "singer": 1
   },
   {
-    "time": 23.59,
-    "text": "Don't gotta stay, if she wanna leave then I'ma let her"
+    "time": 58.208,
+    "text": "Don't gotta stay, if she wanna leave then I'ma let her",
+    "singer": 1
   },
   {
-    "time": 28.755,
-    "text": "But my lil' baby cannot end of me, I swear we tethered"
+    "time": 70.945,
+    "text": "But my lil' baby connected to me, I swear we tethered",
+    "singer": 1
   },
   {
-    "time": 33.268,
-    "text": "What I said before I left her"
+    "time": 81.368,
+    "text": "What I said before I left her",
+    "singer": 1
   },
   {
-    "time": 35.98,
-    "text": "I had to grow out my feathers"
+    "time": 87.101,
+    "text": "I had to grow out my feathers",
+    "singer": 1
   },
   {
-    "time": 38.375,
-    "text": "I went and pulled up and blessed her"
+    "time": 92.834,
+    "text": "I went and pulled up and blessed her",
+    "singer": 1
   },
   {
-    "time": 40.847,
-    "text": "Heart cold, it ain't December"
+    "time": 99.479,
+    "text": "Heart colder than December",
+    "singer": 1
   },
   {
-    "time": 43.498,
-    "text": "Chop give that boy a check-up"
+    "time": 105.244,
+    "text": "Chop give that boy a check-up",
+    "singer": 1
   },
   {
-    "time": 46.026,
-    "text": "Chop hit him from the neck up"
+    "time": 111.824,
+    "text": "Chop hit him from the neck up",
+    "singer": 1
   },
   {
-    "time": 48.532,
-    "text": "Lost, but I'm tryna get up"
+    "time": 118.664,
+    "text": "Lost, but I'm tryna get up",
+    "singer": 1
   },
   {
-    "time": 51.127,
+    "time": 125.212,
     "text": "Lost, but I'm tryna get up",
     "singer": 2
   },
   {
-    "time": 53.718,
+    "time": 131.075,
     "text": "I'm just tryna get my bread up",
     "singer": 2
   },
   {
-    "time": 56.318,
-    "text": "If that boy talkin', we get down, smacked up by Berettas",
+    "time": 137.818,
+    "text": "If that boy talkin', we get down",
     "singer": 2
   },
   {
-    "time": 62.008,
-    "text": "They say that I'm in my glow, I'm really up in the shows",
+    "time": 143.518,
+    "text": "Smacked up by Berettas",
     "singer": 2
   },
   {
-    "time": 67.123,
-    "text": "I got way too many ****, had to let some of 'em go, oh",
+    "time": 151.075,
+    "text": "They say that I'm in my glow",
     "singer": 2
   },
   {
-    "time": 72.261,
-    "text": "AMG, pushin' to start, you know that we hittin' road"
-  },
-  {
-    "time": 77.4,
-    "text": "I'm way too high off this gas, lil' *****, I'm high off this dro",
+    "time": 156.873,
+    "text": "I'm really up and it shows",
     "singer": 2
   },
   {
-    "time": 82.539,
-    "text": "Really been up since a jit, I get a rack and spend on my fit, I'm him",
+    "time": 163.811,
+    "text": "I got way too many hoes",
     "singer": 2
   },
   {
-    "time": 87.658,
-    "text": "I'm here just talkin' my ****, you see the Prada, Margiela my kicks, uh-huh",
+    "time": 170.261,
+    "text": "Had to let some of 'em go, oh",
     "singer": 2
   },
   {
-    "time": 92.707,
-    "text": "Lil' ***** had a show on the flip, might as well tell her, her ***** my kid, uh-huh",
+    "time": 177.036,
+    "text": "AMG, pushin' to start, you know that we hittin' road",
+    "singer": 1
+  },
+  {
+    "time": 189.511,
+    "text": "I'm way too high off this gas",
     "singer": 2
   },
   {
-    "time": 97.803,
-    "text": "Wock' in this pint, this **** real, you can just tell by the way that it stick, uh-huh",
+    "time": 194.951,
+    "text": "Lil' bitch, I'm high off this dro",
     "singer": 2
   },
   {
-    "time": 102.326,
+    "time": 201.726,
+    "text": "Really been up since a jit",
+    "singer": 2
+  },
+  {
+    "time": 206.287,
+    "text": "I get a rack in, I spend on my fit, I'm him",
+    "singer": 2
+  },
+  {
+    "time": 213.941,
+    "text": "I'm rich here just talkin' my shit",
+    "singer": 2
+  },
+  {
+    "time": 218.469,
+    "text": "You see the Prada, Margiela my kicks, uh-huh",
+    "singer": 2
+  },
+  {
+    "time": 226.189,
+    "text": "Bitch had a show on the flip",
+    "singer": 2
+  },
+  {
+    "time": 230.814,
+    "text": "Might as well tell her, her nigga my kid, uh-huh",
+    "singer": 2
+  },
+  {
+    "time": 238.599,
+    "text": "Wock' in this pint, this shit real",
+    "singer": 2
+  },
+  {
+    "time": 243.453,
+    "text": "You can just tell by the way that it stick, uh-huh",
+    "singer": 2
+  },
+  {
+    "time": 250.195,
     "text": "All these bands make my head hurt",
     "singer": 2
   },
   {
-    "time": 104.902,
-    "text": "All the gas 'til my lungs black",
+    "time": 257.199,
+    "text": "Off the gas 'til my lungs black",
     "singer": 2
   },
   {
-    "time": 107.411,
+    "time": 262.899,
     "text": "Drugs 'posed to make it better",
     "singer": 2
   },
   {
-    "time": 109.937,
-    "text": "She keep askin' where the love at",
+    "time": 268.99,
+    "text": "She keep askin', \"Where the love at?\"",
     "singer": 2
   },
   {
-    "time": 112.519,
+    "time": 274.691,
     "text": "Really don't know what to tell her",
     "singer": 2
   },
   {
-    "time": 115.159,
-    "text": "You miss the old me, but **** that",
+    "time": 281.694,
+    "text": "You miss the old me, but fuck that",
     "singer": 2
   },
   {
-    "time": 117.687,
+    "time": 287.036,
     "text": "I'm movin' on for the better",
     "singer": 2
   },
   {
-    "time": 122.63,
+    "time": 299.805,
     "text": "All these bands make my head hurt",
     "singer": 2
   },
   {
-    "time": 125.39,
-    "text": "All the gas 'til my lungs black",
+    "time": 306.58,
+    "text": "Off the gas 'til my lungs black",
     "singer": 2
   },
   {
-    "time": 127.815,
+    "time": 312.41,
     "text": "Drugs 'posed to make it better",
     "singer": 2
   },
   {
-    "time": 130.321,
+    "time": 318.143,
     "text": "She keep askin' where the love at",
     "singer": 2
   },
   {
-    "time": 132.974,
+    "time": 324.951,
     "text": "Really don't know what to tell her",
     "singer": 2
   },
   {
-    "time": 135.565,
-    "text": "You miss the old me, but **** that",
+    "time": 331.792,
+    "text": "You miss the old me, but fuck that",
     "singer": 2
   },
   {
-    "time": 138.23,
+    "time": 337.492,
     "text": "I'm movin' on for the better",
     "singer": 2
   },
   {
-    "time": 140.778,
-    "text": "",
-    "adlibs": "I'm movin' on for the better"
+    "time": 343.55,
+    "text": ""
   },
   {
-    "time": 143.352,
+    "time": 350.261,
     "text": "I'm movin' on for the better, yeah",
-    "adlibs": "Uh, uh"
+    "singer": 1
   },
   {
-    "time": 148.471,
+    "time": 363.16,
     "text": "I'm movin' on for the better, yeah",
-    "adlibs": "Uh, uh"
+    "singer": 1
   },
   {
-    "time": 153.589,
+    "time": 374.365,
     "text": "I'm movin' on for the better, yeah",
-    "adlibs": "Uh, uh"
+    "singer": 1
   },
   {
-    "time": 158.701,
-    "text": "I'm movin' on for the better, yeah, uh"
+    "time": 387.036,
+    "text": "I'm movin' on for the better, yeah, uh",
+    "singer": 1
   }
 ]
