@@ -3,7 +3,10 @@ name: Update Songs Data
 on:
   schedule:
     - cron: "0 * * * *" # Runs every hour
-  workflow_dispatch: # Allows manual run
+  workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-songs:
@@ -11,30 +14,34 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Fetch latest data
         run: curl -s https://api.npoint.io/897957f969e5c52a67ab/ -o latest.json
 
       - name: Merge with existing songs file
         run: |
-          if [ -f songs ]; then
-            jq -s '.[0] * .[1]' songs latest.json > merged.json
+          if [ -f songs.json ]; then
+            jq -s '.[0] * .[1]' songs.json latest.json > merged.json
           else
             cp latest.json merged.json
           fi
-          mv merged.json songs
+          mv merged.json songs.json
 
       - name: Check for changes
         run: |
-          if git diff --exit-code songs; then
+          if git diff --quiet songs.json; then
             echo "No changes detected."
             exit 0
+          else
+            echo "Changes detected, committing..."
           fi
 
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add songs
-          git commit -m "Update songs data"
+          git add songs.json
+          git commit -m "Update songs data" || echo "No changes to commit"
           git push
