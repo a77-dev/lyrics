@@ -1308,6 +1308,7 @@
   {
     "time": 239,
     "text": "Two new bad bitches, I got both of these hoes kissin'",
+    "singer": 2,
     "words": [
       {
         "text": "Two",
@@ -1408,6 +1409,7 @@
   {
     "time": 255,
     "text": "Two new bad bitches, I got both of these hoes kissin'",
+    "singer": 2,
     "words": [
       {
         "text": "Two",
@@ -1458,6 +1460,7 @@
   {
     "time": 263,
     "text": "Two new bad bitches, I got both of these hoes kissin'",
+    "singer": 2,
     "words": [
       {
         "text": "Two",
@@ -1508,6 +1511,7 @@
   {
     "time": 270,
     "text": "Ooh, new swag, two bags on some Raf Simons",
+    "singer": 2,
     "words": [
       {
         "text": "Ooh,",
@@ -1550,6 +1554,7 @@
   {
     "time": 277,
     "text": "I was with Lil O, we got O's, smokin' Buku bitches",
+    "singer": 2,
     "adlibs": "boop-boop",
     "words": [
       {
@@ -1601,6 +1606,7 @@
   {
     "time": 284,
     "text": "Rocked out the show, goin' crazy, I'ma break the ceilin'",
+    "singer": 2,
     "words": [
       {
         "text": "Rocked",
@@ -1647,6 +1653,7 @@
   {
     "time": 291.5,
     "text": "Psykotic, Bass Killer, psykotic, Bass Killer",
+    "singer": 2,
     "words": [
       {
         "text": "Psykotic,",
@@ -1677,6 +1684,7 @@
   {
     "time": 299.3,
     "text": "New Goyard bag on me, new Goyard bag on me",
+    "singer": 2,
     "adlibs": "yo",
     "words": [
       {
@@ -1724,6 +1732,7 @@
   {
     "time": 307.5,
     "text": "I just beatin' her back, I'm in it , I just beatin' her back, I'm in it",
+    "singer": 2,
     "adlibs": "yeah",
     "words": [
       {
@@ -1799,6 +1808,7 @@
   {
     "time": 315,
     "text": "And we all up on his ass, I'm prayin' to God, but I'm sinnin'",
+    "singer": 2,
     "adlibs": "whoa",
     "words": [
       {
@@ -1862,6 +1872,7 @@
   {
     "time": 322,
     "text": "I'm prayin' to God, but I'm sinnin'",
+    "singer": 2,
     "adlibs": "bleh",
     "words": [
       {
@@ -1897,6 +1908,7 @@
   {
     "time": 326,
     "text": "I'm prayin' to God but I'm sinnin'",
+    "singer": 2,
     "words": [
       {
         "text": "I'm",
@@ -1931,6 +1943,7 @@
   {
     "time": 330,
     "text": "Oh, what, I'm like Marilyn Manson",
+    "singer": 2,
     "adlibs": "yeah",
     "words": [
       {
@@ -1962,6 +1975,7 @@
   {
     "time": 334,
     "text": "I'm-I'm like Marilyn Manson",
+    "singer": 2,
     "adlibs": "yah",
     "words": [
       {
@@ -1985,6 +1999,7 @@
   {
     "time": 337.5,
     "text": "I'm sippin' lean with medicine",
+    "singer": 2,
     "words": [
       {
         "text": "I'm",
@@ -2011,6 +2026,7 @@
   {
     "time": 341.5,
     "text": "Ri-Rick Owens pants saggin'",
+    "singer": 2,
     "adlibs": "yo",
     "words": [
       {
@@ -2034,6 +2050,7 @@
   {
     "time": 345,
     "text": "We cut off they heads, snap it",
+    "singer": 2,
     "adlibs": "pew-pew",
     "words": [
       {
@@ -2069,6 +2086,7 @@
   {
     "time": 349.3,
     "text": "We cut off they heads, snap it",
+    "singer": 2,
     "words": [
       {
         "text": "We",
@@ -2103,6 +2121,7 @@
   {
     "time": 353,
     "text": "Yeah, I'm dancin' with Dirty Diana",
+    "singer": 2,
     "adlibs": "yeah",
     "words": [
       {
@@ -2134,6 +2153,7 @@
   {
     "time": 356.6,
     "text": "I got gold standards",
+    "singer": 2,
     "adlibs": "whoa",
     "words": [
       {
@@ -2157,6 +2177,7 @@
   {
     "time": 361,
     "text": "I got a lean bladder, brah, I got a lean bladder",
+    "singer": 2,
     "adlibs": "yeah, yeah, yeah",
     "words": [
       {
@@ -2208,6 +2229,7 @@
   {
     "time": 367.3,
     "text": "I got a lean bladder, I got a lean bladder",
+    "singer": 2,
     "adlibs": "yeah, yeah, yeah",
     "words": [
       {
@@ -2255,6 +2277,7 @@
   {
     "time": 375.5,
     "text": "I feel like a king, ooh, yeah, I'm rocking the Rick, ooh, yeah",
+    "singer": 2,
     "words": [
       {
         "text": "I",
@@ -2313,6 +2336,7 @@
   {
     "time": 383,
     "text": "I got all the breesh, ooh, slatt, yeah, these diamonds on me",
+    "singer": 2,
     "words": [
       {
         "text": "I",
