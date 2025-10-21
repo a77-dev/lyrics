@@ -1,227 +1,2367 @@
 [
   {
     "time": 13.36,
-    "text": "Two new bags, I got two new straps in it"
+    "text": "Two new bags, I got two new straps in it",
+    "words": [
+      {
+        "text": "Two",
+        "time": 30.021
+      },
+      {
+        "text": "new",
+        "time": 30.909
+      },
+      {
+        "text": "bags,",
+        "time": 31.885
+      },
+      {
+        "text": "I",
+        "time": 32.693
+      },
+      {
+        "text": "got",
+        "time": 33.202
+      },
+      {
+        "text": "two",
+        "time": 33.651
+      },
+      {
+        "text": "new",
+        "time": 34.673
+      },
+      {
+        "text": "straps",
+        "time": 35.59
+      },
+      {
+        "text": "in",
+        "time": 36.52
+      },
+      {
+        "text": "it",
+        "time": 36.949
+      }
+    ]
   },
   {
     "time": 16.76,
     "text": "New coupe, who that? You can shoot if you drag in it",
-    "adlibs": "what? Yeah"
+    "adlibs": "what? Yeah",
+    "words": [
+      {
+        "text": "New",
+        "time": 37.496
+      },
+      {
+        "text": "coupe,",
+        "time": 38.394
+      },
+      {
+        "text": "who",
+        "time": 38.85
+      },
+      {
+        "text": "that?",
+        "time": 39.28
+      },
+      {
+        "text": "You",
+        "time": 40.199
+      },
+      {
+        "text": "can",
+        "time": 40.615
+      },
+      {
+        "text": "shoot",
+        "time": 41.085
+      },
+      {
+        "text": "if",
+        "time": 42.103
+      },
+      {
+        "text": "you",
+        "time": 42.539
+      },
+      {
+        "text": "drag",
+        "time": 43.003
+      },
+      {
+        "text": "in",
+        "time": 43.967
+      },
+      {
+        "text": "it",
+        "time": 44.407
+      }
+    ]
   },
   {
     "time": 20.15,
-    "text": "I was hittin' this bitch from the back, and then she tapped, she finished"
+    "text": "I was hittin' this bitch from the back, and then she tapped, she finished",
+    "words": [
+      {
+        "text": "I",
+        "time": 44.922
+      },
+      {
+        "text": "was",
+        "time": 45.291
+      },
+      {
+        "text": "hittin'",
+        "time": 45.787
+      },
+      {
+        "text": "this",
+        "time": 46.218
+      },
+      {
+        "text": "bitch",
+        "time": 46.719
+      },
+      {
+        "text": "from",
+        "time": 47.695
+      },
+      {
+        "text": "the",
+        "time": 48.125
+      },
+      {
+        "text": "back,",
+        "time": 48.608
+      },
+      {
+        "text": "and",
+        "time": 49.035
+      },
+      {
+        "text": "then",
+        "time": 49.503
+      },
+      {
+        "text": "she",
+        "time": 50.009
+      },
+      {
+        "text": "tapped,",
+        "time": 50.495
+      },
+      {
+        "text": "she",
+        "time": 50.962
+      },
+      {
+        "text": "finished",
+        "time": 51.435
+      }
+    ]
   },
   {
     "time": 23.51,
-    "text": "Two cups, I pour it up like Yeat, fuck, I'm back up in it"
+    "text": "Two cups, I pour it up like Yeat, fuck, I'm back up in it",
+    "words": [
+      {
+        "text": "Two",
+        "time": 52.395
+      },
+      {
+        "text": "cups,",
+        "time": 53.327
+      },
+      {
+        "text": "I",
+        "time": 53.628
+      },
+      {
+        "text": "pour",
+        "time": 54.193
+      },
+      {
+        "text": "it",
+        "time": 54.641
+      },
+      {
+        "text": "up",
+        "time": 55.081
+      },
+      {
+        "text": "like",
+        "time": 55.572
+      },
+      {
+        "text": "Yeat,",
+        "time": 56.069
+      },
+      {
+        "text": "fuck,",
+        "time": 57.042
+      },
+      {
+        "text": "I'm",
+        "time": 57.571
+      },
+      {
+        "text": "back",
+        "time": 57.955
+      },
+      {
+        "text": "up",
+        "time": 58.416
+      },
+      {
+        "text": "in",
+        "time": 58.873
+      },
+      {
+        "text": "it",
+        "time": 59.27
+      }
+    ]
   },
   {
     "time": 27.07,
     "text": "These lil' niggas, they-they broke as hell and smokin' midgets",
-    "adlibs": "yeah"
+    "adlibs": "yeah",
+    "words": [
+      {
+        "text": "These",
+        "time": 59.947
+      },
+      {
+        "text": "lil'",
+        "time": 60.592
+      },
+      {
+        "text": "niggas,",
+        "time": 60.927
+      },
+      {
+        "text": "they-they",
+        "time": 61.343
+      },
+      {
+        "text": "broke",
+        "time": 63.587
+      },
+      {
+        "text": "as",
+        "time": 64.034
+      },
+      {
+        "text": "hell",
+        "time": 64.483
+      },
+      {
+        "text": "and",
+        "time": 64.939
+      },
+      {
+        "text": "smokin'",
+        "time": 65.429
+      },
+      {
+        "text": "midgets",
+        "time": 66.407
+      }
+    ]
   },
   {
     "time": 30.32,
-    "text": "Bitch, I'm like Lil Tay-Tay, flexin', I'm the youngest in it"
+    "text": "Bitch, I'm like Lil Tay-Tay, flexin', I'm the youngest in it",
+    "words": [
+      {
+        "text": "Bitch,",
+        "time": 67.339
+      },
+      {
+        "text": "I'm",
+        "time": 67.796
+      },
+      {
+        "text": "like",
+        "time": 68.224
+      },
+      {
+        "text": "Lil",
+        "time": 68.74
+      },
+      {
+        "text": "Tay-Tay,",
+        "time": 69.145
+      },
+      {
+        "text": "flexin',",
+        "time": 71.049
+      },
+      {
+        "text": "I'm",
+        "time": 71.95
+      },
+      {
+        "text": "the",
+        "time": 72.42
+      },
+      {
+        "text": "youngest",
+        "time": 72.923
+      },
+      {
+        "text": "in",
+        "time": 73.858
+      },
+      {
+        "text": "it",
+        "time": 74.311
+      }
+    ]
   },
   {
     "time": 33.69,
     "text": "Money count up every day, finna change my name and digits",
-    "adlibs": "boop-boop-boop"
+    "adlibs": "boop-boop-boop",
+    "words": [
+      {
+        "text": "Money",
+        "time": 74.906
+      },
+      {
+        "text": "count",
+        "time": 75.296
+      },
+      {
+        "text": "up",
+        "time": 76.366
+      },
+      {
+        "text": "every",
+        "time": 76.789
+      },
+      {
+        "text": "day,",
+        "time": 77.698
+      },
+      {
+        "text": "finna",
+        "time": 78.643
+      },
+      {
+        "text": "change",
+        "time": 79.111
+      },
+      {
+        "text": "my",
+        "time": 79.525
+      },
+      {
+        "text": "name",
+        "time": 79.998
+      },
+      {
+        "text": "and",
+        "time": 80.507
+      },
+      {
+        "text": "digits",
+        "time": 80.918
+      }
+    ]
   },
   {
     "time": 37.03,
     "text": "Baguettes on all my chains, nigga, I ain't rockin' tennis",
-    "adlibs": "phew"
+    "adlibs": "phew",
+    "words": [
+      {
+        "text": "Baguettes",
+        "time": 82.327
+      },
+      {
+        "text": "on",
+        "time": 83.015
+      },
+      {
+        "text": "all",
+        "time": 83.66
+      },
+      {
+        "text": "my",
+        "time": 84.971
+      },
+      {
+        "text": "chains,",
+        "time": 86.039
+      },
+      {
+        "text": "nigga,",
+        "time": 86.831
+      },
+      {
+        "text": "I",
+        "time": 87.338
+      },
+      {
+        "text": "ain't",
+        "time": 87.793
+      },
+      {
+        "text": "rockin'",
+        "time": 88.292
+      },
+      {
+        "text": "tennis",
+        "time": 88.913
+      }
+    ]
   },
   {
     "time": 41.12,
-    "text": "You can keep the swag, I don't want it no more"
+    "text": "You can keep the swag, I don't want it no more",
+    "words": [
+      {
+        "text": "You",
+        "time": 89.996
+      },
+      {
+        "text": "can",
+        "time": 92.362
+      },
+      {
+        "text": "keep",
+        "time": 93.125
+      },
+      {
+        "text": "the",
+        "time": 93.453
+      },
+      {
+        "text": "swag,",
+        "time": 94.267
+      },
+      {
+        "text": "I",
+        "time": 94.726
+      },
+      {
+        "text": "don't",
+        "time": 95.126
+      },
+      {
+        "text": "want",
+        "time": 95.607
+      },
+      {
+        "text": "it",
+        "time": 95.967
+      },
+      {
+        "text": "no",
+        "time": 97.219
+      },
+      {
+        "text": "more",
+        "time": 98.025
+      }
+    ]
   },
   {
     "time": 44.17,
-    "text": "Poured too much lean, I lagged, now I'm movin' slow-mo'"
+    "text": "Poured too much lean, I lagged, now I'm movin' slow-mo'",
+    "words": [
+      {
+        "text": "Poured",
+        "time": 98.593
+      },
+      {
+        "text": "too",
+        "time": 98.975
+      },
+      {
+        "text": "much",
+        "time": 99.573
+      },
+      {
+        "text": "lean,",
+        "time": 100.487
+      },
+      {
+        "text": "I",
+        "time": 100.787
+      },
+      {
+        "text": "lagged,",
+        "time": 101.888
+      },
+      {
+        "text": "now",
+        "time": 102.441
+      },
+      {
+        "text": "I'm",
+        "time": 102.797
+      },
+      {
+        "text": "movin'",
+        "time": 103.811
+      },
+      {
+        "text": "slow-mo'",
+        "time": 105.535
+      }
+    ]
   },
   {
     "time": 47.49,
-    "text": "And I just got the pack, now I'm servin' dope, ho"
+    "text": "And I just got the pack, now I'm servin' dope, ho",
+    "words": [
+      {
+        "text": "And",
+        "time": 106.172
+      },
+      {
+        "text": "I",
+        "time": 106.514
+      },
+      {
+        "text": "just",
+        "time": 107.571
+      },
+      {
+        "text": "got",
+        "time": 107.937
+      },
+      {
+        "text": "the",
+        "time": 108.305
+      },
+      {
+        "text": "pack,",
+        "time": 109.395
+      },
+      {
+        "text": "now",
+        "time": 109.761
+      },
+      {
+        "text": "I'm",
+        "time": 110.206
+      },
+      {
+        "text": "servin'",
+        "time": 111.181
+      },
+      {
+        "text": "dope,",
+        "time": 112.005
+      },
+      {
+        "text": "ho",
+        "time": 113.088
+      }
+    ]
   },
   {
     "time": 50.9,
-    "text": "Got it jumpin' in the back, trap jump like a pogo"
+    "text": "Got it jumpin' in the back, trap jump like a pogo",
+    "words": [
+      {
+        "text": "Got",
+        "time": 113.523
+      },
+      {
+        "text": "it",
+        "time": 113.903
+      },
+      {
+        "text": "jumpin'",
+        "time": 114.576
+      },
+      {
+        "text": "in",
+        "time": 115.099
+      },
+      {
+        "text": "the",
+        "time": 115.544
+      },
+      {
+        "text": "back,",
+        "time": 116.761
+      },
+      {
+        "text": "trap",
+        "time": 117.192
+      },
+      {
+        "text": "jump",
+        "time": 117.634
+      },
+      {
+        "text": "like",
+        "time": 118.09
+      },
+      {
+        "text": "a",
+        "time": 118.565
+      },
+      {
+        "text": "pogo",
+        "time": 119.963
+      }
+    ]
   },
   {
     "time": 54.01,
     "text": "Bullets ain't hittin' nothin', need to go and get a check-up",
-    "adlibs": "yeah"
+    "adlibs": "yeah",
+    "words": [
+      {
+        "text": "Bullets",
+        "time": 120.605
+      },
+      {
+        "text": "ain't",
+        "time": 120.96
+      },
+      {
+        "text": "hittin'",
+        "time": 121.439
+      },
+      {
+        "text": "nothin',",
+        "time": 122.382
+      },
+      {
+        "text": "need",
+        "time": 123.358
+      },
+      {
+        "text": "to",
+        "time": 123.808
+      },
+      {
+        "text": "go",
+        "time": 124.275
+      },
+      {
+        "text": "and",
+        "time": 124.726
+      },
+      {
+        "text": "get",
+        "time": 125.23
+      },
+      {
+        "text": "a",
+        "time": 125.688
+      },
+      {
+        "text": "check-up",
+        "time": 126.203
+      }
+    ]
   },
   {
     "time": 57.22,
-    "text": "5.56 gon' bleed it, so, I'm waitin' for a nigga to step up"
+    "text": "5.56 gon' bleed it, so, I'm waitin' for a nigga to step up",
+    "words": [
+      {
+        "text": "5.56",
+        "time": 127.324
+      },
+      {
+        "text": "gon'",
+        "time": 127.686
+      },
+      {
+        "text": "bleed",
+        "time": 128.139
+      },
+      {
+        "text": "it,",
+        "time": 128.627
+      },
+      {
+        "text": "so,",
+        "time": 129.815
+      },
+      {
+        "text": "I'm",
+        "time": 130.833
+      },
+      {
+        "text": "waitin'",
+        "time": 131.283
+      },
+      {
+        "text": "for",
+        "time": 131.782
+      },
+      {
+        "text": "a",
+        "time": 132.216
+      },
+      {
+        "text": "nigga",
+        "time": 132.675
+      },
+      {
+        "text": "to",
+        "time": 133.141
+      },
+      {
+        "text": "step",
+        "time": 133.571
+      },
+      {
+        "text": "up",
+        "time": 133.996
+      }
+    ]
   },
   {
     "time": 60.62,
-    "text": "I just bought a big gun, touch Lil O, lil' bitch, get wet up"
+    "text": "I just bought a big gun, touch Lil O, lil' bitch, get wet up",
+    "words": [
+      {
+        "text": "I",
+        "time": 134.538
+      },
+      {
+        "text": "just",
+        "time": 135.099
+      },
+      {
+        "text": "bought",
+        "time": 135.547
+      },
+      {
+        "text": "a",
+        "time": 135.901
+      },
+      {
+        "text": "big",
+        "time": 136.347
+      },
+      {
+        "text": "gun,",
+        "time": 137.299
+      },
+      {
+        "text": "touch",
+        "time": 138.209
+      },
+      {
+        "text": "Lil",
+        "time": 138.668
+      },
+      {
+        "text": "O,",
+        "time": 139.096
+      },
+      {
+        "text": "lil'",
+        "time": 139.6
+      },
+      {
+        "text": "bitch,",
+        "time": 140.075
+      },
+      {
+        "text": "get",
+        "time": 140.589
+      },
+      {
+        "text": "wet",
+        "time": 141.022
+      },
+      {
+        "text": "up",
+        "time": 141.476
+      }
+    ]
   },
   {
     "time": 63.9,
     "text": "I had this bitch tucked in the club, keep it under pressure",
-    "adlibs": "no joke"
+    "adlibs": "no joke",
+    "words": [
+      {
+        "text": "I",
+        "time": 142.07
+      },
+      {
+        "text": "had",
+        "time": 142.586
+      },
+      {
+        "text": "this",
+        "time": 143.038
+      },
+      {
+        "text": "bitch",
+        "time": 143.5
+      },
+      {
+        "text": "tucked",
+        "time": 143.917
+      },
+      {
+        "text": "in",
+        "time": 144.851
+      },
+      {
+        "text": "the",
+        "time": 145.294
+      },
+      {
+        "text": "club,",
+        "time": 145.714
+      },
+      {
+        "text": "keep",
+        "time": 146.744
+      },
+      {
+        "text": "it",
+        "time": 147.193
+      },
+      {
+        "text": "under",
+        "time": 147.688
+      },
+      {
+        "text": "pressure",
+        "time": 148.565
+      }
+    ]
   },
   {
     "time": 67.69,
-    "text": "Make it rain in your hood, lil' bitch, go get the umbrella"
+    "text": "Make it rain in your hood, lil' bitch, go get the umbrella",
+    "words": [
+      {
+        "text": "Make",
+        "time": 149.623
+      },
+      {
+        "text": "it",
+        "time": 150.038
+      },
+      {
+        "text": "rain",
+        "time": 150.523
+      },
+      {
+        "text": "in",
+        "time": 151.429
+      },
+      {
+        "text": "your",
+        "time": 151.86
+      },
+      {
+        "text": "hood,",
+        "time": 152.311
+      },
+      {
+        "text": "lil'",
+        "time": 153.331
+      },
+      {
+        "text": "bitch,",
+        "time": 153.764
+      },
+      {
+        "text": "go",
+        "time": 154.202
+      },
+      {
+        "text": "get",
+        "time": 154.671
+      },
+      {
+        "text": "the",
+        "time": 155.147
+      },
+      {
+        "text": "umbrella",
+        "time": 155.62
+      }
+    ]
   },
   {
     "time": 70.66,
-    "text": "Thought I told lil' slime to tell you that I'm tryna come and nail ya"
+    "text": "Thought I told lil' slime to tell you that I'm tryna come and nail ya",
+    "words": [
+      {
+        "text": "Thought",
+        "time": 157.025
+      },
+      {
+        "text": "I",
+        "time": 157.473
+      },
+      {
+        "text": "told",
+        "time": 157.926
+      },
+      {
+        "text": "lil'",
+        "time": 158.415
+      },
+      {
+        "text": "slime",
+        "time": 158.888
+      },
+      {
+        "text": "to",
+        "time": 159.744
+      },
+      {
+        "text": "tell",
+        "time": 160.13
+      },
+      {
+        "text": "you",
+        "time": 160.528
+      },
+      {
+        "text": "that",
+        "time": 160.944
+      },
+      {
+        "text": "I'm",
+        "time": 161.387
+      },
+      {
+        "text": "tryna",
+        "time": 161.773
+      },
+      {
+        "text": "come",
+        "time": 162.221
+      },
+      {
+        "text": "and",
+        "time": 162.862
+      },
+      {
+        "text": "nail",
+        "time": 163.297
+      },
+      {
+        "text": "ya",
+        "time": 163.729
+      }
+    ]
   },
   {
     "time": 74.26,
     "text": "Please back up, you not my fella, .223 shoot like light feather",
-    "adlibs": "yeah"
+    "adlibs": "yeah",
+    "words": [
+      {
+        "text": "Please",
+        "time": 164.565
+      },
+      {
+        "text": "back",
+        "time": 165.01
+      },
+      {
+        "text": "up,",
+        "time": 165.465
+      },
+      {
+        "text": "you",
+        "time": 165.917
+      },
+      {
+        "text": "not",
+        "time": 166.387
+      },
+      {
+        "text": "my",
+        "time": 166.812
+      },
+      {
+        "text": "fella,",
+        "time": 167.223
+      },
+      {
+        "text": ".223",
+        "time": 168.21
+      },
+      {
+        "text": "shoot",
+        "time": 168.644
+      },
+      {
+        "text": "like",
+        "time": 169.11
+      },
+      {
+        "text": "light",
+        "time": 169.611
+      },
+      {
+        "text": "feather",
+        "time": 170.089
+      }
+    ]
   },
   {
     "time": 77.55,
-    "text": "I don't got the pack in the mail, yeah, sorry, I don't know what to tell ya"
+    "text": "I don't got the pack in the mail, yeah, sorry, I don't know what to tell ya",
+    "words": [
+      {
+        "text": "I",
+        "time": 171.965
+      },
+      {
+        "text": "don't",
+        "time": 172.442
+      },
+      {
+        "text": "got",
+        "time": 172.905
+      },
+      {
+        "text": "the",
+        "time": 173.35
+      },
+      {
+        "text": "pack",
+        "time": 173.843
+      },
+      {
+        "text": "in",
+        "time": 174.714
+      },
+      {
+        "text": "the",
+        "time": 175.119
+      },
+      {
+        "text": "mail,",
+        "time": 175.516
+      },
+      {
+        "text": "yeah,",
+        "time": 175.931
+      },
+      {
+        "text": "sorry,",
+        "time": 176.39
+      },
+      {
+        "text": "I",
+        "time": 176.827
+      },
+      {
+        "text": "don't",
+        "time": 177.255
+      },
+      {
+        "text": "know",
+        "time": 177.638
+      },
+      {
+        "text": "what",
+        "time": 177.979
+      },
+      {
+        "text": "to",
+        "time": 178.348
+      },
+      {
+        "text": "tell",
+        "time": 178.684
+      },
+      {
+        "text": "ya",
+        "time": 179.103
+      }
+    ]
   },
   {
     "time": 81.01,
     "text": "Yeah, ran off, come get me, this a standoff, shoot 50",
-    "adlibs": "yeah, yeah, yeah, yeah"
+    "adlibs": "yeah, yeah, yeah, yeah",
+    "words": [
+      {
+        "text": "Yeah,",
+        "time": 180.862
+      },
+      {
+        "text": "ran",
+        "time": 181.508
+      },
+      {
+        "text": "off,",
+        "time": 182.052
+      },
+      {
+        "text": "come",
+        "time": 182.709
+      },
+      {
+        "text": "get",
+        "time": 183.133
+      },
+      {
+        "text": "me,",
+        "time": 183.469
+      },
+      {
+        "text": "this",
+        "time": 184.163
+      },
+      {
+        "text": "a",
+        "time": 184.594
+      },
+      {
+        "text": "standoff,",
+        "time": 185.02
+      },
+      {
+        "text": "shoot",
+        "time": 186.357
+      },
+      {
+        "text": "50",
+        "time": 186.856
+      }
+    ]
   },
   {
     "time": 84.67,
-    "text": "Got FN, got ten milli', all black Draco, get stitchy"
+    "text": "Got FN, got ten milli', all black Draco, get stitchy",
+    "words": [
+      {
+        "text": "Got",
+        "time": 187.922
+      },
+      {
+        "text": "FN,",
+        "time": 188.348
+      },
+      {
+        "text": "got",
+        "time": 189.811
+      },
+      {
+        "text": "ten",
+        "time": 190.265
+      },
+      {
+        "text": "milli',",
+        "time": 190.7
+      },
+      {
+        "text": "all",
+        "time": 191.669
+      },
+      {
+        "text": "black",
+        "time": 192.112
+      },
+      {
+        "text": "Draco,",
+        "time": 192.61
+      },
+      {
+        "text": "get",
+        "time": 193.883
+      },
+      {
+        "text": "stitchy",
+        "time": 194.374
+      }
+    ]
   },
   {
     "time": 88.01,
-    "text": "Shoot your face off, it's itchy, Dior pants hold up sixty"
+    "text": "Shoot your face off, it's itchy, Dior pants hold up sixty",
+    "words": [
+      {
+        "text": "Shoot",
+        "time": 195.49
+      },
+      {
+        "text": "your",
+        "time": 195.897
+      },
+      {
+        "text": "face",
+        "time": 196.343
+      },
+      {
+        "text": "off,",
+        "time": 197.34
+      },
+      {
+        "text": "it's",
+        "time": 197.776
+      },
+      {
+        "text": "itchy,",
+        "time": 198.207
+      },
+      {
+        "text": "Dior",
+        "time": 199.303
+      },
+      {
+        "text": "pants",
+        "time": 199.726
+      },
+      {
+        "text": "hold",
+        "time": 200.169
+      },
+      {
+        "text": "up",
+        "time": 201.496
+      },
+      {
+        "text": "sixty",
+        "time": 201.985
+      }
+    ]
   },
   {
     "time": 91.42,
-    "text": "I can't land, G6 hit me, I'm the man, yeah, it's in me"
+    "text": "I can't land, G6 hit me, I'm the man, yeah, it's in me",
+    "words": [
+      {
+        "text": "I",
+        "time": 203.062
+      },
+      {
+        "text": "can't",
+        "time": 203.465
+      },
+      {
+        "text": "land,",
+        "time": 203.834
+      },
+      {
+        "text": "G6",
+        "time": 204.821
+      },
+      {
+        "text": "hit",
+        "time": 205.239
+      },
+      {
+        "text": "me,",
+        "time": 205.994
+      },
+      {
+        "text": "I'm",
+        "time": 206.705
+      },
+      {
+        "text": "the",
+        "time": 207.126
+      },
+      {
+        "text": "man,",
+        "time": 207.581
+      },
+      {
+        "text": "yeah,",
+        "time": 208.796
+      },
+      {
+        "text": "it's",
+        "time": 209.116
+      },
+      {
+        "text": "in",
+        "time": 209.661
+      },
+      {
+        "text": "me",
+        "time": 210.051
+      }
+    ]
   },
   {
     "time": 96.44,
-    "text": "♪"
+    "text": "♪",
+    "words": [
+      {
+        "text": "♪",
+        "time": 211.949
+      }
+    ]
   },
   {
     "time": 108.14,
-    "text": "Two new bad bitches, I got both of these hoes kissin'"
+    "text": "Two new bad bitches, I got both of these hoes kissin'",
+    "words": [
+      {
+        "text": "Two",
+        "time": 239.583
+      },
+      {
+        "text": "new",
+        "time": 240.421
+      },
+      {
+        "text": "bad",
+        "time": 241.445
+      },
+      {
+        "text": "bitches,",
+        "time": 242.351
+      },
+      {
+        "text": "I",
+        "time": 243.439
+      },
+      {
+        "text": "got",
+        "time": 243.902
+      },
+      {
+        "text": "both",
+        "time": 244.368
+      },
+      {
+        "text": "of",
+        "time": 244.78
+      },
+      {
+        "text": "these",
+        "time": 245.275
+      },
+      {
+        "text": "hoes",
+        "time": 246.274
+      },
+      {
+        "text": "kissin'",
+        "time": 247.178
+      }
+    ]
   },
   {
     "time": 111.34,
-    "text": "Two new bad bitches, I got both of these hoes kissin'"
+    "text": "Two new bad bitches, I got both of these hoes kissin'",
+    "words": [
+      {
+        "text": "Two",
+        "time": 248.147
+      },
+      {
+        "text": "new",
+        "time": 249.153
+      },
+      {
+        "text": "bad",
+        "time": 250.062
+      },
+      {
+        "text": "bitches,",
+        "time": 250.562
+      },
+      {
+        "text": "I",
+        "time": 250.996
+      },
+      {
+        "text": "got",
+        "time": 251.528
+      },
+      {
+        "text": "both",
+        "time": 252.012
+      },
+      {
+        "text": "of",
+        "time": 252.454
+      },
+      {
+        "text": "these",
+        "time": 252.87
+      },
+      {
+        "text": "hoes",
+        "time": 253.625
+      },
+      {
+        "text": "kissin'",
+        "time": 254.399
+      }
+    ]
   },
   {
     "time": 114.50999999999999,
-    "text": "Two new bad bitches, I got both of these hoes kissin'"
+    "text": "Two new bad bitches, I got both of these hoes kissin'",
+    "words": [
+      {
+        "text": "Two",
+        "time": 255.401
+      },
+      {
+        "text": "new",
+        "time": 256.476
+      },
+      {
+        "text": "bad",
+        "time": 257.449
+      },
+      {
+        "text": "bitches,",
+        "time": 258.452
+      },
+      {
+        "text": "I",
+        "time": 258.888
+      },
+      {
+        "text": "got",
+        "time": 259.331
+      },
+      {
+        "text": "both",
+        "time": 259.782
+      },
+      {
+        "text": "of",
+        "time": 260.286
+      },
+      {
+        "text": "these",
+        "time": 261.194
+      },
+      {
+        "text": "hoes",
+        "time": 261.721
+      },
+      {
+        "text": "kissin'",
+        "time": 262.155
+      }
+    ]
   },
   {
     "time": 118.05,
-    "text": "Two new bad bitches, I got both of these hoes kissin'"
+    "text": "Two new bad bitches, I got both of these hoes kissin'",
+    "words": [
+      {
+        "text": "Two",
+        "time": 263.147
+      },
+      {
+        "text": "new",
+        "time": 264.123
+      },
+      {
+        "text": "bad",
+        "time": 265.035
+      },
+      {
+        "text": "bitches,",
+        "time": 265.931
+      },
+      {
+        "text": "I",
+        "time": 266.372
+      },
+      {
+        "text": "got",
+        "time": 266.754
+      },
+      {
+        "text": "both",
+        "time": 267.201
+      },
+      {
+        "text": "of",
+        "time": 267.6
+      },
+      {
+        "text": "these",
+        "time": 267.812
+      },
+      {
+        "text": "hoes",
+        "time": 268.653
+      },
+      {
+        "text": "kissin'",
+        "time": 269.637
+      }
+    ]
   },
   {
     "time": 121.48,
-    "text": "Ooh, new swag, two bags on some Raf Simons"
+    "text": "Ooh, new swag, two bags on some Raf Simons",
+    "words": [
+      {
+        "text": "Ooh,",
+        "time": 270.437
+      },
+      {
+        "text": "new",
+        "time": 270.848
+      },
+      {
+        "text": "swag,",
+        "time": 272.214
+      },
+      {
+        "text": "two",
+        "time": 273.153
+      },
+      {
+        "text": "bags",
+        "time": 274.088
+      },
+      {
+        "text": "on",
+        "time": 274.54
+      },
+      {
+        "text": "some",
+        "time": 274.954
+      },
+      {
+        "text": "Raf",
+        "time": 276.039
+      },
+      {
+        "text": "Simons",
+        "time": 277.038
+      }
+    ]
   },
   {
     "time": 124.83,
     "text": "I was with Lil O, we got O's, smokin' Buku bitches",
-    "adlibs": "boop-boop"
+    "adlibs": "boop-boop",
+    "words": [
+      {
+        "text": "I",
+        "time": 277.446
+      },
+      {
+        "text": "was",
+        "time": 277.956
+      },
+      {
+        "text": "with",
+        "time": 278.405
+      },
+      {
+        "text": "Lil",
+        "time": 278.92
+      },
+      {
+        "text": "O,",
+        "time": 279.952
+      },
+      {
+        "text": "we",
+        "time": 280.376
+      },
+      {
+        "text": "got",
+        "time": 280.864
+      },
+      {
+        "text": "O's,",
+        "time": 281.754
+      },
+      {
+        "text": "smokin'",
+        "time": 282.211
+      },
+      {
+        "text": "Buku",
+        "time": 283.237
+      },
+      {
+        "text": "bitches",
+        "time": 283.584
+      }
+    ]
   },
   {
     "time": 128.26,
-    "text": "Rocked out the show, goin' crazy, I'ma break the ceilin'"
+    "text": "Rocked out the show, goin' crazy, I'ma break the ceilin'",
+    "words": [
+      {
+        "text": "Rocked",
+        "time": 284.676
+      },
+      {
+        "text": "out",
+        "time": 285.431
+      },
+      {
+        "text": "the",
+        "time": 285.858
+      },
+      {
+        "text": "show,",
+        "time": 286.253
+      },
+      {
+        "text": "goin'",
+        "time": 287.285
+      },
+      {
+        "text": "crazy,",
+        "time": 287.689
+      },
+      {
+        "text": "I'ma",
+        "time": 288.159
+      },
+      {
+        "text": "break",
+        "time": 289.597
+      },
+      {
+        "text": "the",
+        "time": 290.206
+      },
+      {
+        "text": "ceilin'",
+        "time": 290.725
+      }
+    ]
   },
   {
     "time": 131.55,
-    "text": "Psykotic, Bass Killer, psykotic, Bass Killer"
+    "text": "Psykotic, Bass Killer, psykotic, Bass Killer",
+    "words": [
+      {
+        "text": "Psykotic,",
+        "time": 291.882
+      },
+      {
+        "text": "Bass",
+        "time": 293.732
+      },
+      {
+        "text": "Killer,",
+        "time": 294.69
+      },
+      {
+        "text": "psykotic,",
+        "time": 295.588
+      },
+      {
+        "text": "Bass",
+        "time": 297.443
+      },
+      {
+        "text": "Killer",
+        "time": 298.357
+      }
+    ]
   },
   {
     "time": 135.5,
     "text": "New Goyard bag on me, new Goyard bag on me",
-    "adlibs": "yo"
+    "adlibs": "yo",
+    "words": [
+      {
+        "text": "New",
+        "time": 299.577
+      },
+      {
+        "text": "Goyard",
+        "time": 301.242
+      },
+      {
+        "text": "bag",
+        "time": 302.217
+      },
+      {
+        "text": "on",
+        "time": 302.657
+      },
+      {
+        "text": "me,",
+        "time": 303.088
+      },
+      {
+        "text": "new",
+        "time": 304.1
+      },
+      {
+        "text": "Goyard",
+        "time": 305.052
+      },
+      {
+        "text": "bag",
+        "time": 305.964
+      },
+      {
+        "text": "on",
+        "time": 306.414
+      },
+      {
+        "text": "me",
+        "time": 306.765
+      }
+    ]
   },
   {
     "time": 138.73,
     "text": "I just beatin' her back, I'm in it , I just beatin' her back, I'm in it",
-    "adlibs": "yeah"
+    "adlibs": "yeah",
+    "words": [
+      {
+        "text": "I",
+        "time": 307.934
+      },
+      {
+        "text": "just",
+        "time": 308.343
+      },
+      {
+        "text": "beatin'",
+        "time": 308.724
+      },
+      {
+        "text": "her",
+        "time": 309.155
+      },
+      {
+        "text": "back,",
+        "time": 309.626
+      },
+      {
+        "text": "I'm",
+        "time": 310.014
+      },
+      {
+        "text": "in",
+        "time": 310.443
+      },
+      {
+        "text": "it",
+        "time": 310.778
+      },
+      {
+        "text": ",",
+        "time": 311.587
+      },
+      {
+        "text": "I",
+        "time": 312.051
+      },
+      {
+        "text": "just",
+        "time": 312.499
+      },
+      {
+        "text": "beatin'",
+        "time": 312.802
+      },
+      {
+        "text": "her",
+        "time": 313.024
+      },
+      {
+        "text": "back,",
+        "time": 313.409
+      },
+      {
+        "text": "I'm",
+        "time": 313.835
+      },
+      {
+        "text": "in",
+        "time": 314.319
+      },
+      {
+        "text": "it",
+        "time": 314.959
+      }
+    ]
   },
   {
     "time": 142.16,
     "text": "And we all up on his ass, I'm prayin' to God, but I'm sinnin'",
-    "adlibs": "whoa"
+    "adlibs": "whoa",
+    "words": [
+      {
+        "text": "And",
+        "time": 315.371
+      },
+      {
+        "text": "we",
+        "time": 315.857
+      },
+      {
+        "text": "all",
+        "time": 316.297
+      },
+      {
+        "text": "up",
+        "time": 316.781
+      },
+      {
+        "text": "on",
+        "time": 317.238
+      },
+      {
+        "text": "his",
+        "time": 317.628
+      },
+      {
+        "text": "ass,",
+        "time": 318.004
+      },
+      {
+        "text": "I'm",
+        "time": 318.963
+      },
+      {
+        "text": "prayin'",
+        "time": 319.396
+      },
+      {
+        "text": "to",
+        "time": 319.859
+      },
+      {
+        "text": "God,",
+        "time": 320.254
+      },
+      {
+        "text": "but",
+        "time": 320.673
+      },
+      {
+        "text": "I'm",
+        "time": 320.998
+      },
+      {
+        "text": "sinnin'",
+        "time": 321.775
+      }
+    ]
   },
   {
     "time": 145.57,
     "text": "I'm prayin' to God, but I'm sinnin'",
-    "adlibs": "bleh"
+    "adlibs": "bleh",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 322.554
+      },
+      {
+        "text": "prayin'",
+        "time": 322.844
+      },
+      {
+        "text": "to",
+        "time": 323.146
+      },
+      {
+        "text": "God,",
+        "time": 323.645
+      },
+      {
+        "text": "but",
+        "time": 324.054
+      },
+      {
+        "text": "I'm",
+        "time": 324.359
+      },
+      {
+        "text": "sinnin'",
+        "time": 324.645
+      }
+    ]
   },
   {
     "time": 147.15,
-    "text": "I'm prayin' to God but I'm sinnin'"
+    "text": "I'm prayin' to God but I'm sinnin'",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 326.335
+      },
+      {
+        "text": "prayin'",
+        "time": 326.656
+      },
+      {
+        "text": "to",
+        "time": 326.977
+      },
+      {
+        "text": "God",
+        "time": 327.332
+      },
+      {
+        "text": "but",
+        "time": 327.652
+      },
+      {
+        "text": "I'm",
+        "time": 327.987
+      },
+      {
+        "text": "sinnin'",
+        "time": 328.374
+      }
+    ]
   },
   {
     "time": 148.76,
     "text": "Oh, what, I'm like Marilyn Manson",
-    "adlibs": "yeah"
+    "adlibs": "yeah",
+    "words": [
+      {
+        "text": "Oh,",
+        "time": 330.232
+      },
+      {
+        "text": "what,",
+        "time": 330.823
+      },
+      {
+        "text": "I'm",
+        "time": 331.339
+      },
+      {
+        "text": "like",
+        "time": 331.874
+      },
+      {
+        "text": "Marilyn",
+        "time": 332.245
+      },
+      {
+        "text": "Manson",
+        "time": 333.133
+      }
+    ]
   },
   {
     "time": 150.8,
     "text": "I'm-I'm like Marilyn Manson",
-    "adlibs": "yah"
+    "adlibs": "yah",
+    "words": [
+      {
+        "text": "I'm-I'm",
+        "time": 334.258
+      },
+      {
+        "text": "like",
+        "time": 335.281
+      },
+      {
+        "text": "Marilyn",
+        "time": 335.988
+      },
+      {
+        "text": "Manson",
+        "time": 336.789
+      }
+    ]
   },
   {
     "time": 152.87,
-    "text": "I'm sippin' lean with medicine"
+    "text": "I'm sippin' lean with medicine",
+    "words": [
+      {
+        "text": "I'm",
+        "time": 337.775
+      },
+      {
+        "text": "sippin'",
+        "time": 338.365
+      },
+      {
+        "text": "lean",
+        "time": 338.934
+      },
+      {
+        "text": "with",
+        "time": 339.563
+      },
+      {
+        "text": "medicine",
+        "time": 340.099
+      }
+    ]
   },
   {
     "time": 154.13,
     "text": "Ri-Rick Owens pants saggin'",
-    "adlibs": "yo"
+    "adlibs": "yo",
+    "words": [
+      {
+        "text": "Ri-Rick",
+        "time": 341.732
+      },
+      {
+        "text": "Owens",
+        "time": 342.241
+      },
+      {
+        "text": "pants",
+        "time": 343.529
+      },
+      {
+        "text": "saggin'",
+        "time": 344.336
+      }
+    ]
   },
   {
     "time": 156.1,
     "text": "We cut off they heads, snap it",
-    "adlibs": "pew-pew"
+    "adlibs": "pew-pew",
+    "words": [
+      {
+        "text": "We",
+        "time": 345.252
+      },
+      {
+        "text": "cut",
+        "time": 346.292
+      },
+      {
+        "text": "off",
+        "time": 346.652
+      },
+      {
+        "text": "they",
+        "time": 346.967
+      },
+      {
+        "text": "heads,",
+        "time": 347.225
+      },
+      {
+        "text": "snap",
+        "time": 348.058
+      },
+      {
+        "text": "it",
+        "time": 348.335
+      }
+    ]
   },
   {
     "time": 157.77,
-    "text": "We cut off they heads, snap it"
+    "text": "We cut off they heads, snap it",
+    "words": [
+      {
+        "text": "We",
+        "time": 349.643
+      },
+      {
+        "text": "cut",
+        "time": 349.997
+      },
+      {
+        "text": "off",
+        "time": 350.27
+      },
+      {
+        "text": "they",
+        "time": 350.556
+      },
+      {
+        "text": "heads,",
+        "time": 350.836
+      },
+      {
+        "text": "snap",
+        "time": 351.904
+      },
+      {
+        "text": "it",
+        "time": 352.15
+      }
+    ]
   },
   {
     "time": 159.05,
     "text": "Yeah, I'm dancin' with Dirty Diana",
-    "adlibs": "yeah"
+    "adlibs": "yeah",
+    "words": [
+      {
+        "text": "Yeah,",
+        "time": 353.453
+      },
+      {
+        "text": "I'm",
+        "time": 353.809
+      },
+      {
+        "text": "dancin'",
+        "time": 354.162
+      },
+      {
+        "text": "with",
+        "time": 354.536
+      },
+      {
+        "text": "Dirty",
+        "time": 355.238
+      },
+      {
+        "text": "Diana",
+        "time": 355.592
+      }
+    ]
   },
   {
     "time": 161.32,
     "text": "I got gold standards",
-    "adlibs": "whoa"
+    "adlibs": "whoa",
+    "words": [
+      {
+        "text": "I",
+        "time": 357.019
+      },
+      {
+        "text": "got",
+        "time": 357.62
+      },
+      {
+        "text": "gold",
+        "time": 358.108
+      },
+      {
+        "text": "standards",
+        "time": 359.259
+      }
+    ]
   },
   {
     "time": 162.9,
     "text": "I got a lean bladder, brah, I got a lean bladder",
-    "adlibs": "yeah, yeah, yeah"
+    "adlibs": "yeah, yeah, yeah",
+    "words": [
+      {
+        "text": "I",
+        "time": 361.122
+      },
+      {
+        "text": "got",
+        "time": 361.46
+      },
+      {
+        "text": "a",
+        "time": 361.849
+      },
+      {
+        "text": "lean",
+        "time": 362.225
+      },
+      {
+        "text": "bladder,",
+        "time": 363.084
+      },
+      {
+        "text": "brah,",
+        "time": 364.112
+      },
+      {
+        "text": "I",
+        "time": 365.063
+      },
+      {
+        "text": "got",
+        "time": 365.357
+      },
+      {
+        "text": "a",
+        "time": 365.647
+      },
+      {
+        "text": "lean",
+        "time": 365.916
+      },
+      {
+        "text": "bladder",
+        "time": 366.897
+      }
+    ]
   },
   {
     "time": 166.45,
     "text": "I got a lean bladder, I got a lean bladder",
-    "adlibs": "yeah, yeah, yeah"
+    "adlibs": "yeah, yeah, yeah",
+    "words": [
+      {
+        "text": "I",
+        "time": 367.803
+      },
+      {
+        "text": "got",
+        "time": 369.141
+      },
+      {
+        "text": "a",
+        "time": 369.511
+      },
+      {
+        "text": "lean",
+        "time": 369.759
+      },
+      {
+        "text": "bladder,",
+        "time": 370.694
+      },
+      {
+        "text": "I",
+        "time": 372.559
+      },
+      {
+        "text": "got",
+        "time": 372.823
+      },
+      {
+        "text": "a",
+        "time": 373.098
+      },
+      {
+        "text": "lean",
+        "time": 373.381
+      },
+      {
+        "text": "bladder",
+        "time": 374.366
+      }
+    ]
   },
   {
     "time": 169.51,
-    "text": "I feel like a king, ooh, yeah, I'm rocking the Rick, ooh, yeah"
+    "text": "I feel like a king, ooh, yeah, I'm rocking the Rick, ooh, yeah",
+    "words": [
+      {
+        "text": "I",
+        "time": 376.026
+      },
+      {
+        "text": "feel",
+        "time": 376.306
+      },
+      {
+        "text": "like",
+        "time": 376.546
+      },
+      {
+        "text": "a",
+        "time": 376.844
+      },
+      {
+        "text": "king,",
+        "time": 377.088
+      },
+      {
+        "text": "ooh,",
+        "time": 378.159
+      },
+      {
+        "text": "yeah,",
+        "time": 379.095
+      },
+      {
+        "text": "I'm",
+        "time": 379.678
+      },
+      {
+        "text": "rocking",
+        "time": 379.954
+      },
+      {
+        "text": "the",
+        "time": 380.258
+      },
+      {
+        "text": "Rick,",
+        "time": 380.56
+      },
+      {
+        "text": "ooh,",
+        "time": 381.842
+      },
+      {
+        "text": "yeah",
+        "time": 382.778
+      }
+    ]
   },
   {
     "time": 172.97,
-    "text": "I got all the breesh, ooh, slatt, yeah, these diamonds on me"
-  },
-  {
-    "time": 175.18,
-    "text": ""
+    "text": "I got all the breesh, ooh, slatt, yeah, these diamonds on me",
+    "words": [
+      {
+        "text": "I",
+        "time": 383.404
+      },
+      {
+        "text": "got",
+        "time": 383.697
+      },
+      {
+        "text": "all",
+        "time": 383.994
+      },
+      {
+        "text": "the",
+        "time": 384.284
+      },
+      {
+        "text": "breesh,",
+        "time": 384.602
+      },
+      {
+        "text": "ooh,",
+        "time": 385.634
+      },
+      {
+        "text": "slatt,",
+        "time": 386.585
+      },
+      {
+        "text": "yeah,",
+        "time": 387.255
+      },
+      {
+        "text": "these",
+        "time": 387.528
+      },
+      {
+        "text": "diamonds",
+        "time": 387.768
+      },
+      {
+        "text": "on",
+        "time": 388.138
+      },
+      {
+        "text": "me",
+        "time": 388.88
+      }
+    ]
   }
 ]
