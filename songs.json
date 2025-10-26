@@ -8978,6 +8978,16 @@
       "value": "B",
       "artist": "Playboi Carti, Lil Uzi Vert",
       "audio_id": 137554192734537
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 2.66,
+      "title": "Master Sword",
+      "value": "B",
+      "artist": "Shotgun Willy",
+      "audio_id": 117695256612835
     }
   ],
   "albums": [
