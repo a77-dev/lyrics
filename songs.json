@@ -8893,6 +8893,16 @@
       "color": "#9c1416",
       "image": 110638148562984,
       "pitch": 1,
+      "speed": 1.667,
+      "title": "Worldwide",
+      "value": "B",
+      "artist": "OsamaSon",
+      "audio_id": 138694781021254
+    },
+    {
+      "color": "#9c1416",
+      "image": 110638148562984,
+      "pitch": 1,
       "speed": 2.73,
       "title": "T193",
       "value": "B",
