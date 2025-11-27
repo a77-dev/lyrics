@@ -8443,6 +8443,17 @@
       "offset": 12,
       "audio_id": 95419101423720,
       "lyricsid": 24480023
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "sos",
+      "value": "B",
+      "artist": "che",
+      "offset": 12,
+      "audio_id": 119013317243821
     }
   ],
   "albums": [
