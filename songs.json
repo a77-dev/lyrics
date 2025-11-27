@@ -1259,11 +1259,12 @@
       "color": "#000000",
       "image": 0,
       "pitch": 1,
-      "speed": 3.03,
+      "speed": 2.5,
       "title": "Miley Cyrus",
       "value": "B",
       "artist": "che",
-      "audio_id": 120525804839082
+      "offset": 11.5,
+      "audio_id": 71089668571895
     },
     {
       "color": "#fffffc",
@@ -8454,6 +8455,17 @@
       "artist": "che",
       "offset": 12,
       "audio_id": 119013317243821
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "REEFER",
+      "value": "B",
+      "artist": "rexv2",
+      "offset": 12,
+      "audio_id": 119175989669754
     }
   ],
   "albums": [
