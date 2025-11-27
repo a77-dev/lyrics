@@ -215,6 +215,16 @@
       "color": "#000000",
       "image": 0,
       "pitch": 1,
+      "speed": 4.4,
+      "title": "Meat",
+      "value": "B",
+      "artist": "2slimey",
+      "audio_id": 73562905454908
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
       "speed": 2.5,
       "title": "Vulture Living",
       "value": "B",
@@ -2442,11 +2452,11 @@
       "color": "#FF6666",
       "image": 74082768952173,
       "pitch": 1,
-      "speed": 2,
+      "speed": 2.33,
       "title": "Been knew that",
       "value": "B",
       "artist": "Izaya Tiji",
-      "audio_id": 104895409082193
+      "audio_id": 117830038141570
     },
     {
       "color": "#000000",
@@ -2662,11 +2672,71 @@
       "color": "#ff1d65",
       "image": 97369466675408,
       "pitch": 1,
-      "speed": 2,
+      "speed": 3.31,
       "title": "rose",
       "value": "B",
       "artist": "jaydes",
-      "audio_id": 91301244451595
+      "audio_id": 109291018778897
+    },
+    {
+      "color": "#ff1d65",
+      "image": 97369466675408,
+      "pitch": 1,
+      "speed": 3.07,
+      "title": "anemic",
+      "value": "B",
+      "artist": "jaydes",
+      "audio_id": 70583580834333
+    },
+    {
+      "color": "#ff1d65",
+      "image": 97369466675408,
+      "pitch": 1,
+      "speed": 4.35,
+      "title": "let me b",
+      "value": "B",
+      "artist": "jaydes",
+      "audio_id": 107900279453024
+    },
+    {
+      "color": "#ff1d65",
+      "image": 97369466675408,
+      "pitch": 1,
+      "speed": 3.21,
+      "title": "numb",
+      "value": "B",
+      "artist": "jaydes",
+      "audio_id": 128670852354926
+    },
+    {
+      "color": "#ff1d65",
+      "image": 97369466675408,
+      "pitch": 1,
+      "speed": 2.34,
+      "title": "<3",
+      "value": "B",
+      "artist": "jaydes",
+      "audio_id": 76789214610490
+    },
+    {
+      "color": "#ff1d65",
+      "image": 97369466675408,
+      "pitch": 1,
+      "speed": 4.4,
+      "title": "fallen",
+      "value": "B",
+      "artist": "jaydes",
+      "audio_id": 77358221040909
+    },
+    {
+      "color": "#ff1d65",
+      "image": 97369466675408,
+      "pitch": 1,
+      "speed": 3.54,
+      "title": "valentine",
+      "value": "B",
+      "artist": "jaydes",
+      "audio_id": 106627525147577
     },
     {
       "color": "#ff1d65",
@@ -2762,21 +2832,21 @@
       "color": "#e31b96",
       "image": 133249031476835,
       "pitch": 1,
-      "speed": 4.14,
+      "speed": 4.13,
       "title": "vivienne",
       "value": "B",
       "artist": "jaydes",
-      "audio_id": 76967386017780
+      "audio_id": 137137797813006
     },
     {
       "color": "#948977",
       "image": 99372853357466,
       "pitch": 1,
-      "speed": 2,
+      "speed": 4.3,
       "title": "clueless",
       "value": "B",
       "artist": "jaydes",
-      "audio_id": 103731907149676
+      "audio_id": 128105149769850
     },
     {
       "color": "#978163",
@@ -2813,11 +2883,11 @@
       "color": "#ff1d65",
       "image": 97369466675408,
       "pitch": 1,
-      "speed": 4.23,
+      "speed": 4.26,
       "title": "kesha k",
       "value": "B",
       "artist": "jaydes",
-      "audio_id": 123773826431968
+      "audio_id": 119671778744573
     },
     {
       "color": "#ddc09e",
@@ -4153,6 +4223,26 @@
       "audio_id": 111922404320672
     },
     {
+      "color": "#ffffff",
+      "image": 0,
+      "pitch": 1,
+      "speed": 3.26,
+      "title": "Ouija",
+      "value": "B",
+      "artist": "Lucy Bedroque",
+      "audio_id": 115430616708245
+    },
+    {
+      "color": "#ffffff",
+      "image": 0,
+      "pitch": 1,
+      "speed": 2.75,
+      "title": "Lift, Jump, Exhale",
+      "value": "B",
+      "artist": "Lucy Bedroque",
+      "audio_id": 134981078719390
+    },
+    {
       "color": "#000000",
       "image": 0,
       "pitch": 1,
@@ -5139,21 +5229,21 @@
       "color": "#43333f",
       "image": 92920089483238,
       "pitch": 1,
-      "speed": 3.43,
+      "speed": 3.45,
       "title": "All Star",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 113240382245301
+      "audio_id": 116139985376088
     },
     {
       "color": "#ba151f",
       "image": 75628198135833,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 4.01,
       "title": "She Need A Ride",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 77388289686948
+      "audio_id": 130531016746207
     },
     {
       "color": "#ba151f",
@@ -5169,21 +5259,21 @@
       "color": "#ba151f",
       "image": 75628198135833,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 3.57,
       "title": "Round of Applause",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 111419845302310
+      "audio_id": 94130182409829
     },
     {
       "color": "#ba151f",
       "image": 75628198135833,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 3.54,
       "title": "Waffle House",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 120852493877501
+      "audio_id": 127395309362220
     },
     {
       "color": "#ba151f",
@@ -5229,11 +5319,11 @@
       "color": "#ba151f",
       "image": 75628198135833,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 3.16,
       "title": "Southside",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 89296851144203
+      "audio_id": 136566667177278
     },
     {
       "color": "#ba151f",
@@ -5259,11 +5349,11 @@
       "color": "#ba151f",
       "image": 75628198135833,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 2.98,
       "title": "GTFO The Room",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 103548661903231
+      "audio_id": 126792856299714
     },
     {
       "color": "#ba151f",
@@ -5279,11 +5369,11 @@
       "color": "#ba151f",
       "image": 75628198135833,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 4.09,
       "title": "Jumpout",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 134820095052886
+      "audio_id": 100054419267060
     },
     {
       "color": "#ba151f",
@@ -5299,11 +5389,11 @@
       "color": "#ba151f",
       "image": 75628198135833,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 3.73,
       "title": "Going Dumbo",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 103562688886640
+      "audio_id": 91702893424554
     },
     {
       "color": "#000000",
@@ -5319,11 +5409,11 @@
       "color": "#e7028b",
       "image": 114387253592970,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 4.18,
       "title": "popstar",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 86798432417801
+      "audio_id": 132350795743683
     },
     {
       "color": "#8e121a",
@@ -5470,11 +5560,21 @@
       "color": "#43333f",
       "image": 92920089483238,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 2.9,
       "title": "Blonde",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 133480813051748
+      "audio_id": 80054679544991
+    },
+    {
+      "color": "#43333f",
+      "image": 92920089483238,
+      "pitch": 1,
+      "speed": 3.39,
+      "title": "Baghdad",
+      "value": "B",
+      "artist": "OsamaSon",
+      "audio_id": 137942647602989
     },
     {
       "color": "#000000",
@@ -5490,11 +5590,11 @@
       "color": "#000000",
       "image": 0,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 4.22,
       "title": "Congrats",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 128165208254263
+      "audio_id": 85635139192431
     },
     {
       "color": "#000000",
@@ -5600,21 +5700,61 @@
       "color": "#000000",
       "image": 0,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 3.24,
       "title": "Nothing",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 87466466095774
+      "audio_id": 71481150462952
     },
     {
       "color": "#000000",
       "image": 0,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 3.83,
+      "title": "Pop",
+      "value": "B",
+      "artist": "OsamaSon",
+      "audio_id": 72859066161867
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 4.3,
+      "title": "Str8 Flexin",
+      "value": "B",
+      "artist": "OsamaSon",
+      "audio_id": 71535799961471
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 3.57,
       "title": "For Da Flex",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 129366372383894
+      "audio_id": 111381545552404
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 2.6,
+      "title": "Boss Up",
+      "value": "B",
+      "artist": "OsamaSon",
+      "audio_id": 83696353663989
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 2.98,
+      "title": "Kome Thru",
+      "value": "B",
+      "artist": "OsamaSon",
+      "audio_id": 137741628272498
     },
     {
       "color": "#000000",
@@ -5670,11 +5810,11 @@
       "color": "#000000",
       "image": 0,
       "pitch": 1,
-      "speed": 2.5,
+      "speed": 3.29,
       "title": "Summer Sixteen",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 89994793856462
+      "audio_id": 71830539174242
     },
     {
       "color": "#000000",
@@ -8466,6 +8606,26 @@
       "artist": "rexv2",
       "offset": 12,
       "audio_id": 119175989669754
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 4.35,
+      "title": "sub zero",
+      "value": "B",
+      "artist": "bleood",
+      "audio_id": 81862879682248
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 4.37,
+      "title": "BML",
+      "value": "B",
+      "artist": "Katozai",
+      "audio_id": 134441658554347
     }
   ],
   "albums": [
