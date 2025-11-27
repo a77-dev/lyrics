@@ -2822,11 +2822,11 @@
       "color": "#ffffff",
       "image": 108970189775239,
       "pitch": 1,
-      "speed": 3.35,
+      "speed": 3.34,
       "title": "sick",
       "value": "B",
       "artist": "jaydes",
-      "audio_id": 125343364489251
+      "audio_id": 129859580901798
     },
     {
       "color": "#e31b96",
@@ -2852,11 +2852,11 @@
       "color": "#978163",
       "image": 93429441761336,
       "pitch": 1,
-      "speed": 4.02,
+      "speed": 4.01,
       "title": "south",
       "value": "B",
       "artist": "jaydes",
-      "audio_id": 102825890406751
+      "audio_id": 106145546437672
     },
     {
       "color": "#ff1d65",
@@ -3478,7 +3478,7 @@
       "title": "melatonin",
       "value": "B",
       "artist": "jaydes & Yung Fazo",
-      "audio_id": 84820208226049
+      "audio_id": 123669492103274
     },
     {
       "color": "#000000",
@@ -3674,11 +3674,11 @@
       "color": "#000000",
       "image": 0,
       "pitch": 1,
-      "speed": 3.84,
-      "title": "blocklist",
+      "speed": 2.78,
+      "title": "slide",
       "value": "B",
-      "artist": "KD!",
-      "audio_id": 121741106505630
+      "artist": "KD!, prettifun & relmigo",
+      "audio_id": 104104213965508
     },
     {
       "color": "#fffffc",
@@ -6730,16 +6730,6 @@
       "value": "B",
       "artist": "RainingLol",
       "audio_id": 96377394953708
-    },
-    {
-      "color": "#fffffc",
-      "image": 0,
-      "pitch": 1,
-      "speed": 1.98,
-      "title": "러시안 룰렛 Russian Roulette",
-      "value": "B",
-      "artist": "Red Velvet",
-      "audio_id": 85791804021155
     },
     {
       "color": "#a662ad",
