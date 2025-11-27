@@ -8431,6 +8431,18 @@
       "value": "B",
       "artist": "Łee",
       "audio_id": 119148631724512
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "catastrophe",
+      "value": "B",
+      "artist": "Ken Carson",
+      "offset": 12,
+      "audio_id": 95419101423720,
+      "lyricsid": 24480023
     }
   ],
   "albums": [
