@@ -5941,11 +5941,12 @@
       "color": "#9c1416",
       "image": 110638148562984,
       "pitch": 1,
-      "speed": 4.13,
+      "speed": 2.5,
       "title": "Get Away",
       "value": "B",
       "artist": "OsamaSon",
-      "audio_id": 93638135573060
+      "offset": 12,
+      "audio_id": 78969814330271
     },
     {
       "color": "#9c1416",
@@ -6520,6 +6521,17 @@
       "value": "B",
       "artist": "prettifun",
       "audio_id": 134344782856910
+    },
+    {
+      "color": "#06ecf7",
+      "image": 93562692378568,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "Feel Like Uzi",
+      "value": "B",
+      "artist": "prettifun",
+      "offset": 12,
+      "audio_id": 104340995090255
     },
     {
       "color": "#fffffc",
