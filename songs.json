@@ -8632,8 +8632,8 @@
       "audio_id": 134441658554347
     },
     {
-      "color": "#000000",
-      "image": 0,
+      "color": "#774272",
+      "image": 131749661149801,
       "pitch": 1,
       "speed": 2.5,
       "title": "Demigod",
@@ -8642,14 +8642,74 @@
       "audio_id": 79530618981711
     },
     {
-      "color": "#000000",
-      "image": 0,
+      "color": "#774272",
+      "image": 131749661149801,
       "pitch": 1,
       "speed": 2.5,
       "title": "Power 4",
       "value": "B",
       "artist": "slayr",
       "audio_id": 103939563908580
+    },
+    {
+      "color": "#774272",
+      "image": 131749661149801,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "Sloppy Joe",
+      "value": "B",
+      "artist": "slayr",
+      "audio_id": 128368266342279
+    },
+    {
+      "color": "#774272",
+      "image": 131749661149801,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "Death By MP3",
+      "value": "B",
+      "artist": "slayr",
+      "audio_id": 113228940790225
+    },
+    {
+      "color": "#774272",
+      "image": 131749661149801,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "Set In Stone",
+      "value": "B",
+      "artist": "slayr",
+      "audio_id": 118022108517614
+    },
+    {
+      "color": "#774272",
+      "image": 131749661149801,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "Holding",
+      "value": "B",
+      "artist": "slayr",
+      "audio_id": 123009678635416
+    },
+    {
+      "color": "#774272",
+      "image": 131749661149801,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "Phone (Interlude)",
+      "value": "B",
+      "artist": "slayr & TJAYY",
+      "audio_id": 107050651385930
+    },
+    {
+      "color": "#774272",
+      "image": 131749661149801,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "Never Go Down",
+      "value": "B",
+      "artist": "slayr",
+      "audio_id": 89391890204731
     }
   ],
   "albums": [
