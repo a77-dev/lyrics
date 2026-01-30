@@ -8630,6 +8630,26 @@
       "value": "B",
       "artist": "Katozai",
       "audio_id": 134441658554347
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "Demigod",
+      "value": "B",
+      "artist": "slayr",
+      "audio_id": 79530618981711
+    },
+    {
+      "color": "#000000",
+      "image": 0,
+      "pitch": 1,
+      "speed": 2.5,
+      "title": "Power 4",
+      "value": "B",
+      "artist": "slayr",
+      "audio_id": 103939563908580
     }
   ],
   "albums": [
